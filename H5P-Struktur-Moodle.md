@@ -1,12 +1,23 @@
 # Kursname
 
-## Einführung
+## Herzlich Willkommen!
 
-Willkommen in diesem Kurs! Hier finden Sie eine Übersicht über die Kursinhalte:
+Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch praktische Fähigkeiten zu vermitteln, damit Sie Ihre eigenen interaktiven Lernmaterialien erstellen und effektiv und sinnvoll in Ihren Moodle-Kursen einsetzen können.
 
-1. **Thema 1**: Überblick und Einführung
-2. **Thema 2**: Vertiefung und Übungen
-3. **Thema 3**: Abschluss und Reflexion
+Im Laufe des Kurses werden Sie ...
+
+- einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
+- Die Einbindungsmöglichkeiten von H5P in Moodle kennen und anwenden können
+- Den didaktischen Nutzen des Tools reflektieren und für die eigene Lehre adaptieren können
+- Das Tool H5P in einer Mikro-Übung praktisch kennenlernen und anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können
+
+ 
+### Der folgende Fahrplan gibt Ihnen einen Überblick über die Kursstruktur:
+
+ERGÄNZEN *Nutzen Sie gern das Etherpad, um Erfahrungen zu teilen und Fragen zu sammeln.*
+
+Nun aber erst einmal viel Spaß bei den ersten Schritten mit dem "kleinen Alleskönner-Tool"!
+
 
 ---
 
