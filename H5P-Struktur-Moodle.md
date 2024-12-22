@@ -3,7 +3,7 @@
 Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch praktische Fähigkeiten zu vermitteln, damit Sie Ihre eigenen interaktiven Lernmaterialien erstellen und effektiv und sinnvoll in Ihren Moodle-Kursen einsetzen können.
 
 **Der folgende Fahrplan gibt Ihnen einen Überblick über die Kursstruktur:**
-<div style="width: 70%; margin: 0 auto;">
+<div style="width: 100%; margin: 0 auto;">
 
 <iframe src="https://h5p.org/h5p/embed/1514564" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 
@@ -20,9 +20,9 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 
 
 ### H5P - Was ist das?
-![Einführungsbild](Bilder/H5P-WieGehtDas.jpg style="width: 100%; height: auto;" alt="Ein großflächiges Bild")
+![Einführungsbild](Bilder/H5P-WieGehtDas.jpg)
 
-<div style="width: 70%; margin: 0 auto;">  
+<div style="width: 50%; margin: 0 auto;">  
 <iframe src="https://h5p.org/h5p/embed/1514563" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
