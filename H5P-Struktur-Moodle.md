@@ -20,12 +20,11 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 
 
 ### H5P - Was ist das?
-![Einführungsbild](Bilder/H5P-WieGehtDas.jpg)
-  
+![Einführungsbild](Bilder/H5P-WieGehtDas.jpg style="width: 100%; height: auto;" alt="Ein großflächiges Bild")
+
+<div style="width: 70%; margin: 0 auto;">  
 <iframe src="https://h5p.org/h5p/embed/1514563" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
-
-Die Dialog-Karten enthalten Informationen zur Entstehung, Entwicklung und Besonderheiten von H5P
-
+</div>
 
 ### H5P - Wie geht das?
 
