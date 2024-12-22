@@ -10,16 +10,18 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 - Das Tool H5P in einer Mikro-Übung praktisch kennenlernen und anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können
 
 ### Der folgende Fahrplan gibt Ihnen einen Überblick über die Kursstruktur:
-
+<iframe src="https://h5p.org/h5p/embed/1514564" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 Nun aber erst einmal viel Spaß bei den ersten Schritten mit dem "kleinen Alleskönner-Tool"!
 
 ### H5P - Was ist das?
 ![Einführungsbild](Bilder/H5P-WieGehtDas.jpg)
-    Icon H5P
-    H5P - Was ist das? (Dialog Cards) Interaktiver Inhalt
-    Für Teilnehmer/innen verborgen
+  
+<iframe src="https://h5p.org/h5p/embed/1514563" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 
-H5P - Wie geht das?
+Die Dialog-Karten enthalten Informationen zur Entstehung, Entwicklung und Besonderheiten von H5P
+
+
+### H5P - Wie geht das?
 
     H5P stellt über 50 verschiedene Inhaltstypen als Schablone für die Kombination von Medien zur Verfügung. 
 
@@ -295,78 +297,5 @@ Impressum | Benutzerordnung mit Informationspflichten nach DS-GVO
 Nun aber erst einmal viel Spaß bei den ersten Schritten mit dem "kleinen Alleskönner-Tool"!
 
 
-### Thema 1: Überblick und Einführung
 
-### Lernziele
-
-- Verständnis der Grundlagen
-- Übersicht über die Hauptthemen
-
-![Einführungsbild](./path/to/image1.jpg)
-
----
-
-### H5P-Interaktion
-
-[H5P-Link einfügen](#)
-
----
-
-### Übung: Visualisierung
-
-![Grafik](./path/to/image2.jpg)
-
----
-
-## Thema 2: Vertiefung und Übungen
-
-### Lernziele
-
-- Ausbau des Wissens
-- Praktische Anwendung
-
-![Vertiefungsbild](./path/to/image3.jpg)
-
----
-
-### H5P-Interaktion
-
-[H5P-Link einfügen](#)
-
----
-
-### Übung: Quiz und Reflexion
-
-![Übungsbild](./path/to/image4.jpg)
-
----
-
-## Thema 3: Abschluss und Reflexion
-
-### Lernziele
-
-- Zusammenfassung
-- Feedback und Perspektiven
-
-![Abschlussbild](./path/to/image5.jpg)
-
----
-
-### H5P-Interaktion
-
-[H5P-Link einfügen](#)
-
----
-
-## Materialien und Ressourcen
-
-1. [Material 1: PDF-Dokument](./path/to/document1.pdf)
-2. [Material 2: Video](./path/to/video.mp4)
-3. [Material 3: Externes Tool](#)
-
----
-
-## Abschlussquiz
-
-[H5P-Quiz-Link einfügen](#)
 
