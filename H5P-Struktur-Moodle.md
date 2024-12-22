@@ -3,7 +3,12 @@
 Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch praktische Fähigkeiten zu vermitteln, damit Sie Ihre eigenen interaktiven Lernmaterialien erstellen und effektiv und sinnvoll in Ihren Moodle-Kursen einsetzen können.
 
 **Der folgende Fahrplan gibt Ihnen einen Überblick über die Kursstruktur:**
+<div style="width: 70%; margin: 0 auto;">
+
 <iframe src="https://h5p.org/h5p/embed/1514564" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
+
+</div>
+
 
 **Im Laufe des Kurses werden Sie ...**
 - einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
