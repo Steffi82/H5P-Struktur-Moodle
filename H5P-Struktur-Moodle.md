@@ -13,6 +13,8 @@ Im Laufe des Kurses werden Sie ...
 
  
 ### Der folgende Fahrplan gibt Ihnen einen Überblick über die Kursstruktur:
+## H5P Interaktion: Fahrplan Kurs
+<iframe src="https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/H5P/fahrplan-kurs-h5p.h5p" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 
 ERGÄNZEN *Nutzen Sie gern das Etherpad, um Erfahrungen zu teilen und Fragen zu sammeln.*
 
