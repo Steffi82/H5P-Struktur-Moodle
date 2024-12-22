@@ -1,10 +1,8 @@
-# Kursname
-
-## Herzlich Willkommen!
+# Herzlich Willkommen!
 
 Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch praktische Fähigkeiten zu vermitteln, damit Sie Ihre eigenen interaktiven Lernmaterialien erstellen und effektiv und sinnvoll in Ihren Moodle-Kursen einsetzen können.
 
-Im Laufe des Kurses werden Sie ...
+## Im Laufe des Kurses werden Sie ...
 
 - einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
 - Die Einbindungsmöglichkeiten von H5P in Moodle kennen und anwenden können
@@ -13,8 +11,7 @@ Im Laufe des Kurses werden Sie ...
 
  
 ### Der folgende Fahrplan gibt Ihnen einen Überblick über die Kursstruktur:
-## H5P Interaktion: Fahrplan Kurs
-[iframe](https://h5p.org/h5p/embed/1514563)
+[iframe](src="https://h5p.org/h5p/embed/1514563" width="1091" height="705" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="H5P - Was ist das? (Dialog Cards)"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>)
 
 
 ERGÄNZEN *Nutzen Sie gern das Etherpad, um Erfahrungen zu teilen und Fragen zu sammeln.*
