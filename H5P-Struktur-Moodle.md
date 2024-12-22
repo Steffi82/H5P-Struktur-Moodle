@@ -14,7 +14,7 @@ Im Laufe des Kurses werden Sie ...
  
 ### Der folgende Fahrplan gibt Ihnen einen Überblick über die Kursstruktur:
 ## H5P Interaktion: Fahrplan Kurs
-<iframe src="https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/H5P/fahrplan-kurs-h5p.h5p" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
+<iframe src="https://h5p.org/h5p/embed/1514563" width="971" height="705" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="H5P - Was ist das? (Dialog Cards)"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ERGÄNZEN *Nutzen Sie gern das Etherpad, um Erfahrungen zu teilen und Fragen zu sammeln.*
 
