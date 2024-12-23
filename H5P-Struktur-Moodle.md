@@ -9,7 +9,7 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 >**Metadaten**
 
 
-**Lernziele**: <br>
+**Lernziele**:
 * einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
 * Das Tool H5P in einer Mikro-Übung praktisch kennenlernen
 * Die Einbindungsmöglichkeiten von H5P via iFrame (z.B. in Moodle) kennen und anwenden können
