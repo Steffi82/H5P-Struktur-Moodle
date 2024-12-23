@@ -9,7 +9,6 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 
 </div>
 
-
 **Im Laufe des Kurses werden Sie ...**
 - einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
 - Die Einbindungsmöglichkeiten von H5P in Moodle kennen und anwenden können
@@ -19,48 +18,41 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 *Nun aber erst einmal viel Spaß bei den ersten Schritten mit dem "kleinen Alleskönner-Tool"!*
 
 
-### H5P - Was ist das?
-![Einführungsbild](Bilder/H5P-WieGehtDas.jpg)
+## H5P - Was ist das?
+![Einführungsbild](Bilder/H5P-WasKannDas.jpg)
 
 <div style="width: 50%; margin: 0 auto;">  
 <iframe src="https://h5p.org/h5p/embed/1514563" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
-### H5P - Wie geht das?
+## H5P - Wie geht das?
+![Einführungsbild](Bilder/H5P-WieGehtDas.jpg)
+H5P stellt über 50 verschiedene Inhaltstypen als Schablone für die Kombination von Medien zur Verfügung. 
 
-    H5P stellt über 50 verschiedene Inhaltstypen als Schablone für die Kombination von Medien zur Verfügung. 
+Das bedeutet, dass eine Voraussetzung ist, dass bereits eigene Inhalte vorliegen, die dann in die Inhaltstypen eingefügt und dadurch interaktiv angereichert werden können. Texte können auch direkt eingegeben werden, alle multimedialen Elemente (Bilder/Grafiken, Audio und Video) müssen eingefügt oder können (im Falle von Audios und Videos) verlinkt werden. 
 
-    Das bedeutet, dass eine Voraussetzung ist, dass bereits eigene Inhalte vorliegen, die dann in die Inhaltstypen eingefügt und dadurch interaktiv angereichert werden können. Texte können auch direkt eingegeben werden, alle multimedialen Elemente (Bilder/Grafiken, Audio und Video) müssen eingefügt oder können (im Falle von Audios und Videos) verlinkt werden. 
+> Nicht erschrecken: Falls kein eigenes Material zur Verfügung steht, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.' 
 
-    Nicht erschrecken: Falls kein eigenes Material zur Verfügung steht, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.
-
-    Falls Sie dazu Fragen haben, wenden Sie sich gern an uns, wir beraten Sie gern!
-    Icon Verzeichnis
-    Material zum Einstieg Verzeichnis
-    Sie möchten H5P am liebsten sofort ausprobieren? Dann los!
-
-    Wer gerade nicht hybrid beim Workshop mitmacht, findet hier eine Klickanleitung zu dieser H5P-Mikro-Einstiegs-Übung!
-        Ruft die Webseite "Einstieg H5P" auf
-        ladet das Bild aus diesem Verzeichnis herunter
+**Sie möchten H5P am liebsten sofort ausprobieren? Dann los!**
+- Gehe auf die Webseite "Einstieg H5P" auf
+ladet das Bild aus diesem Verzeichnis herunter
         dann gehts los: klickt einfach mit!
     	
 
-     
-    Icon H5P
-    Mein erstes H5P Interaktiver Inhalt
-    Für Teilnehmer/innen verborgen
+## H5P in Moodle - Wie kommt es dahin?
+![Einführungsbild](Bilder/h5p_2.jpg)
 
-H5P in Moodle - Wie kommt es dahin?
 
-    Icon H5P
-    Was versteckt sich in diesem H5P-Element? Interaktiver Inhalt
-    Icon H5P
-    H5P auf Kursebene in Moodle via iFrame Interaktiver Inhalt
-    Für Teilnehmer/innen verborgen
 
-    ** das Video zur Anleitung ist noch in Arbeit **
+Ein neu angelegtes H5P Element wird auf der Kursebene in Moodle so angezeigt:
+![Einführungsbild](Bilder/h5p-moodle-kursebene.jpg)
 
-H5P - Was kann das?
+Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, sind folgende Schritte notwendig:
+<div style="width: 50%; margin: 0 auto;">  
+<iframe src="https://h5p.org/h5p/embed/1514566" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+   
+## H5P - Was kann das?
 
     H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Material medial gestützt angereichert wird. In Moodle-Kursen können damit verschiedene Zwecke erreicht bzw. Ziele verfolgt werden:
 
