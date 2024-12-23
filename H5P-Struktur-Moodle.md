@@ -17,23 +17,25 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 ## H5P - Was ist das?
 ![Einführungsbild](Bilder/H5P-WasIstDas.jpg)
 
-<div style="width: 30%; margin: 0 auto;">  
+<div style="width: 60%; margin: 0 auto;">  
 <iframe src="https://h5p.org/h5p/embed/1514563" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 ## H5P - Wie geht das?
 ![Einführungsbild](Bilder/H5P-WieGehtDas.jpg)
+
 H5P stellt über 50 verschiedene Inhaltstypen als Schablone für die Kombination von Medien zur Verfügung, um OER (Open Educational Resources/Offene Bildungsresourcen) produzieren zu können
 
 > Wichtig: Offene Ressourcen sind nicht gleich offene **Bildungs-**Resourcen!
+> Das bedeutet, dass multimediale Elemente (Bilder/Grafiken, Audio und Video) nicht in H5P erstellt werden, sondern vorher gesucht/produziert sein müssen. Sie können dann in die verschiedenen Schablonen eingefügt oder verlinkt werden, bevor sie mit interaktiven Elementen angereichert werden können.
 
-Das bedeutet, dass multimediale Elemente (Bilder/Grafiken, Audio und Video) nicht in H5P erstellt werden, sondern vorher gesucht/produziert sein müssen. Sie können dann in die verschiedenen Schablonen eingefügt oder verlinkt werden, bevor sie mit interaktiven Elementen angereichert werden können.
+Keine Sorge: Falls sie kein eigenes Material zur Verfügung haben, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.
 
->*Nicht erschrecken: Falls kein eigenes Material zur Verfügung steht, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.*
 ---
+
 **Sie möchten H5P am liebsten sofort ausprobieren? Dann los!**
 In ca. 10 Minuten das folgende H5P erstellen:
-<div style="width: 10%; margin: 0 auto;">  
+<div style="width: 50%; margin: 0 auto;">  
 <iframe src="https://h5p.org/h5p/embed/1514565" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
@@ -58,9 +60,10 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
    
 ## H5P - Was kann das?
 ![Einführungsbild](Bilder/H5P-WasKannDas.jpg)
+
 H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Material medial gestützt angereichert wird. In Moodle-Kursen können damit verschiedene Zwecke erreicht bzw. Ziele verfolgt werden:
 
-#### Wissen aufbereiten  
+### Wissen aufbereiten  
 **verschiedene mediale Möglichkeiten erlauben diverse Zugänge zu Inhalten:**
 
 - Wissen interessant und anschaulich aufbereiten:
@@ -88,7 +91,7 @@ H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Materi
 >*dfsdf*
 
 
-#### Kurse strukturieren
+### Kurse strukturieren
 **durch optische und interaktive Elemente Orientierung bieten und den Lernweg leiten:**
 - orientieren und leiten:
 *Mit dem **Image Hotspots** lässt sich ein Überblick über einen Kurs verschaffen - siehe am Beispiel der Roadmap dieses Kurses, die erweitert auch zur Semesterplanung eingesetzt werden kann*
@@ -99,45 +102,47 @@ H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Materi
 - horizontale Blickführung:
 *Bilder im **Image-Slider**, aber auch Course-Presentations können per Klick durchlaufen werden,  es empfielt sich dabei immer auf den Mehrwert der Darstellung zu achten. Ein Beispiel findet sich oben im Kurs bei der Einbettung von H5P in Moodle. Ein weiteres Inhaltselement ist das "Agamotto", in dem Bilder überblendet werden können.*
 
-        Flipping Around:
-        Mit dem Inhaltstyp "Dialog-Cards": Ein Beispiel findet sich oben im Abschnitt "Was ist H5P?" 
+- Flipping Around:
+  Mit dem Inhaltstyp "Dialog-Cards"
 
-    Icon H5P
-    HRW Beispiel | PAE I – Content Workflow | Irina Simon (Kopie) Interaktiver Inhalt
-    Für Teilnehmer/innen verborgen
-    Was versteht man unter einem statistischen Test und welche Hauptzwecke verfolgt dieser?
-    Welche grundlegenden Schritte sind bei der Durchführung eines Hypothesentests zu beachten?
-    Wie werden die Nullhypothese und die Alternativhypothese in einem statistischen Test definiert?
-    Was bedeutet das Signifikanzniveau in einem statistischen Test und wie wird es üblicherweise festgelegt?
-    Wie wird die Teststatistik in einem Hypothesentest berechnet und interpretiert?
+  
+### Self-Assessment ermöglichen  - dank vielfältiger Frage- und Aufgabentypen
+**neben der Möglichkeit, Verständnisfragen über ein Accordeon darzustellen, gibt s noch vielfältigere weitere Frage-/ und Aufgabearten, die sich folgendermaßen clustern lassen:**
+- Fragetypen: 
+*neben **Single-** und **Multiple-Choice** Aufgaben können auch **Flashcards** und eine **zusammenfassende Aufgabe** zum Einsatz kommen.
+> Beispiel | Quiz (Question Set | ...zum Flüssigkeitsthermometer Interaktiver Inhalt
 
-        Self-Assessment ermöglichen  - dank vielfältiger Frage- und Aufgabentypen
+- Drag&Drop: 
+*Etwas (Text oder Bild) muss an die richtige Stelle gezogen werden.
+> Beispiel | Quiz (Question Set | ...zum Flüssigkeitsthermometer Interaktiver Inhalt
 
-    neben der Möglichkeit, Verständnisfragen über ein Accordeon darzustellen, gibt s noch vielfältigere weitere Frage-/ und Aufgabearten, die sich folgendermaßen clustern lassen:
-        Fragetypen: neben Single- und Multiple Choice Aufgaben können auch Flashcards und eine zusammenfassende Aufgabe zum Einsatz kommen
-        Drag&Drop: Etwas (Text oder Bild) an die richtige Stelle ziehen
-        Auswählen: z.B. Worte markieren, Bilder auswählen oder Hotsopts finden.
-        Sortieren: sowohl Text (Absätze/Paragraphs) als auch Bilder (Image Sequencing
+- Auswählen: 
+*z.B. Worte markieren, Bilder auswählen oder Hotsopts finden*
+> Beispiel | Quiz (Question Set | ...zum Flüssigkeitsthermometer Interaktiver Inhalt
 
-    Aufgabentypen mit Freitexteingaben wurden bewusst ausgelassen, da diese sich in Moodle besser über Abgaben realisieren lassen.
+> Beispiel | Quiz (Question Set | ...zum Flüssigkeitsthermometer Interaktiver Inhalt
 
-    Icon H5P
-    Beispiel | Quiz (Question Set | ...zum Flüssigkeitsthermometer Interaktiver Inhalt
+- Sortieren: 
+* ist sowohl für Text (**Absätze/Paragraphs**) als auch für Bilder (**Image Sequencing**) möglich.
 
-        Gamification  - Lernangebote mit (vereinzelten) Spielelelementen anreichern
-        für Details ist der Abschnitt„Gamification“ im E-Learning Kurs „Möglichkeiten und Tools“ lesenswert!
+> Beispiel | Quiz (Question Set | ...zum Flüssigkeitsthermometer Interaktiver Inhalt
+  
+> Beispiel | Quiz (Question Set | ...zum Flüssigkeitsthermometer Interaktiver Inhalt
 
-    Icon H5P
-    Crossword | Kreuzworträtsel Elektrostatik Interaktiver Inhalt
-    Icon H5P
-    Memory Game | Schmetterling-und-Raupe Interaktiver Inhalt
-    Icon H5P
-    Find the Words | Komplexe Zahlen Interaktiver Inhalt
-    Icon H5P
-    Virtual Tour (360) | Das Forum Romanum: Das Haus der Vestalinnen Interaktiver Inhalt
-    	Ein sehr aufwändiges Branching Szanario ist das preisgekrönte Serious Game eines Toronto'er Hochschulkonsortiums "Skills Practice: A Home Visit", in dem ein Hausbesuch aus der Perspektive einer/eines Sozialarbeitenden erlebbar gemacht wird.
+> **Achtung:** Aufgabentypen mit Freitexteingaben wurden bewusst ausgelassen, da diese sich in Moodle besser über Abgaben realisieren lassen.
 
---- Nachspielzeit --- H5P zum Nachbauen :) ---
+
+
+### Gamification
+**meint, Lernangebote mit (vereinzelten) Spielelelementen anzureichern**
+> Crossword | Kreuzworträtsel Elektrostatik Interaktiver Inhalt
+> Memory Game | Schmetterling-und-Raupe Interaktiver Inhalt
+> Find the Words | Komplexe Zahlen Interaktiver Inhalt
+> Virtual Tour (360) | Das Forum Romanum: Das Haus der Vestalinnen Interaktiver Inhalt
+
+*Ein sehr aufwändiges Branching Szanario ist das preisgekrönte Serious Game eines Toronto'er Hochschulkonsortiums "Skills Practice: A Home Visit", in dem ein Hausbesuch aus der Perspektive einer/eines Sozialarbeitenden erlebbar gemacht wird.* 
+
+## Nachspielzeit --- H5P zum Nachbauen :) ---
 
     Icon Verzeichnis
     H5P zum Nachbauen | Interaktives Buch 1 Verzeichnis
