@@ -194,7 +194,97 @@ Die bebilderte <a href="Link zur Anleitung">Anleitung</a> führt Sie per textlic
 </div>
 </div>
 
+<div style="width: 100%; background-color: #f0f0f0; padding: 15px; border: 1pt solid #00ff00; border-radius: 5px;">
 
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<!-- Text-Spalte -->
+<div style="flex: 3;">
+<p>
+**Interaktives Buch | Schwierigkeitsgrad: Medium**
+</p>
+
+<p>
+Hier werden Sie schrittweise durch die Erstellung von H5P-Elementen herangeführt. Das interaktive Buch ermöglicht die Kombination verschiedener H5P-Elemente, ohne dass sie eine LMS-Struktur benötigen.
+</p>
+
+<p>
+Die bebilderte <a href="Link zur Anleitung">Anleitung</a> führt Sie per textlichen Schrittabfolgen zu dem in der Vorschau gezeigten Ergebnis.
+<a href="Link zu den Daten">Die Daten können hier heruntergeladen werden</a>.
+</p>
+
+<p>
+**Im Anschluss können Sie in H5P:**<br>
+- In interaktiven Büchern Text-, Bild und Tabellenelemente austauschen und neu anlegen<br>
+- Das H5P-Element **Timeline** importieren und anpassen<br>
+- Das H5P-Element **Guess the answer** anlegen und duplizieren<br>
+- Das H5P-Element **Image Choice** anlegen<br>
+- Das H5P-Element **Memory Game** anlegen<br>
+</p>
+
+<p>
+**Viel Spaß beim Klicken und Ausprobieren!**
+</p>
+</div>
+
+<!-- Video-Spalte -->
+<div style="flex: 2;">
+<video width="100%" height="auto" autoplay loop muted>
+  <source src="Zusatzmaterial/Sequenz 01.mp4" type="video/mp4">
+  Ihr Browser unterstützt dieses Video nicht.
+*Videos/Screenshots: Laura Schaffelt, 2023, alle Rechte vorbehalten*
+
+</video>
+</div>
+
+</div>
+</div>
+
+<div style="width: 100%; background-color: #f0f0f0; padding: 15px; border: 1pt solid #00ff00; border-radius: 5px;">
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<!-- Text-Spalte -->
+<div style="flex: 3;">
+<p>
+**Interaktives Buch | Schwierigkeitsgrad: Fortgeschritten**
+</p>
+
+<p>
+Hier werden Sie schrittweise durch die Erstellung von H5P-Elementen herangeführt. Das interaktive Buch ermöglicht die Kombination verschiedener H5P-Elemente, ohne dass sie eine LMS-Struktur benötigen.
+</p>
+
+<p>
+Die bebilderte <a href="Link zur Anleitung">Anleitung</a> führt Sie per textlichen Schrittabfolgen zu dem in der Vorschau gezeigten Ergebnis.
+<a href="Link zu den Daten">Die Daten können hier heruntergeladen werden</a>.
+</p>
+
+<p>
+**Im Anschluss können Sie in H5P:**<br>
+- In interaktiven Büchern Text-, Bild und Videoelemente einfügen<br>-
+- Bild- und Videoelemente austauschen und neu anlegen<br>
+- Das H5P-Element **Image-Slider** anlegen<br>
+- Das H5P-Element **Agamotto** anlegen<br>
+- Das H5P-Element **Drag-and-Drop** anlegen<br>
+</p>
+
+<p>
+**Viel Spaß beim Klicken und Ausprobieren!**
+</p>
+</div>
+
+<!-- Video-Spalte -->
+<div style="flex: 2;">
+<video width="100%" height="auto" autoplay loop muted>
+  <source src="Zusatzmaterial/VideoRotZusammenschnitt.mp4" type="video/mp4">
+  Ihr Browser unterstützt dieses Video nicht.
+*Videos/Screenshots: Laura Schaffelt, 2023, alle Rechte vorbehalten*
+
+</video>
+</div>
+
+</div>
+</div>
 
 
 ---   
