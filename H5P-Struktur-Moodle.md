@@ -54,7 +54,7 @@ Ein neu angelegtes H5P Element wird auf der Kursebene in Moodle so angezeigt:
 ![Einführungsbild](Bilder/h5p-moodle-kursebene.jpg)
 
 Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, sind folgende Schritte notwendig:
-<div style="width: 50%; margin: 0 auto;">  
+<div style="width: 80%; margin: 0 auto;">  
 <iframe src="https://h5p.org/h5p/embed/1514566" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 </div>
    
