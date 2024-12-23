@@ -15,28 +15,35 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 *Nun aber erst einmal viel Spaß bei den ersten Schritten mit dem "kleinen Alleskönner-Tool"!*
 
 ## H5P - Was ist das?
-![Einführungsbild](Bilder/H5P-WasKannDas.jpg)
+![Einführungsbild](Bilder/H5P-WasIstDas.jpg)
 
-<div style="width: 50%; margin: 0 auto;">  
+<div style="width: 30%; margin: 0 auto;">  
 <iframe src="https://h5p.org/h5p/embed/1514563" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 ## H5P - Wie geht das?
 ![Einführungsbild](Bilder/H5P-WieGehtDas.jpg)
-H5P stellt über 50 verschiedene Inhaltstypen als Schablone für die Kombination von Medien zur Verfügung. 
+H5P stellt über 50 verschiedene Inhaltstypen als Schablone für die Kombination von Medien zur Verfügung, um OER (Open Educational Resources/Offene Bildungsresourcen) produzieren zu können
 
-Das bedeutet, dass eine Voraussetzung ist, dass bereits eigene Inhalte vorliegen, die dann in die Inhaltstypen eingefügt und dadurch interaktiv angereichert werden können. Texte können auch direkt eingegeben werden, alle multimedialen Elemente (Bilder/Grafiken, Audio und Video) müssen eingefügt oder können (im Falle von Audios und Videos) verlinkt werden. 
+> Wichtig: Offene Ressourcen sind nicht gleich offene **Bildungs-**Resourcen!
 
-> Nicht erschrecken: Falls kein eigenes Material zur Verfügung steht, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.' 
+Das bedeutet, dass multimediale Elemente (Bilder/Grafiken, Audio und Video) nicht in H5P erstellt werden, sondern vorher gesucht/produziert sein müssen. Sie können dann in die verschiedenen Schablonen eingefügt oder verlinkt werden, bevor sie mit interaktiven Elementen angereichert werden können.
+
+>*Nicht erschrecken: Falls kein eigenes Material zur Verfügung steht, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.*
 ---
 **Sie möchten H5P am liebsten sofort ausprobieren? Dann los!**
-> In ca. 10 Minuten das folgende H5P erstellen:
+In ca. 10 Minuten das folgende H5P erstellen:
 <div style="width: 10%; margin: 0 auto;">  
 <iframe src="https://h5p.org/h5p/embed/1514565" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 </div>
-> Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
-> Öffne die Anleitung und die Webseite [Einstieg H5P](https://einstiegh5p.de/) 
-> dann gehts los: klickt einfach mit!
+Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
+Öffne die Anleitung und die Webseite [Einstieg H5P](https://einstiegh5p.de/) 
+dann gehts los: klickt einfach mit!
+
+> *Der Einstieg basiert auf dem H5P-Inhalt "Drag-and-Drop". 
+Das Bild eignet sich aber auch gut dazu, die ersten Hotspots zu setzen (sei es als "Find the Hotspot" oder "Image Hotspots".) Einfach ausprobieren!*
+
+---
     	
 ## H5P in Moodle - Wie kommt es dahin?
 ![Einführungsbild](Bilder/h5p_2.jpg)
@@ -50,8 +57,8 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
 </div>
    
 ## H5P - Was kann das?
-
-    H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Material medial gestützt angereichert wird. In Moodle-Kursen können damit verschiedene Zwecke erreicht bzw. Ziele verfolgt werden:
+![Einführungsbild](Bilder/H5P-WasKannDas.jpg)
+H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Material medial gestützt angereichert wird. In Moodle-Kursen können damit verschiedene Zwecke erreicht bzw. Ziele verfolgt werden:
 
         Wissen aufbereiten  - verschiedene mediale Möglichkeiten erlauben diverse Zugänge zu Inhalten
         Wissen interessant und anschaulich aufbereiten bedingt Notwendigkeit zur didaktischen Reduktion
@@ -179,11 +186,9 @@ Alle benötigten Materialien finden Sie in diesem Verzeichnis im Ordner "Materia
 Viel Spaß 	
 
      
-    Icon Verzeichnis
-    Einstiegs-Klickerei Verzeichnis
+ 
 
-    Hier der Einstieg mit der Klickanleitung - in der Variante "Drag-and-Drop". Das Bild eignet sich aber auch gut dazu, die ersten Hotspots zu setzen (sei es als "Find the Hotspot" oder "Image Hotspots".
-
+    
 weitereführende Links und Infos
 
     Icon Datei
@@ -215,81 +220,21 @@ weitereführende Links und Infos
     Beispiel 4: Digitale Vorlesung Elementare Geometrie
     Für Teilnehmer/innen verborgen
 
-Quellenangaben/Impressum/Disclaimer
-
-      	
-
-     
 
 
-    Dieser Kurs steht – ausgenommen verwendeter Wort-Bildmarken und anders gekennzeichneter Elemente – steht im Moment noch unter den Schranken der Lehre.
+## Impressum 
+    
+> Version 1.0 vom 14.05.2024
+![CC-BY 4.0 Lizenzhinweis](Bilder/ccby.jpg)
+Dieser Kurs steht – ausgenommen verwendeter Wort-Bildmarken und anders gekennzeichneter Elemente – unter einer [CC BY-4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de). Sie dürfen die Inhalte vervielfältigen, verwenden, verarbeiten, vermischen und verbreiten unter der Bedingung, dass Sie die Originalautorin nennen.
 
-    Wir prüfen aktuell die Lizenzlage der Elemente, planen aber eine zeitnahe
-    Veröffentlichung als OER.
-    Anmerkung der Autorinnen für Nachnutzende Version 1.0 vom 14.05.2024
+** Urheber:in(nen):**
+Stefanie Legler & Laura Schaffeld für das Projekt Netzwerk ORCA.nrw 
+Version 1.0 vom 14.05.2024
+ 
+> Wir empfehlen folgende Angabe bei Weiternutzung: 
+> Der Kurs „H5P[at]HRW“ von Stefanie Legler und Laura Schaffelt ist lizenziert unter einer CC BY 4.0 International Lizenz (https://creativecommons.org/licenses/by/4.0/). 
+> Ausgenommen von der Lizenz sind die verwendeten Wort-/Bildmarken und alle anders gekennzeichneten Elemente. Ursprungsort: [Liascript](https://liascript.github.io/course/?https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/refs/heads/main/H5P-Struktur-Moodle.md#1) via [Github](https://github.com/Steffi82/H5P-Struktur-Moodle)
 
-     
-    ---folgt---
-    Urheber:in(nen):
-
-    Stefanie Legler, ORCA-Netzwerkstelle für E-Learning@HRW, Mail: stefanie.legler@hs-ruhrwest.de
-     
-    Bildnachweise
-    Einzelnachweise der Medien stehen direkt an den Medien.
-    Nicht CC-lizenzierte Medienobjekte sind als solche gekennzeichnet.
-    Falls eine Bezeichnung fehlt, ist davon auszugehen, dass sie nicht offen lizensiert und von der Gesamtlizenz des Kurses ausgenommen ist
-     
-    Für Teilnehmer/innen verborgen
-    Icon CC BY Lizenz 	
-
-     
-
-
-    Dieser Kurs steht – ausgenommen verwendeter Wort-Bildmarken und anders gekennzeichneter Elemente – unter einer CC BY-4.0 Lizenz. Sie dürfen die Inhalte vervielfältigen, verwenden, verarbeiten, vermischen und verbreiten unter der Bedingung, dass Sie die Originalautorin nennen.
-    Anmerkung der Autorinnen für Nachnutzende Version 1.0 vom 14.05.2024
-
-     
-    Wir empfehlen folgende Angabe: Der Kurs „H5P[at]HRW“ von Stefanie Legler sowie die H5P-Elemente sind lizenziert unter einer CC BY 4.0 International Lizenz (https://creativecommons.org/licenses/by/4.0/). 
-     Ausgenommen von der Lizenz sind die verwendeten Wort-/Bildmarken und alle anders gekennzeichneten Elemente. Urspungsort: Moodle | E-Learning.hs-ruhrwest.de, 14.05.2022 Version 1.0
-    Urheber:in(nen):
-
-    Stefanie Legler, ORCA-Netzwerkstelle für E-Learning@HRW, Mail: stefanie.legler@hs-ruhrwest.de
-     
-    Bildnachweise
-    Einzelnachweise der Medien stehen direkt an den Medien.
-    Nicht CC-lizenzierte Medienobjekte sind als solche gekennzeichnet.
-    Falls eine Bezeichnung fehlt, ist davon auszugehen, dass sie nicht offen lizensiert und von der Gesamtlizenz des Kurses ausgenommen ist
-     
-
-Impressum | Benutzerordnung mit Informationspflichten nach DS-GVO
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- --------------------------------
-### Der folgende Fahrplan gibt Ihnen einen Überblick über die Kursstruktur:
-<iframe src="https://h5p.org/h5p/embed/1514563" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
-
-<iframe src="https://h5p.org/h5p/embed/1514564" width="1091" height="331" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Fahrplan Kurs H5P"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-Nun aber erst einmal viel Spaß bei den ersten Schritten mit dem "kleinen Alleskönner-Tool"!
-
-
-
-
+**Bildnachweise**
+Einzelnachweise der Medien stehen direkt an den Medien. Nicht CC-lizenzierte Medienobjekte sind als solche gekennzeichnet. Falls eine Bezeichnung fehlt, ist davon auszugehen, dass sie nicht offen lizensiert und von der Gesamtlizenz des Kurses ausgenommen ist
