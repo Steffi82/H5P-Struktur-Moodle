@@ -4,16 +4,14 @@
 
 Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch praktische Fähigkeiten zu vermitteln, um eigene interaktiven Lernmaterialien erstellen und effektiv und sinnvoll in Lehr-Lern-Szenarien einsetzen können.
 
->**Zielgruppe** Lehrende, die ein LMS mit H5P-Integration nutzen
->**Level** Einsteiger
->**Lernziele**: 
-
-*Anhand weiterer Tutorials die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können*
-    >- einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
-    >- Das Tool H5P in einer Mikro-Übung praktisch kennenlernen
-    >- Die Einbindungsmöglichkeiten von H5P via iFrame (z.B. in Moodle) kennen und anwenden können
-    >- Den didaktischen Nutzen des Tools reflektieren und für die eigene Lehre adaptieren können
-    >- anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können
+>**Zielgruppe** Lehrende, die ein LMS mit H5P-Integration nutzen <br>
+>**Level** Einsteiger <br>
+>**Lernziele**: <br>
+    >- einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen<br>
+    >- Das Tool H5P in einer Mikro-Übung praktisch kennenlernen<br>
+    >- Die Einbindungsmöglichkeiten von H5P via iFrame (z.B. in Moodle) kennen und anwenden können<br>
+    >- Den didaktischen Nutzen des Tools reflektieren und für die eigene Lehre adaptieren können<br>
+    >- anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können<br>
     
 > ggf. weitere sinnvolle Metadaten
 
@@ -23,7 +21,7 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 ## Was erwartet Dich?
 
 **Der folgende Fahrplan gibt einen Überblick über die Kursstruktur:**
-<div style="width: 100%">
+<div style=>
 <iframe src="https://h5p.org/h5p/embed/1514564" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
