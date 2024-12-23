@@ -7,11 +7,11 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 >**Zielgruppe** Lehrende, die ein LMS mit H5P-Integration nutzen <br>
 >**Level** Einsteiger <br>
 >**Lernziele**: <br>
-    >- einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
-    >- Das Tool H5P in einer Mikro-Übung praktisch kennenlernen
-    >- Die Einbindungsmöglichkeiten von H5P via iFrame (z.B. in Moodle) kennen und anwenden können
-    >- Den didaktischen Nutzen des Tools reflektieren und für die eigene Lehre adaptieren können
-    >- anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können
+    - einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
+    - Das Tool H5P in einer Mikro-Übung praktisch kennenlernen
+    - Die Einbindungsmöglichkeiten von H5P via iFrame (z.B. in Moodle) kennen und anwenden können
+    - Den didaktischen Nutzen des Tools reflektieren und für die eigene Lehre adaptieren können
+    - anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können
     
 > ggf. weitere sinnvolle Metadaten
 
