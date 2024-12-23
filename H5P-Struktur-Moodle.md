@@ -142,29 +142,32 @@ H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Materi
 
 *Ein sehr aufwändiges Branching Szanario ist das preisgekrönte Serious Game eines Toronto'er Hochschulkonsortiums "Skills Practice: A Home Visit", in dem ein Hausbesuch aus der Perspektive einer/eines Sozialarbeitenden erlebbar gemacht wird.* 
 
-## Nachspielzeit --- H5P zum Nachbauen :) ---
+## Nachspielzeit - H5P Übungen intensiv ausprobieren---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+Hier werden Sie schrittweise ... Die Worksheets führen Sie per textlichen Schrittabfolgen zu dem in der Vorschau gezeigten Ergebnis.
+Viel Spaß!
 
-<!-- Textbereich -->
-<div style="flex: 1;">
-<p>
-Hier werden Sie schrittweise an die Erstellung von Kursräumen mit Hilfe von H5P-Elementen herangeführt. Die Worksheets führen Sie per textlichen Schrittabfolgen zu dem in der Vorschau gezeigten Ergebnis.
+<!-- Grün -->
+<div style="width: 100%; background-color: #0073e6; padding: 10px; color: white; border: 1pt solid #00ff00; border-radius: 5px; display: flex; align-items: flex-start; gap: 20px">
+  <h4 style="margin: 0;">Die Biologie des Apfels (Grün)</h4>
+</div>
+
+<!-- Gelb -->
+<div style="width: 100%; background-color: #0073e6; padding: 10px; color: white; border: 1pt solid #ffff00; border-radius: 5px; display: flex; align-items: flex-start; gap: 20px">
+  <h4 style="margin: 0;">Die Biologie des Apfels (Gelb)</h4>
+</div>
+
+<!-- Rot -->
+<div style="width: 100%; background-color: #0073e6; padding: 10px; color: white; border: 1pt solid #ff0000; border-radius: 5px; display: flex; align-items: flex-start; gap: 20px">
+  <h4 style="margin: 0;">Die Biologie des Apfels (Rot)</h4>
+</div>
+
+
 </p>
 
 **Sie werden im Folgenden:**
-- Text-, Bild- und Video-Elemente austauschen
-- Textelemente kopieren und einfügen
-- Ein Video einsetzen und mit einem H5P-Image-Slider arbeiten
-- Das H5P-Element Agamotto anwenden
-- Das H5P-Element Drag-and-Drop einsetzen
+-
 
-<p>
-Alle benötigten Materialien finden Sie in diesem Verzeichnis im Ordner „Materialien“.
-</p>
-
-<p>
-Viel Spaß!
 </p>
 </div>
 
@@ -178,8 +181,9 @@ Viel Spaß!
 ---
  
 Icon Verzeichnis
-H5P zum Nachbauen | Interaktives Buch 2 Verzeichnis
-Die Bedeutung von Äpfeln für die Ernährung
+Übung H5P | Schwierigkeitsgrad: Medium | Interaktives Buch
+
+**Die Bedeutung von Äpfeln für die Ernährung
 Hier werden Sie schrittweise an die Erstellung von Kursräumen mit Hilfe von H5P-Elementen herangeführt. Die Worksheets führen Sie per textlichen Schrittabfolgen zu dem in der Vorschau gezeigten Ergebnis.
 
 Sie werden im Folgenden:
