@@ -66,8 +66,10 @@ H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Materi
 ### Wissen aufbereiten  
 **verschiedene mediale Möglichkeiten erlauben diverse Zugänge zu Inhalten:**
 
-- Wissen interessant und anschaulich aufbereiten:
-*... bedingt Notwendigkeit zur didaktischen Reduktion*
+- Wissen interessant und anschaulich aufbereiten
+
+>Beispiel: Timeline | [Versuchsaufbau] ()
+>*dfsdf*
 
 >Beispiel: Image Juxtaposition | Luftaufnahmen vor und nach einer Naturkatastrophe
 >*dfsdf*
@@ -78,17 +80,16 @@ H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Materi
 - Werkzeuge zum Mitmachen:
 *Darstellungsvarianz für asynchrone Lerngelegenheiten, z.B. durch ein interaktives Buch*
 
-- Selbst-Testmöglichkeiten:
-*zur Vor- und Nachbereitung von Veranstaltungen oder Wissensabfrage in der Selbstlernphase - H5P eignet sich nicht für formale Tests!*
-
 >Beispiel: H5P-Interactive Book | [OER Basiswissen](Link)
 >*dfsdf*
 
 >Beispiel: Interaktives Video | [tbd](Link)
 >*dfsdf*
 
->Beispiel: Timeline | [Versuchsaufbau] ()
->*dfsdf*
+- Selbst-Testmöglichkeiten:
+*zur Vor- und Nachbereitung von Veranstaltungen oder Wissensabfrage in der Selbstlernphase - H5P eignet sich nicht für formale Tests!*
+
+> Beispiel | Quiz (Question Set | ...zum Flüssigkeitsthermometer Interaktiver Inhalt
 
 
 ### Kurse strukturieren
@@ -103,7 +104,7 @@ H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Materi
 *Bilder im **Image-Slider**, aber auch Course-Presentations können per Klick durchlaufen werden,  es empfielt sich dabei immer auf den Mehrwert der Darstellung zu achten. Ein Beispiel findet sich oben im Kurs bei der Einbettung von H5P in Moodle. Ein weiteres Inhaltselement ist das "Agamotto", in dem Bilder überblendet werden können.*
 
 - Flipping Around:
-  Mit dem Inhaltstyp "Dialog-Cards"
+*Mit dem Inhaltstyp **Dialog-Cards***
 
   
 ### Self-Assessment ermöglichen  - dank vielfältiger Frage- und Aufgabentypen
@@ -127,7 +128,6 @@ H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Materi
 
 > Beispiel | Quiz (Question Set | ...zum Flüssigkeitsthermometer Interaktiver Inhalt
   
-> Beispiel | Quiz (Question Set | ...zum Flüssigkeitsthermometer Interaktiver Inhalt
 
 > **Achtung:** Aufgabentypen mit Freitexteingaben wurden bewusst ausgelassen, da diese sich in Moodle besser über Abgaben realisieren lassen.
 
@@ -143,6 +143,42 @@ H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Materi
 *Ein sehr aufwändiges Branching Szanario ist das preisgekrönte Serious Game eines Toronto'er Hochschulkonsortiums "Skills Practice: A Home Visit", in dem ein Hausbesuch aus der Perspektive einer/eines Sozialarbeitenden erlebbar gemacht wird.* 
 
 ## Nachspielzeit --- H5P zum Nachbauen :) ---
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<!-- Textbereich -->
+<div style="flex: 1;">
+<p>
+Hier werden Sie schrittweise an die Erstellung von Kursräumen mit Hilfe von H5P-Elementen herangeführt. Die Worksheets führen Sie per textlichen Schrittabfolgen zu dem in der Vorschau gezeigten Ergebnis.
+</p>
+
+**Sie werden im Folgenden:**
+- Text-, Bild- und Video-Elemente austauschen
+- Textelemente kopieren und einfügen
+- Ein Video einsetzen und mit einem H5P-Image-Slider arbeiten
+- Das H5P-Element Agamotto anwenden
+- Das H5P-Element Drag-and-Drop einsetzen
+
+<p>
+Alle benötigten Materialien finden Sie in diesem Verzeichnis im Ordner „Materialien“.
+</p>
+
+<p>
+Viel Spaß!
+</p>
+</div>
+
+<!-- Video -->
+<div style="flex: 1;">
+<iframe src="https://www.youtube.com/embed/VIDEO_ID" width="100%" height="315" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</div>
+
+
+
+
+
 
     Icon Verzeichnis
     H5P zum Nachbauen | Interaktives Buch 1 Verzeichnis
