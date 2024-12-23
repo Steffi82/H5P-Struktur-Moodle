@@ -170,38 +170,12 @@ Viel Spaß!
 
 <!-- Video -->
 <div style="flex: 1;">
-<iframe src="https://www.youtube.com/embed/VIDEO_ID" width="100%" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe src="Bilder/Zusatzmaterial/VideoGrünZusammenschnitt.mp4" width="100%" height="315" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
 
-
-
-
-
-
-    Icon Verzeichnis
-    H5P zum Nachbauen | Interaktives Buch 1 Verzeichnis
-
-     
-    Interaktives Buch: Die Geschichte des Apfels
-    Hier werden Sie schrittweise an die Erstellung kombinierter H5P-Elemente innerhalb eines interaktiven Buchs herangeführt. Die bebilderte Anleitung führt Sie per textlichen Schrittabfolgen zu dem in der Vorschau gezeigten Ergebnis.
-
-    Im Anschluss können Sie in in H5P:
-    … in interaktiven Büchern Text- und Bildelemente austauschen und neu anlegen
-    … das H5P-Element Dialog Card anlegen
-    … das H5P-Element Lückentext anlegen
-    … das H5P-Element Collage anlegen
-    … das H5P-Element Accordion anlegen
-    … das H5P-Element Find the Hotspot anlegen
-
-    Die Anleitung und alle benötigten Materialien können Sie in diesem Verzeichnis herunterladen.
-
-    Viel Spaß! 	 
-    https://elearning.hs-ruhrwest.de/pluginfile.php/588212/mod_folder/intro/VideoGr%C3%BCnZusammenschnitt.mp4
-
- 
-
+---
  
 Icon Verzeichnis
 H5P zum Nachbauen | Interaktives Buch 2 Verzeichnis
@@ -220,6 +194,7 @@ Alle benötigten Materialien finden Sie in diesem Verzeichnis im Ordner "Materia
 Viel Spaß 	
 https://elearning.hs-ruhrwest.de/pluginfile.php/588180/mod_folder/intro/Sequenz%2001.mp4?time=1715166264946
 
+---
  
 Icon Verzeichnis
 Didaktische Praxisbeispiele | H5P Elemente | Die Biologie des Apfels Verzeichnis
@@ -237,44 +212,21 @@ Alle benötigten Materialien finden Sie in diesem Verzeichnis im Ordner "Materia
 
 Viel Spaß 	
 
-     
- 
-
+---   
     
-weitereführende Links und Infos
+## weitereführende Links und Infos
 
-    Icon Datei
-    Das Skript zum Kurs mit allen Infos Datei
-    48.0 MB PDF-Dokument
+**Das Skript zum Kurs mit allen Infos** Link
+*Neben den Folien (in der extended Version zum Mitlesen) finden sich aktuell nur hier die Linklisten als Accordeon*
 
-    Neben den Folien (in der extended Version zum Mitlesen) finden sich aktuell nur hier die Linklisten.
-    Die Umsetzung in ein Accordeon folgt!
+Die Umsetzung in ein Accordeon folgt!
 
-    Icon Datei
-    Das Skript zum Kurs mit allen Infos (Kopie) Datei
-    48.0 MB PDF-Dokument
-
-    Neben den Folien (in der extended Version zum Mitlesen) finden sich aktuell nur hier die Linklisten.
-    Die Umsetzung in ein Accordeon folgt!
-
-    Icon Link/URL
-    Beispiele für H5P-Inhaltstypen | von H5P.org Link/URL
-
-    H5P.org bietet für jeden Inhaltstyp ein Beispiel, dass über den "Wiedernutzungsbutton auch einfach übernommen werden kann - 
-    Für Teilnehmer/innen verborgen
-
-    Beispiel 1: Alternativtexte für Lehr-Lernmaterialien
-
-    Beispiel 2: Urheberrecht in der digitalen Lehre
-
-    Beispiel 3: UML Klassenmodellierung
-
-    Beispiel 4: Digitale Vorlesung Elementare Geometrie
-    Für Teilnehmer/innen verborgen
+**Beispiele für H5P-Inhaltstypen | von H5P.org Link/URL**
+*H5P.org bietet für jeden Inhaltstyp ein Beispiel, dass über den "Wiedernutzungsbutton auch einfach übernommen werden kann.*
+   
 
 
-
-## Impressum 
+# Impressum 
     
 > Version 1.0 vom 14.05.2024
 ![CC-BY 4.0 Lizenzhinweis](Bilder/ccby.jpg)
