@@ -65,7 +65,7 @@ Das Bild eignet sich aber auch gut dazu, die ersten Hotspots zu setzen (sei es a
 
 ---
     	
-## H5P in Moodle - Wie kommt es dahin?
+## H5P als integrierte Ansicht (z.B. in Moodle) - Wie kommt es dahin?
 ![Einführungsbild](Bilder/h5p_2.jpg)
 
 Ein neu angelegtes H5P Element wird auf der Kursebene in Moodle so angezeigt:
@@ -79,7 +79,13 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
 ## H5P - Was kann das?
 ![Einführungsbild](Bilder/H5P-WasKannDas.jpg)
 
-H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Material medial gestützt angereichert wird. In Moodle-Kursen können damit verschiedene Zwecke erreicht bzw. Ziele verfolgt werden:
+--> Materialschablonen, um Inhalte medial gestützt in verschiedenen Formaten bereitzustellen **|Wissen aufbereiten**
+--> Darstellungsvarianz für asynchrone Lerngelegenheiten **|Lehr-Lern-Szenarien strukturieren**
+--> Lernende im Kontext des Constructive Alignment auf Lernzielkontrollen/Prüfungen vorbereiten **|Self-Assessment ermöglichen**
+--> Lernende durch spielerische Akzente in der Wissensaufbereitung und -vertiefung motivieren **|Gamification**
+
+*alle Schwerpunkte werden im Folgenden genauer beleuchtet und mit guten Praxisbeispielen versehen. Diese sind verlinkt, nicht eingebettet.
+Im Abschnitt XXX finden sich zudem weitere Materialpools zu H5P und offenen (Bildungs-)Resourcen für mehr Inspiration und als Grundlage zur Weiternutzung.*
 
 ### Wissen aufbereiten  
 **verschiedene mediale Möglichkeiten erlauben diverse Zugänge zu Inhalten:**
@@ -104,11 +110,6 @@ H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Materi
 >Beispiel: Interaktives Video | [tbd](Link)
 >*dfsdf*
 
-- Selbst-Testmöglichkeiten:
-*zur Vor- und Nachbereitung von Veranstaltungen oder Wissensabfrage in der Selbstlernphase - H5P eignet sich nicht für formale Tests!*
-
-> Beispiel | Quiz (Question Set | ...zum Flüssigkeitsthermometer Interaktiver Inhalt
-
 
 ### Kurse strukturieren
 **durch optische und interaktive Elemente Orientierung bieten und den Lernweg leiten:**
@@ -127,6 +128,12 @@ H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Materi
   
 ### Self-Assessment ermöglichen  - dank vielfältiger Frage- und Aufgabentypen
 **neben der Möglichkeit, Verständnisfragen über ein Accordeon darzustellen, gibt s noch vielfältigere weitere Frage-/ und Aufgabearten, die sich folgendermaßen clustern lassen:**
+
+*zur Vor- und Nachbereitung von Veranstaltungen oder Wissensabfrage in der Selbstlernphase - H5P eignet sich nicht für formale Tests!*
+
+> Beispiel | Quiz (Question Set | ...zum Flüssigkeitsthermometer Interaktiver Inhalt
+
+
 - Fragetypen: 
 *neben **Single-** und **Multiple-Choice** Aufgaben können auch **Flashcards** und eine **zusammenfassende Aufgabe** zum Einsatz kommen.
 > Beispiel | Quiz (Question Set | ...zum Flüssigkeitsthermometer Interaktiver Inhalt
@@ -212,6 +219,10 @@ Die bebilderte <a href="Link zur Anleitung">Anleitung</a> führt Sie per textlic
 </div>
 </div>
 
+<br>
+---
+<br>
+
 <div style="width: 100%; background-color: #f0f0f0; padding: 15px; border: 1pt solid #00ff00; border-radius: 5px;">
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
@@ -257,6 +268,10 @@ Die bebilderte <a href="Link zur Anleitung">Anleitung</a> führt Sie per textlic
 
 </div>
 </div>
+
+<br>
+---
+<br>
 
 <div style="width: 100%; background-color: #f0f0f0; padding: 15px; border: 1pt solid #00ff00; border-radius: 5px;">
 
