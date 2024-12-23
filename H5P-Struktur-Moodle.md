@@ -33,12 +33,16 @@ Das bedeutet, dass eine Voraussetzung ist, dass bereits eigene Inhalte vorliegen
 
 > Nicht erschrecken: Falls kein eigenes Material zur Verfügung steht, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.' 
 
-**Sie möchten H5P am liebsten sofort ausprobieren? Dann los!**
-- Gehe auf die Webseite "Einstieg H5P" auf
-ladet das Bild aus diesem Verzeichnis herunter
-        dann gehts los: klickt einfach mit!
+> **Sie möchten H5P am liebsten sofort ausprobieren? Dann los!**
+> In ca. 10 Minuten das folgende H5P erstellen:
+<div style="width: 50%; margin: 0 auto;">  
+<iframe src="https://h5p.org/h5p/embed/1514565" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+> Die Daten zum Micro-Learing gibt es [hier](Link):
+> Öffne die Anleitung
+> Gehe auf die Webseite "Einstieg H5P" 
+> dann gehts los: klickt einfach mit!
     	
-
 ## H5P in Moodle - Wie kommt es dahin?
 ![Einführungsbild](Bilder/h5p_2.jpg)
 
