@@ -144,6 +144,9 @@ H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Materi
 
 ## Nachspielzeit - H5P Übungen intensiv ausprobieren---
 
+
+Die folgenden drei Übungsszenarien (samt Materialkoffer) zu den interaktiven H5P-Büchern beinhalten unterschiedliche Kombinationen von H5P-Inhaltstypen. Sie wurden Stefanie Legler und Laura Schaffeld im Rahmen der [Praxiswerkstatt 2023 des Netzwerks ORCA.nrw](https://www.orca.nrw/praxiswerkstatt-oer) für den Workshop „Interaktive Lehre leicht gemacht - Lerneinheiten mit H5P erstellen“ erstellt.
+
 <div style="width: 100%; background-color: #f0f0f0; padding: 15px; border: 1pt solid #00ff00; border-radius: 5px;">
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
@@ -151,7 +154,7 @@ H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Materi
 <!-- Text-Spalte -->
 <div style="flex: 3;">
 <p>
-**Interaktives Buch: Die Geschichte des Apfels**
+**Interaktives Buch | Schwierigkeitsgrad: Einsteiger**
 </p>
 
 <p>
@@ -174,7 +177,7 @@ Die bebilderte <a href="Link zur Anleitung">Anleitung</a> führt Sie per textlic
 </p>
 
 <p>
-**Viel Spaß!**
+**Viel Spaß beim Klicken und Ausprobieren!**
 </p>
 </div>
 
@@ -183,6 +186,8 @@ Die bebilderte <a href="Link zur Anleitung">Anleitung</a> führt Sie per textlic
 <video width="100%" height="auto" autoplay loop muted>
   <source src="Zusatzmaterial/VideoGrünZusammenschnitt.mp4" type="video/mp4">
   Ihr Browser unterstützt dieses Video nicht.
+*Videos/Screenshots: Laura Schaffelt, 2023, alle Rechte vorbehalten*
+
 </video>
 </div>
 
@@ -196,16 +201,31 @@ Die bebilderte <a href="Link zur Anleitung">Anleitung</a> führt Sie per textlic
     
 ## weitereführende Links und Infos
 
-**Das Skript zum Kurs mit allen Infos** Link
-*Neben den Folien (in der extended Version zum Mitlesen) finden sich aktuell nur hier die Linklisten als Accordeon*
+**Das Skript zum Kurs mit allen Infos** Link (zu groß für Github)
+*In der Powerpoint-Datei gibt es die "extended Version" zum Mitlesen in den Foliennotizen.
 
-Die Umsetzung in ein Accordeon folgt!
 
 **Beispiele für H5P-Inhaltstypen | von H5P.org Link/URL**
 *H5P.org bietet für jeden Inhaltstyp ein Beispiel, dass über den "Wiedernutzungsbutton auch einfach übernommen werden kann.*
    
 --- folien auseinandernehmen, material hhu/uni köln
 --- verweis auf oersi, landesportale - orca 
+
+**Blog: Gedankensplitter (Peter Baumgartner)**
+In der Sammlung ["Selbstbestimmtes Lernen mit H5P"](https://peter.baumgartner.name/sammlungen/h5p-module/) beschreibt Peter Baumgartner didaktische Settings einzelner H5P-Module für selbstorganisierende Lernende.
+Im [“Didaktischen Design mit H5P“](https://peter.baumgartner.name/sammlungen/didaktisches-design-mit-h5p/) geht er didaktischen Ideen und Fallstricken bei der Verwendung von H5P-Elementen nach und diskutiert eigene gelungene wie fehlgeschlagene Prototypen und [Experimente](https://peter.baumgartner.name/sammlungen/h5p-experimente/) im Sinne eines Proof of Concept.
+
+**Blog: E-Bildungslabor (Nele Hirsch)**
+Nele Hirsch teilt [schnelle Ideen für den kreativen Einsatz von H5P](https://ebildungslabor.de/blog/schnelle-ideen-zu-h5p/), außerdem hat sie einen übersichtlichen [Selbstlernkurs zu H5P](https://lernen.oncampus.de/blocks/ocproducts/product.php?id=a02ed13032f0d5478380bab6e7486138) als OER bereitgestellt
+
+**OER-Camp –SummOER-School mit Oliver Tacke**
+Auch Oliver Tacke hat im Rahmen des OER Camp 2020 einen [Selbstlernkurs zu H5P](https://campus.oercamp.de/kurs/h5p/?fbclid=IwAR3arOml6JacuDV-DQYKoK8FxJw8GMOQ9d6L_1Oze61xF6go6SuZRV7XCck) er-und bereitgestellt. Sehenswert zum Einstieg auch sein [Vorstellungsvideo zu H5P (englisch)](https://www.youtube.com/watch?v=2HtxLeXGU48&t=197s).
+
+**Landesbildungsserver Baden-Württemberg**
+Das Schulportal stellt [Anleitungen für das Erstellen von interaktiven Übungen mit H5P](https://www.schule-bw.de/themen-und-impulse/medienbildung/interaktiv/anleitung-h5p) bereit und gibt dabei eine gute Übersicht darüber, wie [Urheberrechtsangaben eingefügt und angezeigt](https://www.schule-bw.de/themen-und-impulse/medienbildung/interaktiv/anleitung-h5p/h5p-einfuegen-urheberrecht.html) werden können.
+
+*Die Links zu den Inspriationen basieren u.a. auf Blogbeiträgen von [Christina Bliss für wb-web.de](https://wb-web.de/aktuelles/h5p-interaktive-inhalte-und-aufgaben-erstellen.html) und [Marc Albrecht-Hermanns](https://wakelet.com/wake/Efe8O1kTJwM38fC1xlPWD)*
+
 
 # Impressum 
     
@@ -218,7 +238,7 @@ Stefanie Legler & Laura Schaffeld für das Projekt Netzwerk ORCA.nrw
 Version 1.0 vom 14.05.2024
  
 > Wir empfehlen folgende Angabe bei Weiternutzung: 
-> Der Kurs „H5P[at]HRW“ von Stefanie Legler und Laura Schaffelt ist lizenziert unter einer CC BY 4.0 International Lizenz (https://creativecommons.org/licenses/by/4.0/). 
+> Der Kurs „H5P[at]HRW“ von Stefanie Legler ist lizenziert unter einer CC BY 4.0 International Lizenz (https://creativecommons.org/licenses/by/4.0/). 
 > Ausgenommen von der Lizenz sind die verwendeten Wort-/Bildmarken und alle anders gekennzeichneten Elemente. Ursprungsort: [Liascript](https://liascript.github.io/course/?https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/refs/heads/main/H5P-Struktur-Moodle.md#1) via [Github](https://github.com/Steffi82/H5P-Struktur-Moodle)
 
 **Bildnachweise**
