@@ -3,7 +3,7 @@
 ![Einführungsbild](Bilder/h5p.Kachel.jpg)
 
 Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch praktische Fähigkeiten zu vermitteln, um eigene interaktiven Lernmaterialien erstellen und effektiv und sinnvoll in Lehr-Lern-Szenarien einsetzen können.
-
+<p>
 >**Zielgruppe** Lehrende, die ein LMS mit H5P-Integration nutzen <br>
 >**Level** Einsteiger <br>
 >**Metadaten**
@@ -18,7 +18,7 @@ ABC
     
 
 *Nun aber erst einmal viel Spaß bei den ersten Schritten mit dem "kleinen Alleskönner-Tool"!*
-
+</p>
 
 ## Was erwartet Dich?
 
