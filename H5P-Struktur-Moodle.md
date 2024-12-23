@@ -60,33 +60,44 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
 ![Einführungsbild](Bilder/H5P-WasKannDas.jpg)
 H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Material medial gestützt angereichert wird. In Moodle-Kursen können damit verschiedene Zwecke erreicht bzw. Ziele verfolgt werden:
 
-        Wissen aufbereiten  - verschiedene mediale Möglichkeiten erlauben diverse Zugänge zu Inhalten
-        Wissen interessant und anschaulich aufbereiten bedingt Notwendigkeit zur didaktischen Reduktion
-        Werkzeuge zum Mitmachen: Darstellungsvarianz für asynchrone Lerngelegenheiten 
-        Testmöglichkeiten zur Vor- und Nachbereitung von Veranstaltungen
-        oder Wissensabfrage in der Selbstlernphase - nie als formaler Test!
+#### Wissen aufbereiten  
+**verschiedene mediale Möglichkeiten erlauben diverse Zugänge zu Inhalten:**
 
-    	Ein Beispiel für ein mit H5P erstelltes Interactive Book ist etwa der Planer in unserem Service-Kurs » E-Learning@HRW - Online Lehre planen!
-    Icon H5P
-    ***Interaktives Video Interaktiver Inhalt
-    Icon H5P
-    Beispiel | Timeline | Essigherstellung Interaktiver Inhalt
-    	
+- Wissen interessant und anschaulich aufbereiten:
+*... bedingt Notwendigkeit zur didaktischen Reduktion*
 
-    Ein Beispiel für Image Juxtaposition zeigt das »Beispiel von H5P.org, in dem zwei Luftaufnahmen (einmal vor und einmal nach einer Naturkatastrophe) fließend verschoben werden können.
+>Beispiel: Image Juxtaposition | Luftaufnahmen vor und nach einer Naturkatastrophe
+>*dfsdf*
 
-    Ebenfalls dort ist das Beispiel für das Agamotto, in dem »verschiedene Kartenebenen scheinbar überblendet werden. In der "Nachspielzeit" ist ein Agamotto im Interactive Book 3 enthalten, hier werden verschiedene Vergrößerungsaufnahmen von Zellstrukturen verwendet.
+>Beispiel: Agamotto | verschiedene Vergrößerungsaufnahmen von Zellstrukturen
+>*dfsdf*--> s. Interactive Book 3
 
-        Kurse strukturieren  - durch optische und interaktive Elemente Orientierung bieten und den Lernweg leiten
+- Werkzeuge zum Mitmachen:
+*Darstellungsvarianz für asynchrone Lerngelegenheiten, z.B. durch ein interaktives Buch*
 
-        orientieren und leiten:
-        Mit dem "Image Hotspots" lässt sich ein Überblick über einen Kurs verschaffen - siehe am Beispiel der Roadmap dieses Kurses, ausführlich im Good Practice der Image Hotspts von Irina Simon
+- Selbst-Testmöglichkeiten:
+*zur Vor- und Nachbereitung von Veranstaltungen oder Wissensabfrage in der Selbstlernphase - H5P eignet sich nicht für formale Tests!*
 
-        vertikale Reduktion:
-        Der Inhaltstyp "Accordeon" ermöglicht es, Inhalte ein- und auszuklappen. Das kann genutzt werden, um ausführliche Erläuterungen zu Begriffen, Konzeptnamen oder Thesen zu hinterlegen, oder aber auch zum Hinterlegen von Musterlösungen hinter Fragen, die Lernende zunächst im Self-Assessment selbst beantworten, wie im Beispiel der Aufgaben aus dem Kurs "Hypo2Go" von Andrea Ostendorf
+>Beispiel: H5P-Interactive Book | [OER Basiswissen](Link)
+>*dfsdf*
 
-        horizontale Blickführung:
-        Bilder im Image-Slider, aber auch Course-Presentations können per Klick durchlaufen werden,  es empfielt sich dabei immer auf den Mehrwert der Darstellung zu achten. Ein Beispiel findet sich oben im Kurs bei der Einbettung von H5P in Moodle. Ein weiteres Inhaltselement ist das "Agamotto", in dem Bilder überblendet werden können.
+>Beispiel: Interaktives Video | [tbd](Link)
+>*dfsdf*
+
+>Beispiel: Timeline | [Versuchsaufbau] ()
+>*dfsdf*
+
+
+#### Kurse strukturieren
+**durch optische und interaktive Elemente Orientierung bieten und den Lernweg leiten:**
+- orientieren und leiten:
+*Mit dem **Image Hotspots** lässt sich ein Überblick über einen Kurs verschaffen - siehe am Beispiel der Roadmap dieses Kurses, die erweitert auch zur Semesterplanung eingesetzt werden kann*
+
+- vertikale Reduktion:
+*Der Inhaltstyp "Accordeon" ermöglicht es, Inhalte ein- und auszuklappen. Das kann genutzt werden, um ausführliche Erläuterungen zu Begriffen, Konzeptnamen oder Thesen zu hinterlegen, oder aber auch zum Hinterlegen von Musterlösungen hinter Fragen, die Lernende zunächst im Self-Assessment selbst beantworten*
+
+- horizontale Blickführung:
+*Bilder im **Image-Slider**, aber auch Course-Presentations können per Klick durchlaufen werden,  es empfielt sich dabei immer auf den Mehrwert der Darstellung zu achten. Ein Beispiel findet sich oben im Kurs bei der Einbettung von H5P in Moodle. Ein weiteres Inhaltselement ist das "Agamotto", in dem Bilder überblendet werden können.*
 
         Flipping Around:
         Mit dem Inhaltstyp "Dialog-Cards": Ein Beispiel findet sich oben im Abschnitt "Was ist H5P?" 
