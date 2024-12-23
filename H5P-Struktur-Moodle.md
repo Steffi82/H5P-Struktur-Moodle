@@ -4,11 +4,8 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 
 **Der folgende Fahrplan gibt Ihnen einen Überblick über die Kursstruktur:**
 <div style="width: 100%; margin: 0 auto;">
-
 <iframe src="https://h5p.org/h5p/embed/1514564" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
-
 </div>
-
 **Im Laufe des Kurses werden Sie ...**
 - einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
 - Die Einbindungsmöglichkeiten von H5P in Moodle kennen und anwenden können
@@ -16,7 +13,6 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 - Das Tool H5P in einer Mikro-Übung praktisch kennenlernen und anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können
 
 *Nun aber erst einmal viel Spaß bei den ersten Schritten mit dem "kleinen Alleskönner-Tool"!*
-
 
 ## H5P - Was ist das?
 ![Einführungsbild](Bilder/H5P-WasKannDas.jpg)
@@ -32,21 +28,18 @@ H5P stellt über 50 verschiedene Inhaltstypen als Schablone für die Kombination
 Das bedeutet, dass eine Voraussetzung ist, dass bereits eigene Inhalte vorliegen, die dann in die Inhaltstypen eingefügt und dadurch interaktiv angereichert werden können. Texte können auch direkt eingegeben werden, alle multimedialen Elemente (Bilder/Grafiken, Audio und Video) müssen eingefügt oder können (im Falle von Audios und Videos) verlinkt werden. 
 
 > Nicht erschrecken: Falls kein eigenes Material zur Verfügung steht, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.' 
-
-> **Sie möchten H5P am liebsten sofort ausprobieren? Dann los!**
+---
+**Sie möchten H5P am liebsten sofort ausprobieren? Dann los!**
 > In ca. 10 Minuten das folgende H5P erstellen:
-<div style="width: 50%; margin: 0 auto;">  
+<div style="width: 10%; margin: 0 auto;">  
 <iframe src="https://h5p.org/h5p/embed/1514565" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 </div>
-> Die Daten zum Micro-Learing gibt es [hier](Link):
-> Öffne die Anleitung
-> Gehe auf die Webseite "Einstieg H5P" 
+> Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
+> Öffne die Anleitung und die Webseite [Einstieg H5P](https://einstiegh5p.de/) 
 > dann gehts los: klickt einfach mit!
     	
 ## H5P in Moodle - Wie kommt es dahin?
 ![Einführungsbild](Bilder/h5p_2.jpg)
-
-
 
 Ein neu angelegtes H5P Element wird auf der Kursebene in Moodle so angezeigt:
 ![Einführungsbild](Bilder/h5p-moodle-kursebene.jpg)
