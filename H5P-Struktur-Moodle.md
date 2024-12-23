@@ -22,14 +22,14 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 
 ## Was erwartet Dich?
 
-**Der folgende Fahrplan - erstellt mit H5P - gibt einen Überblick über die Kursstruktur:**
-<div style="width: 100%; margin: 0 auto;">
+**Der folgende Fahrplan gibt einen Überblick über die Kursstruktur:**
+<div style="width: 100%">
 <iframe src="https://h5p.org/h5p/embed/1514564" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 >*ein solcher Lernpfad ist mit dem H5P-Element "xxx" einfach zu erstellen. Auch für komplexe Ablagestrukturen wie in einem Moodle-Kurs lässt sich für die Lernenen schnell Übersichtlichkeit schaffen. Im Abschnitt ABC findet sich ein Beispiel für eine Übersicht in Moodle*
 
-*Los geht's - zunächst mit ein paar grundlegenden Hintergrundinformationen zum kleinen Alleskönner-Tool H5P!*
+*Jetzt geht es zunächst mit ein paar grundlegenden Hintergrundinformationen zum kleinen Alleskönner-Tool H5P!*
 
 ## H5P - Was ist das?
 ![Einführungsbild](Bilder/H5P-WasIstDas.jpg)
