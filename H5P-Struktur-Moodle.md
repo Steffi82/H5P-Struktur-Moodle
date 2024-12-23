@@ -1,25 +1,44 @@
 # Herzlich Willkommen!
 
-Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch praktische Fähigkeiten zu vermitteln, damit Sie Ihre eigenen interaktiven Lernmaterialien erstellen und effektiv und sinnvoll in Ihren Moodle-Kursen einsetzen können.
+![Einführungsbild](Bilder/h5p.Kachel.jpg)
 
-**Der folgende Fahrplan gibt Ihnen einen Überblick über die Kursstruktur:**
+Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch praktische Fähigkeiten zu vermitteln, um eigene interaktiven Lernmaterialien erstellen und effektiv und sinnvoll in Lehr-Lern-Szenarien einsetzen können.
+
+>**Zielgruppe** Lehrende, die ein LMS mit H5P-Integration nutzen
+>**Level** Einsteiger
+>**Lernziele**: 
+
+*Anhand weiterer Tutorials die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können*
+    >- einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
+    >- Das Tool H5P in einer Mikro-Übung praktisch kennenlernen
+    >- Die Einbindungsmöglichkeiten von H5P via iFrame (z.B. in Moodle) kennen und anwenden können
+    >- Den didaktischen Nutzen des Tools reflektieren und für die eigene Lehre adaptieren können
+    >- anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können
+    
+> ggf. weitere sinnvolle Metadaten
+
+*Nun aber erst einmal viel Spaß bei den ersten Schritten mit dem "kleinen Alleskönner-Tool"!*
+
+
+## Was erwartet Dich?
+
+**Der folgende Fahrplan - erstellt mit H5P - gibt einen Überblick über die Kursstruktur:**
 <div style="width: 100%; margin: 0 auto;">
 <iframe src="https://h5p.org/h5p/embed/1514564" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 </div>
-**Im Laufe des Kurses werden Sie ...**
-- einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
-- Die Einbindungsmöglichkeiten von H5P in Moodle kennen und anwenden können
-- Den didaktischen Nutzen des Tools reflektieren und für die eigene Lehre adaptieren können
-- Das Tool H5P in einer Mikro-Übung praktisch kennenlernen und anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können
 
-*Nun aber erst einmal viel Spaß bei den ersten Schritten mit dem "kleinen Alleskönner-Tool"!*
+>*ein solcher Lernpfad ist mit dem H5P-Element "xxx" einfach zu erstellen. Auch für komplexe Ablagestrukturen wie in einem Moodle-Kurs lässt sich für die Lernenen schnell Übersichtlichkeit schaffen. Im Abschnitt ABC findet sich ein Beispiel für eine Übersicht in Moodle*
+
+*Los geht's - zunächst mit ein paar grundlegenden Hintergrundinformationen zum kleinen Alleskönner-Tool H5P!*
 
 ## H5P - Was ist das?
 ![Einführungsbild](Bilder/H5P-WasIstDas.jpg)
 
-<div style="width: 60%; margin: 0 auto;">  
-<iframe src="https://h5p.org/h5p/embed/1514563" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
+> in der Ursprungsfassung, die für Moodle aufbereitet wurde, war die Einführung als [H5P-Inhaltstyp "Dialog-Cards"]() aufbereitet
+<div style="width: 100%; margin: 0 auto;">  
+<iframe src="https://h5p.org/h5p/embed/1514563" width="50%" frameborder="0" allowfullscreen="true"></iframe>
 </div>
+
 
 ## H5P - Wie geht das?
 ![Einführungsbild](Bilder/H5P-WieGehtDas.jpg)
