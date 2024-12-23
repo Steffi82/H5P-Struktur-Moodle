@@ -8,7 +8,7 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 >**Level** Einsteiger <br>
 >**Metadaten**
 
-
+ABC
 **Lernziele**:
 * einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
 * Das Tool H5P in einer Mikro-Übung praktisch kennenlernen
@@ -25,7 +25,7 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 **Der folgende Fahrplan gibt einen Überblick über die Kursstruktur:**
 
 <div style="width: 100%; margin: 0 auto;">
-<iframe src="https://h5p.org/h5p/embed/1514564" width="100%" height="250 px" frameborder="0" allowfullscreen="true"></iframe>
+<iframe src="https://h5p.org/h5p/embed/1514564" width="100%" height="300 px" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 >*Ein solcher Lernpfad ist mit dem H5P-Element "xxx" einfach zu erstellen. Auch für komplexe Ablagestrukturen wie in einem Moodle-Kurs lässt sich für die Lernenden schnell Übersichtlichkeit schaffen. Im Abschnitt ABC findet sich ein Beispiel für eine Übersicht in Moodle.*
