@@ -144,77 +144,53 @@ H5P kann dazu genutzt werden, Studierende zu aktivieren , indem Lehr-Lern-Materi
 
 ## Nachspielzeit - H5P Übungen intensiv ausprobieren---
 
-Hier werden Sie schrittweise ... Die Worksheets führen Sie per textlichen Schrittabfolgen zu dem in der Vorschau gezeigten Ergebnis.
-Viel Spaß!
+<div style="width: 100%; background-color: #f0f0f0; padding: 15px; border: 1pt solid #00ff00; border-radius: 5px;">
 
-<!-- Grün -->
-<div style="width: 100%; background-color: #0073e6; padding: 10px; color: white; border: 1pt solid #00ff00; border-radius: 5px; display: flex; align-items: flex-start; gap: 20px">
-  <h4 style="margin: 0;">Die Biologie des Apfels (Grün)</h4>
-</div>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-<!-- Gelb -->
-<div style="width: 100%; background-color: #0073e6; padding: 10px; color: white; border: 1pt solid #ffff00; border-radius: 5px; display: flex; align-items: flex-start; gap: 20px">
-  <h4 style="margin: 0;">Die Biologie des Apfels (Gelb)</h4>
-</div>
-
-<!-- Rot -->
-<div style="width: 100%; background-color: #0073e6; padding: 10px; color: white; border: 1pt solid #ff0000; border-radius: 5px; display: flex; align-items: flex-start; gap: 20px">
-  <h4 style="margin: 0;">Die Biologie des Apfels (Rot)</h4>
-</div>
-
-
+<!-- Text-Spalte -->
+<div style="flex: 3;">
+<p>
+**Interaktives Buch: Die Geschichte des Apfels**
 </p>
 
-**Sie werden im Folgenden:**
--
+<p>
+Hier werden Sie schrittweise durch die Erstellung von H5P-Elementen herangeführt. Das interaktive Buch ermöglicht die Kombination verschiedener H5P-Elemente, ohne dass sie eine LMS-Struktur benötigen.
+</p>
 
+<p>
+Die bebilderte <a href="Link zur Anleitung">Anleitung</a> führt Sie per textlichen Schrittabfolgen zu dem in der Vorschau gezeigten Ergebnis.
+<a href="Link zu den Daten">Die Daten können hier heruntergeladen werden</a>.
+</p>
+
+<p>
+**Im Anschluss können Sie in H5P:**<br>
+- In interaktiven Büchern Text- und Bildelemente austauschen und neu anlegen<br>
+- Das H5P-Element **Dialog Card** anlegen<br>
+- Das H5P-Element **Lückentext** anlegen<br>
+- Das H5P-Element **Collage** anlegen<br>
+- Das H5P-Element **Accordion** anlegen<br>
+- Das H5P-Element **Find the Hotspot** anlegen<br>
+</p>
+
+<p>
+**Viel Spaß!**
 </p>
 </div>
 
-<!-- Video -->
-<div style="flex: 1;">
-<iframe src="Bilder/Zusatzmaterial/VideoGrünZusammenschnitt.mp4" width="100%" height="315" frameborder="0" allowfullscreen></iframe>
+<!-- Video-Spalte -->
+<div style="flex: 2;">
+<video width="100%" height="auto" autoplay loop muted>
+  <source src="Zusatzmaterial/VideoGrünZusammenschnitt.mp4" type="video/mp4">
+  Ihr Browser unterstützt dieses Video nicht.
+</video>
 </div>
 
 </div>
+</div>
 
----
- 
-Icon Verzeichnis
-Übung H5P | Schwierigkeitsgrad: Medium | Interaktives Buch
 
-**Die Bedeutung von Äpfeln für die Ernährung
-Hier werden Sie schrittweise an die Erstellung von Kursräumen mit Hilfe von H5P-Elementen herangeführt. Die Worksheets führen Sie per textlichen Schrittabfolgen zu dem in der Vorschau gezeigten Ergebnis.
 
-Sie werden im Folgenden:
-... Text-, Bild- und Tabellenelemente austauschen
-… Textelemente kopieren und einfügen
-… das H5P-Element Timeline importieren und anpassen
-… das H5P-Element Guess the answer anlegen und duplizieren
-… das H5P-Element Image Choice anlegen
-… das H5P-Element Memory Game anlegen
-Alle benötigten Materialien finden Sie in diesem Verzeichnis im Ordner "Materialien"
-
-Viel Spaß 	
-https://elearning.hs-ruhrwest.de/pluginfile.php/588180/mod_folder/intro/Sequenz%2001.mp4?time=1715166264946
-
----
- 
-Icon Verzeichnis
-Didaktische Praxisbeispiele | H5P Elemente | Die Biologie des Apfels Verzeichnis
-Die Biologie des Apfels
-Hier werden Sie schrittweise an die Erstellung von Kursräumen mit Hilfe von H5P-Elementen herangeführt. Die Worksheets führen Sie per textlichen Schrittabfolgen zu dem in der Vorschau gezeigten Ergebnis.
-
-Sie werden im Folgenden:
-… Text-, Bild- und Video-Elemente austauschen
-… Textelemente kopieren und einfügen
-… ein Video ersetzen und mit
-… das H5P-Element Image-Slider anlegen
-… das H5P-Element Agamotto anlegen
-… das H5P-Element Drag-and-Drop anlegen
-Alle benötigten Materialien finden Sie in diesem Verzeichnis im Ordner "Materialien"
-
-Viel Spaß 	
 
 ---   
     
@@ -228,7 +204,8 @@ Die Umsetzung in ein Accordeon folgt!
 **Beispiele für H5P-Inhaltstypen | von H5P.org Link/URL**
 *H5P.org bietet für jeden Inhaltstyp ein Beispiel, dass über den "Wiedernutzungsbutton auch einfach übernommen werden kann.*
    
-
+--- folien auseinandernehmen, material hhu/uni köln
+--- verweis auf oersi, landesportale - orca 
 
 # Impressum 
     
