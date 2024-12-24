@@ -28,9 +28,9 @@ ABC
 <iframe src="https://h5p.org/h5p/embed/1514564" width="100%" height="300 px" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
->*Ein solcher Lernpfad ist mit dem H5P-Element "xxx" einfach zu erstellen. Auch für komplexe Ablagestrukturen wie in einem Moodle-Kurs lässt sich für die Lernenden schnell Übersichtlichkeit schaffen. Im Abschnitt ABC findet sich ein Beispiel für eine Übersicht in Moodle.*
+>*Ein solcher Lernpfad ist mit dem H5P-Element "xxx" einfach zu erstellen. Auch für komplexe Ablagestrukturen wie in einem Moodle-Kurs lässt sich für die Lernenden schnell Übersichtlichkeit schaffen. Im Abschnitt XXX findet sich ein Beispiel für eine Übersicht in Moodle.*
 
-*Jetzt geht es zunächst mit ein paar grundlegenden Hintergrundinformationen zum kleinen Alleskönner-Tool H5P!*
+*Jetzt geht es zunächst mit ein paar grundlegenden Hintergrundinformationen zum kleinen Alleskönner-Tool H5P weiter!*
 
 ## H5P - Was ist das?
 ![Einführungsbild](Bilder/H5P-WasIstDas.jpg)
@@ -40,9 +40,9 @@ ABC
 <iframe src="https://h5p.org/h5p/embed/1514563" width="50%" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 =Autorentool (Software) zur Erstellung digitaler Bildungsressourcen
-🠒 H5P ist das Akronym für HTML5 Package (Code-Basis)
+🠒 H5P ist das Akronym für **H**TML**5** **P**ackage (Code-Basis)
 🠒 entwickelt von der norwegischen Firma Joubel(seit 2022: H5P-Group). Erste Version: 2013
-U+1F812 Open Source: Die Software ist kostenfrei und offen lizensiert, d.h. der Code ist öffentlich zugänglich und kann verändert werden
+🠒 Open Source: Die Software ist kostenfrei und offen lizensiert, d.h. der Code ist öffentlich zugänglich und kann verändert werden
 U+27A Vorteil: engagierte Entwickler-Community, die kollaborativ und kontinuierlich am Code arbeitet
 U+27A Lebt den Aspekt der Offenheit und ist Teil der Openess-Bewegung
 U+27A Hohe intuitive Bedienbarkeit:„Wer in Wordpresseinen Blogartikel anlegen und veröffentlichen kann, der wird auch mit H5P zurecht kommen.“ (Nele Hirsch, E-Bildunglabor)
@@ -180,6 +180,10 @@ Im Abschnitt XXX finden sich zudem weitere Materialpools zu H5P und offenen (Bil
 
 Die folgenden drei Übungsszenarien (samt Materialkoffer) zu den interaktiven H5P-Büchern beinhalten unterschiedliche Kombinationen von H5P-Inhaltstypen. Sie wurden Stefanie Legler und Laura Schaffeld im Rahmen der [Praxiswerkstatt 2023 des Netzwerks ORCA.nrw](https://www.orca.nrw/praxiswerkstatt-oer) für den Workshop „Interaktive Lehre leicht gemacht - Lerneinheiten mit H5P erstellen“ erstellt.
 
+Hier werden Sie schrittweise durch die Erstellung von H5P-Elementen herangeführt. Das interaktive Buch ermöglicht die Kombination verschiedener H5P-Elemente, ohne dass sie eine LMS-Struktur benötigen.
+
+
+
 <div style="width: 100%; background-color: #f0f0f0; padding: 15px; border: 1pt solid #00ff00; border-radius: 5px;">
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
@@ -188,10 +192,6 @@ Die folgenden drei Übungsszenarien (samt Materialkoffer) zu den interaktiven H5
 <div style="flex: 3;">
 <p>
 **Interaktives Buch | Schwierigkeitsgrad: Einsteiger**
-</p>
-
-<p>
-Hier werden Sie schrittweise durch die Erstellung von H5P-Elementen herangeführt. Das interaktive Buch ermöglicht die Kombination verschiedener H5P-Elemente, ohne dass sie eine LMS-Struktur benötigen.
 </p>
 
 <p>
@@ -231,7 +231,7 @@ Die bebilderte <a href="Link zur Anleitung">Anleitung</a> führt Sie per textlic
 ---
 <br>
 
-<div style="width: 100%; background-color: #f0f0f0; padding: 15px; border: 1pt solid #00ff00; border-radius: 5px;">
+<div style="width: 100%; background-color: #f0f0f0; padding: 15px; border: 1pt solid #fbc214; border-radius: 5px;">
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
@@ -239,10 +239,6 @@ Die bebilderte <a href="Link zur Anleitung">Anleitung</a> führt Sie per textlic
 <div style="flex: 3;">
 <p>
 **Interaktives Buch | Schwierigkeitsgrad: Medium**
-</p>
-
-<p>
-Hier werden Sie schrittweise durch die Erstellung von H5P-Elementen herangeführt. Das interaktive Buch ermöglicht die Kombination verschiedener H5P-Elemente, ohne dass sie eine LMS-Struktur benötigen.
 </p>
 
 <p>
@@ -281,7 +277,7 @@ Die bebilderte <a href="Link zur Anleitung">Anleitung</a> führt Sie per textlic
 ---
 <br>
 
-<div style="width: 100%; background-color: #f0f0f0; padding: 15px; border: 1pt solid #00ff00; border-radius: 5px;">
+<div style="width: 100%; background-color: #f0f0f0; padding: 15px; border: 1pt solid #b50e2a; border-radius: 5px;">
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
@@ -289,10 +285,6 @@ Die bebilderte <a href="Link zur Anleitung">Anleitung</a> führt Sie per textlic
 <div style="flex: 3;">
 <p>
 **Interaktives Buch | Schwierigkeitsgrad: Fortgeschritten**
-</p>
-
-<p>
-Hier werden Sie schrittweise durch die Erstellung von H5P-Elementen herangeführt. Das interaktive Buch ermöglicht die Kombination verschiedener H5P-Elemente, ohne dass sie eine LMS-Struktur benötigen.
 </p>
 
 <p>
