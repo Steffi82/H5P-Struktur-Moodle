@@ -39,13 +39,12 @@ ABC
 <div style="width: 100%; margin: 0 auto;">  
 <iframe src="https://h5p.org/h5p/embed/1514563" width="50%" frameborder="0" allowfullscreen="true"></iframe>
 </div>
-=Autorentool (Software) zur Erstellung digitaler Bildungsressourcen
-🠒 H5P ist das Akronym für **H**TML**5** **P**ackage (Code-Basis)
-🠒 entwickelt von der norwegischen Firma Joubel(seit 2022: H5P-Group). Erste Version: 2013
-🠒 Open Source: Die Software ist kostenfrei und offen lizensiert, d.h. der Code ist öffentlich zugänglich und kann verändert werden
-U+27A Vorteil: engagierte Entwickler-Community, die kollaborativ und kontinuierlich am Code arbeitet
-U+27A Lebt den Aspekt der Offenheit und ist Teil der Openess-Bewegung
-U+27A Hohe intuitive Bedienbarkeit:„Wer in Wordpresseinen Blogartikel anlegen und veröffentlichen kann, der wird auch mit H5P zurecht kommen.“ (Nele Hirsch, E-Bildunglabor)
+* H5P ist ein Autorentool (Software) zur Erstellung digitaler Bildungsressourcen
+* H5P ist das Akronym für **H**TML**5** **P**ackage (Code-Basis)
+* entwickelt von der norwegischen Firma Joubel(seit 2022: H5P-Group). Erste Version: 2013
+* **Open Source**: Die Software ist kostenfrei und offen lizensiert, d.h. der Code ist öffentlich zugänglich und kann verändert werden  🠒 HP5 ist Teil der **Openess-Bewegung**
+* **engagierte Entwickler-Community**, die kollaborativ und kontinuierlich am Code arbeitet
+* **Hohe intuitive Bedienbarkeit:**„Wer in Wordpresseinen Blogartikel anlegen und veröffentlichen kann, der wird auch mit H5P zurecht kommen.“ (Nele Hirsch, E-Bildunglabor)
 
 ## H5P - Wie geht das?
 ![Einführungsbild](Bilder/H5P-WieGehtDas.jpg)
