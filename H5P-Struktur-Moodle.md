@@ -7,7 +7,7 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 > **Zielgruppe** | Lehrende, die ein LMS mit H5P-Integration nutzen (z.B. Moodle)
 
 > **Level** | Einsteiger
-ABC
+
 > **Metadaten** | ABC
 
 > **Lernziele**:
@@ -73,7 +73,7 @@ H5P stellt über **50 verschiedene Inhaltstypen** als Schablone für die Kombina
 </div>
 
 <div style="flex: 2;">
-<iframe src="https://h5p.org/h5p/embed/123456" width="100%" height="300" frameborder="0" allowfullscreen="true"></iframe>
+<iframe src="https://h5p.org/h5p/embed/1514565" width="100%" height="300" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 </div>
