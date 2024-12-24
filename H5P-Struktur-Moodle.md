@@ -5,8 +5,10 @@
 Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch praktische Fähigkeiten zu vermitteln, um eigene interaktiven Lernmaterialien erstellen und effektiv und sinnvoll in Lehr-Lern-Szenarien einsetzen können.
  
 > **Zielgruppe** | Lehrende, die ein LMS mit H5P-Integration nutzen (z.B. Moodle)
-> **Level** Einsteiger
-> **Metadaten**
+
+> **Level** | Einsteiger
+ABC
+> **Metadaten** | ABC
 
 > **Lernziele**:
 * einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
@@ -29,15 +31,12 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 
 >*Ein solcher Lernpfad ist mit dem H5P-Element "xxx" einfach zu erstellen. Auch für komplexe Ablagestrukturen wie in einem Moodle-Kurs lässt sich für die Lernenden schnell Übersichtlichkeit schaffen. Im Abschnitt XXX findet sich ein Beispiel für eine Übersicht in Moodle.*
 
-<p style="color: #0e75b6;"><em>Jetzt geht es zunächst mit ein paar grundlegenden Hintergrundinformationen zum kleinen Alleskönner-Tool H5P weiter!</em> </p>
+<p style="color: #0e75b6;"> *Jetzt geht es zunächst mit ein paar grundlegenden Hintergrundinformationen zum kleinen Alleskönner-Tool H5P weiter!* </p>
+
 
 ## H5P - Was ist das?
 ![Einführungsbild](Bilder/H5P-WasIstDas.jpg)
 
-> in der Ursprungsfassung, die für Moodle aufbereitet wurde, war die Einführung als [H5P-Inhaltstyp "Dialog-Cards"]() aufbereitet
-<div style="width: 100%; margin: 0 auto;">  
-<iframe src="https://h5p.org/h5p/embed/1514563" width="50%" frameborder="0" allowfullscreen="true"></iframe>
-</div>
 * H5P ist ein Autorentool (Software) zur Erstellung digitaler Bildungsressourcen
 * H5P ist das Akronym für **H**TML**5** **P**ackage (Code-Basis)
 * entwickelt von der norwegischen Firma Joubel(seit 2022: H5P-Group). Erste Version: 2013
@@ -45,10 +44,13 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 * **engagierte Entwickler-Community**, die kollaborativ und kontinuierlich am Code arbeitet
 * **Hohe intuitive Bedienbarkeit:**„Wer in Wordpresseinen Blogartikel anlegen und veröffentlichen kann, der wird auch mit H5P zurecht kommen.“ (Nele Hirsch, E-Bildunglabor)
 
+> in der Ursprungsfassung, die für Moodle aufbereitet wurde, war die Einführung als [H5P-Inhaltstyp "Dialog-Cards"](https://h5p.org/h5p/embed/1514563) aufbereitet. Für die Umsetzung in Liascript war die Darstellung weniger geeignet. Das zeigt: Es muss nicht alles interaktiv aufbereitet sein - das Nutzererlebnis steht immer im Vordergrund!
+
+
 ## H5P - Wie geht das?
 ![Einführungsbild](Bilder/H5P-WieGehtDas.jpg)
 
-H5P stellt über 50 verschiedene Inhaltstypen als Schablone für die Kombination von Medien zur Verfügung, um OER (Open Educational Resources/Offene Bildungsresourcen) produzieren zu können
+H5P stellt über **50 verschiedene Inhaltstypen** als Schablone für die Kombination von Medien zur Verfügung, um OER (Open Educational Resources/Offene Bildungsresourcen) produzieren zu können
 
 > Wichtig: Offene Ressourcen sind nicht gleich offene **Bildungs-**Resourcen!
 > Das bedeutet, dass multimediale Elemente (Bilder/Grafiken, Audio und Video) nicht in H5P erstellt werden, sondern vorher gesucht/produziert sein müssen. Sie können dann in die verschiedenen Schablonen eingefügt oder verlinkt werden, bevor sie mit interaktiven Elementen angereichert werden können.
@@ -56,18 +58,29 @@ H5P stellt über 50 verschiedene Inhaltstypen als Schablone für die Kombination
 <p style="color: #0e75b6;"> *Keine Sorge: Falls sie kein eigenes Material zur Verfügung haben, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.* </p>
 
 ---
+<div style="width: 100%; border: 2px solid #00ffff; padding: 15px; border-radius: 5px;">
 
-**Sie möchten H5P am liebsten sofort ausprobieren? Dann los!**
-In ca. 10 Minuten das folgende H5P erstellen:
-<div style="width: 50%; margin: 0 auto;">  
-<iframe src="https://h5p.org/h5p/embed/1514565" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div style="flex: 3;">
+<p> **Du möchtest H5P am liebsten sofort jetzt sofort ausprobieren? Na dann los! In ca. 10 min. erstellst du hier dein erstes interaktives Element!** </p>
+
+<p>
+* Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
+* Öffne die Webseite [Einstieg H5P](https://einstiegh5p.de/) 
+* dann gehts los: klickt einfach mit!
+</p>
 </div>
-Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
-Öffne die Anleitung und die Webseite [Einstieg H5P](https://einstiegh5p.de/) 
-dann gehts los: klickt einfach mit!
 
-> *Der Einstieg basiert auf dem H5P-Inhalt "Drag-and-Drop". 
-Das Bild eignet sich aber auch gut dazu, die ersten Hotspots zu setzen (sei es als "Find the Hotspot" oder "Image Hotspots".) Einfach ausprobieren!*
+<div style="flex: 2;">
+<iframe src="https://h5p.org/h5p/embed/123456" width="100%" height="300" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+
+</div>
+</div>
+
+> *Der Einstieg basiert auf dem H5P-Inhalt "Image Hotspots". 
+Das Bild eignet sich aber auch gut dazu, das Material "Drag-and-Drop" auszuprobieren.*
 
 ---
     	
