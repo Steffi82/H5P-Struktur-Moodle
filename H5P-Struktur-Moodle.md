@@ -40,8 +40,8 @@ ABC
 <iframe src="https://h5p.org/h5p/embed/1514563" width="50%" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 =Autorentool (Software) zur Erstellung digitaler Bildungsressourcen
-U+2192 H5P ist das Akronym für HTML5 Package (Code-Basis)
-U+1405 entwickelt von der norwegischen Firma Joubel(seit 2022: H5P-Group). Erste Version: 2013
+🠒 H5P ist das Akronym für HTML5 Package (Code-Basis)
+🠒 entwickelt von der norwegischen Firma Joubel(seit 2022: H5P-Group). Erste Version: 2013
 U+1F812 Open Source: Die Software ist kostenfrei und offen lizensiert, d.h. der Code ist öffentlich zugänglich und kann verändert werden
 U+27A Vorteil: engagierte Entwickler-Community, die kollaborativ und kontinuierlich am Code arbeitet
 U+27A Lebt den Aspekt der Offenheit und ist Teil der Openess-Bewegung
