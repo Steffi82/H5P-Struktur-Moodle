@@ -30,7 +30,7 @@ ABC
 
 >*Ein solcher Lernpfad ist mit dem H5P-Element "xxx" einfach zu erstellen. Auch für komplexe Ablagestrukturen wie in einem Moodle-Kurs lässt sich für die Lernenden schnell Übersichtlichkeit schaffen. Im Abschnitt XXX findet sich ein Beispiel für eine Übersicht in Moodle.*
 
-*Jetzt geht es zunächst mit ein paar grundlegenden Hintergrundinformationen zum kleinen Alleskönner-Tool H5P weiter!*
+<p style="color: #0e75b6;"><em>Jetzt geht es zunächst mit ein paar grundlegenden Hintergrundinformationen zum kleinen Alleskönner-Tool H5P weiter!</em> </p>
 
 ## H5P - Was ist das?
 ![Einführungsbild](Bilder/H5P-WasIstDas.jpg)
