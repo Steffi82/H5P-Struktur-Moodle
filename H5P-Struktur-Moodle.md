@@ -3,10 +3,10 @@
 ![Einführungsbild](Bilder/h5p.Kachel.jpg)
 
 Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch praktische Fähigkeiten zu vermitteln, um eigene interaktiven Lernmaterialien erstellen und effektiv und sinnvoll in Lehr-Lern-Szenarien einsetzen können.
-<p>
->**Zielgruppe** Lehrende, die ein LMS mit H5P-Integration nutzen <br>
->**Level** Einsteiger <br>
->**Metadaten**
+
+> **Zielgruppe** Lehrende, die ein LMS mit H5P-Integration nutzen - z.B. in Moodle <br>
+> **Level** Einsteiger <br>
+> **Metadaten**
 
 ABC
 **Lernziele**:
@@ -54,7 +54,7 @@ H5P stellt über 50 verschiedene Inhaltstypen als Schablone für die Kombination
 > Wichtig: Offene Ressourcen sind nicht gleich offene **Bildungs-**Resourcen!
 > Das bedeutet, dass multimediale Elemente (Bilder/Grafiken, Audio und Video) nicht in H5P erstellt werden, sondern vorher gesucht/produziert sein müssen. Sie können dann in die verschiedenen Schablonen eingefügt oder verlinkt werden, bevor sie mit interaktiven Elementen angereichert werden können.
 
-Keine Sorge: Falls sie kein eigenes Material zur Verfügung haben, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.
+<p style="color: #0e75b6;"> *Keine Sorge: Falls sie kein eigenes Material zur Verfügung haben, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.* </p>
 
 ---
 
