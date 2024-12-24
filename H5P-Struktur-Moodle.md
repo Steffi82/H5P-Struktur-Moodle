@@ -3,12 +3,12 @@
 ![Einführungsbild](Bilder/h5p.Kachel.jpg)
 
 Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch praktische Fähigkeiten zu vermitteln, um eigene interaktiven Lernmaterialien erstellen und effektiv und sinnvoll in Lehr-Lern-Szenarien einsetzen können.
- 
-> **Zielgruppe** | Lehrende, die ein LMS mit H5P-Integration nutzen (z.B. Moodle)
 
-> **Level** | Einsteiger
 
-> **Metadaten** | ABC
+**Zielgruppe** | Lehrende, die ein LMS mit H5P-Integration nutzen (z.B. Moodle)
+**Level** | Einsteiger
+
+**Metadaten** | ABC
 
 > **Lernziele**:
 * einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
@@ -55,9 +55,8 @@ H5P stellt über **50 verschiedene Inhaltstypen** als Schablone für die Kombina
 > Wichtig: Offene Ressourcen sind nicht gleich offene **Bildungs-**Resourcen!
 > Das bedeutet, dass multimediale Elemente (Bilder/Grafiken, Audio und Video) nicht in H5P erstellt werden, sondern vorher gesucht/produziert sein müssen. Sie können dann in die verschiedenen Schablonen eingefügt oder verlinkt werden, bevor sie mit interaktiven Elementen angereichert werden können.
 
-<p style="color: #0e75b6;"> *Keine Sorge: Falls sie kein eigenes Material zur Verfügung haben, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.* </p>
+Keine Sorge: Falls sie kein eigenes Material zur Verfügung haben, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.
 
----
 <div style="width: 100%; border: 2px solid #00ffff; padding: 15px; border-radius: 5px;">
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
@@ -82,8 +81,9 @@ H5P stellt über **50 verschiedene Inhaltstypen** als Schablone für die Kombina
 > *Der Einstieg basiert auf dem H5P-Inhalt "Image Hotspots". 
 Das Bild eignet sich aber auch gut dazu, das Material "Drag-and-Drop" auszuprobieren.*
 
----
-    	
+<p style="color: #0e75b6;"> *Wie geht es weiter!* </p>
+
+
 ## H5P als integrierte Ansicht (z.B. in Moodle) - Wie kommt es dahin?
 ![Einführungsbild](Bilder/h5p_2.jpg)
 
@@ -94,17 +94,28 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
 <div style="width: 80%; margin: 0 auto;">  
 <iframe src="https://h5p.org/h5p/embed/1514566" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 </div>
-   
+
+<p style="color: #0e75b6;"> *Wie geht es weiter!* </p>
+
+
 ## H5P - Was kann das?
 ![Einführungsbild](Bilder/H5P-WasKannDas.jpg)
 
---> Materialschablonen, um Inhalte medial gestützt in verschiedenen Formaten bereitzustellen **|Wissen aufbereiten**
---> Darstellungsvarianz für asynchrone Lerngelegenheiten **|Lehr-Lern-Szenarien strukturieren**
---> Lernende im Kontext des Constructive Alignment auf Lernzielkontrollen/Prüfungen vorbereiten **|Self-Assessment ermöglichen**
---> Lernende durch spielerische Akzente in der Wissensaufbereitung und -vertiefung motivieren **|Gamification**
+**Wissen aufbereiten** 
+* Materialschablonen, um Inhalte medial gestützt in verschiedenen Formaten bereitzustellen 
 
-*alle Schwerpunkte werden im Folgenden genauer beleuchtet und mit guten Praxisbeispielen versehen. Diese sind verlinkt, nicht eingebettet.
-Im Abschnitt XXX finden sich zudem weitere Materialpools zu H5P und offenen (Bildungs-)Resourcen für mehr Inspiration und als Grundlage zur Weiternutzung.*
+**Lehr-Lern-Szenarien strukturieren**
+* Darstellungsvarianz für asynchrone Lerngelegenheiten
+
+**Self-Assessment ermöglichen**
+* Lernende im Kontext des Constructive Alignment auf Lernzielkontrollen/Prüfungen vorbereiten
+* !! Wichtig!! H5P ist kein Tool für formale Tests !!  
+
+**Gamification**
+* Lernende durch spielerische Akzente in der Wissensaufbereitung und -vertiefung motivieren
+  
+<p style="color: #0e75b6;"> *alle Schwerpunkte werden im Folgenden genauer beleuchtet und mit guten Praxisbeispielen versehen. Im Abschnitt XXX finden sich zudem weitere Materialpools zu H5P und offenen (Bildungs-)Resourcen für mehr Inspiration und als Grundlage zur Weiternutzung.* </p>
+
 
 ### Wissen aufbereiten  
 **verschiedene mediale Möglichkeiten erlauben diverse Zugänge zu Inhalten:**
