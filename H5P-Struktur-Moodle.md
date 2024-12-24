@@ -4,8 +4,8 @@
 
 Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch praktische Fähigkeiten zu vermitteln, um eigene interaktiven Lernmaterialien erstellen und effektiv und sinnvoll in Lehr-Lern-Szenarien einsetzen können.
  
-> **Zielgruppe** | Lehrende, die ein LMS mit H5P-Integration nutzen (z.B. Moodle) <br>
-> **Level** Einsteiger <br>
+> **Zielgruppe** | Lehrende, die ein LMS mit H5P-Integration nutzen (z.B. Moodle)
+> **Level** Einsteiger
 > **Metadaten**
 
 > **Lernziele**:
