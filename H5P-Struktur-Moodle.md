@@ -181,7 +181,7 @@ Eine klare Struktur hilft, Orientierung zu schaffen und den Lernweg sinnvoll zu 
 
 > *Sortiert werden können sowohl* ***[Texte (Absätze/Paragraphs](https://h5p.org/content-types/sort-the-paragraphs)*** *als auch* ***[Bilder (Image Sequencing](https://h5p.org/content-types/image-sequencing)*** *.*
 
-Aufgabentypen mit* **Freitext- oder Spracheingaben** wurden bewusst ausgelassen, da diese sich in Moodle besser über Abgaben realisieren lassen.
+Aufgabentypen mit **Freitext- oder Spracheingaben** wurden bewusst ausgelassen, da diese sich in Moodle besser über Abgaben realisieren lassen.
 
 
 ### Gamificatio
