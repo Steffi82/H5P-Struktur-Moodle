@@ -20,6 +20,7 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 
 ---
 <p style="color: #0e75b6;"> *Nun aber erst einmal viel Spaß bei den ersten Schritten mit dem "kleinen Alleskönner-Tool"!* </p>
+
 ---
 
 ## Was erwartet Dich?
