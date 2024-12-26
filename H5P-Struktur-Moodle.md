@@ -152,31 +152,24 @@ Hier liegt der Fokus darauf, **Informationen klar, kompakt und einprägsam zu ve
 
 Eine weitere Möglichkeit zur Gestaltung von Lerneinheiten ist die Kombination mehrerer Inhaltstypen in einem interaktiven Format. So entstehen kompakte und vielseitige Materialien, die Lernenden abwechslungsreiche, asynchrone Lerngelegenheiten bieten.
 
-> *Das ***interaktive Buch vereint verschiedene H5P-Inhaltstypen sowie Texte, Videos und Bilder, sodass eine umfassende Lernerfahrung entsteht. Lerneinheiten können so als Paket für Lernende geschnürt werden, die im eigenen Tempo bearbeitet werden können. Es ist universell einsetzbar, sei es im [Sprachunterricht](https://ecampusontario.pressbooks.pub/introspanishworkbook/chapter/1a-1-verdadero-o-falso/), als Instrument für hochschuldidaktische Themen wie [Prüfungsformen](https://www.zoerr.de/edu-sharing/components/render/43b1a786-627f-4d8c-8a3c-b12def68dcb5) oder [Kommunikationstechniken](https://www.zoerr.de/edu-sharing/components/render/af09665b-9edd-471b-8616-31bb70bc4efa)auch als Alternative zu Moodle- und Ilias Kursen, wie der [OER-Wissenspool](https://www.twillo.de/edu-sharing/components/render/2345cca5-7ef3-4a5c-90cb-1433b3401b47), der für diverse Formate aufbereitet wurde.
+> *Das ***interaktive Buch*** vereint verschiedene H5P-Inhaltstypen sowie Texte, Videos und Bilder, sodass eine umfassende Lernerfahrung entsteht. Lerneinheiten können so als Paket für Lernende geschnürt werden, die im eigenen Tempo bearbeitet werden können. Es ist universell einsetzbar, sei es im [Sprachunterricht](https://ecampusontario.pressbooks.pub/introspanishworkbook/chapter/1a-1-verdadero-o-falso/), als Instrument für hochschuldidaktische Themen wie [Prüfungsformen](https://www.zoerr.de/edu-sharing/components/render/43b1a786-627f-4d8c-8a3c-b12def68dcb5) oder [Kommunikationstechniken](https://www.zoerr.de/edu-sharing/components/render/af09665b-9edd-471b-8616-31bb70bc4efa)auch als Alternative zu Moodle- und Ilias Kursen, wie der [OER-Wissenspool](https://www.twillo.de/edu-sharing/components/render/2345cca5-7ef3-4a5c-90cb-1433b3401b47), der für diverse Formate aufbereitet wurde.
 
 > Das ***interaktive Video*** wird nicht nur konsumiert: Es kann mit Markern versehen werden, um die [Navigation innerhalb eines Videos](https://www.twillo.de/edu-sharing/components/render/531ffd01-8ac9-41f7-b6f8-cab1d581d14b) zu ermöglichen. [Grundlegende Begriffe zu einem Thema können eingeführt](https://apps.zum.de/apps/31454)und über Quizfragen dieses neu erworbene Wissen direkt vertieft werden. Das Videomaterial wird meist spezifisch für den Anwendungskontext produziert, (vor allem außerhalb der Schranken der Lehre) vorhandenes Material selten passgenau vorhanden ist. Auch wenn dies sehr aufwändig klingt, es gibt Varianten die keine Dreharbeiten erfordern, wie [Legevideos](https://h5p.org/node/1514745) oder [Screencasts](https://apps.zum.de/apps/37652). Bedarf es allerdings doch Dreharbeiten, kann im Storytelling der Konzeption die interaktive Nachbereitung bereits mitgedacht werden.
 
 
 ### Kurse strukturieren
 
-abc 
+Eine klare Struktur hilft, Orientierung zu schaffen und den Lernweg sinnvoll zu gestalten. Das Ziel ist es, die Navigation für Lernende intuitiver zu machen und die Nutzererfahrung im digitalen Lernraum zu optimieren.
 
 ![Bild Kurse strukturieren](Bilder/ScreenPPT-Kursstruktur.jpg)
 
+> *Mit ***Image Hotspots*** lässt sich ein Überblick über einen Kurs verschaffen (so auch in diesem Kurs). Ein weiteres gelungenes Beispiel (mit Leseempfehlung) ist [Lernlandkarte didaktischer Themenfelder](https://www.edulabs.uni-koeln.de/ilias.php?ref_id=11069&cmdClass=ilrepositorygui&cmdNode=xi&baseClass=ilRepositoryGUI). Es ist auch möglich, eine komplette [Kursstruktur als Inhaltsverzeichnis](https://h5p.org/node/1514750) abzubilden, die als wachsende Struktur auch im Semester eingesetzt werden kann. *
 
-**durch optische und interaktive Elemente Orientierung bieten und den Lernweg leiten:**
-- orientieren und leiten:
-*Mit dem **Image Hotspots** lässt sich ein Überblick über einen Kurs verschaffen - siehe am Beispiel der Roadmap dieses Kurses, oder die erweitert auch zur Semesterplanung eingesetzt werden kann*
+> *Der Inhaltstyp ***[Accordion][ https://h5p.org/accordion]*** ermöglicht es, Inhalte ein- und auszuklappen. Das kann genutzt werden, um ausführliche Erläuterungen zu Begriffen, Konzeptnamen oder Thesen zu hinterlegen, den Scrollweg aber abzukürzen. oder aber auch zum Hinterlegen von Musterlösungen hinter Fragen, die Lernende zunächst im Self-Assessment beantworten können.*
 
-- vertikale Reduktion:
-
-*Der Inhaltstyp "Accordeon" ermöglicht es, Inhalte ein- und auszuklappen. Das kann genutzt werden, um ausführliche Erläuterungen zu Begriffen, Konzeptnamen oder Thesen zu hinterlegen, oder aber auch zum Hinterlegen von Musterlösungen hinter Fragen, die Lernende zunächst im Self-Assessment selbst beantworten*
-
-- horizontale Blickführung:
-*Bilder im **Image-Slider**, aber auch Course-Presentations können per Klick durchlaufen werden,  es empfielt sich dabei immer auf den Mehrwert der Darstellung zu achten. Ein Beispiel findet sich oben im Kurs bei der Einbettung von H5P in Moodle. Ein weiteres Inhaltselement ist das "Agamotto", in dem Bilder überblendet werden können.*
-
-- Flipping Around:
-*Mit dem Inhaltstyp **Dialog-Cards***
+> *Die ***Course-Presentation*** erlaubt es in die horizontale Navigation zu wechseln – für [komplexere Themenblöcke](https://h5pstudio.ecampusontario.ca/content/47195), der [Organisation von Kleingruppen](https://apps.zum.de/apps/33428) oder auch nur als [Paket aufeinander aufbauender Aufgaben](https://apps.zum.de/apps/37161). 
+Ist nur eine bildliche Darstellung notwendig, empfielt sich der ***[Image-Slider](https://apps.zum.de/apps/29684)*** 
+*Der Inhaltstyp ***Dialog-Cards*** gehört fast schon zu den spielerischen Varianten – per Klick werden Informationskarten umgedreht. In Moodle ein schöner Effekt, der Kurse auflockern kann um [Definitionen oder Kernfakten](https://h5pstudio.ecampusontario.ca/content/65495) hervorzuheben – oder um [(Reflexions-)Fragen](https://h5pstudio.ecampusontario.ca/content/77165)erst später aufzulösen. Der Mehrwert zum Accordion ist hier die Möglichkeit, Bildmaterial einzubinden.
 
   
 ### Self-Assessment ermöglichen  - dank vielfältiger Frage- und Aufgabentypen
