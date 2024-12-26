@@ -196,7 +196,7 @@ Gamification bindet spielerische Elemente in Lernprozessen ein – für eine hö
 
 > *Das* ***[Branching Szanario](https://h5p.org/branching-scenario#example=440740)*** *ist die wohl komplexeste H5P-Aktivität. Best Practice ist das preisgekrönte Serious Game eines Toronto'er Hochschulkonsortiums [Skills Practice: A Home Visit](https://h5p.org/branching-scenario) in dem ein Hausbesuch aus der Perspektive einer/eines Sozialarbeitenden erlebbar gemacht wird. Auch Umsetzungen von [Escape-Rätseln](https://deutsch-lernen.zum.de/wiki/Branching_Scenario_(H5P)) sind möglich.*
  
-> *Last but not least ermöglicht die* ***Virtual Tour (360)*** *die interaktive Erkundung von Orten, zum Beispiel des [Forum Romanums](https://herrmess.de/2020/11/23/h5p-ole-teil-8-virtual-tour-360/) – oder aber (leider noch nicht verlinkbar) das virtuelle Kennenlernen von Hochschul-Laboren.*
+> *Last but not least ermöglicht die* ***Virtual Tour (360)*** *die interaktive Erkundung von Orten, zum Beispiel des [Forum Romanums](https://herrmess.de/2020/11/23/h5p-ole-teil-8-virtual-tour-360/) – oder aber (leider noch nicht verlinkbar) das virtuelle Kennenlernen von Hochschul-Laboren. Tipps zur Erstellung gibt es im [Webinar von Oliver Tacke](https://www.oercamp.de/webinare/h5p/h5pvt360/).*
 
 
 
