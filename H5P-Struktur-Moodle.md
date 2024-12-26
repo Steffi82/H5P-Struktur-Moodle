@@ -9,7 +9,7 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 
 > **Level** | Einsteiger
 
-> **Metadaten** | H5P; Moodle; Lehr-Lern-Einheit; Struktur; interaktiv; virtuelle Lehre; HTML 5
+> **Metadaten** | H5P; Moodle; Lehr-Lern-Einheit; Struktur; interaktiv; virtuelle Lehre; HTML 5; Digitale Lernumgebung; 
 
 > **Lernziele**:
 > * einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
@@ -56,19 +56,19 @@ H5P stellt über **50 verschiedene Inhaltstypen** als Schablone für die Kombina
 > Wichtig: Offene Ressourcen sind nicht gleich offene **Bildungs-**Resourcen!
 > Das bedeutet, dass multimediale Elemente (Bilder/Grafiken, Audio und Video) nicht in H5P erstellt werden, sondern vorher gesucht/produziert sein müssen. Sie können dann in die verschiedenen Schablonen eingefügt oder verlinkt werden, bevor sie mit interaktiven Elementen angereichert werden können.
 
-Keine Sorge: Falls sie kein eigenes Material zur Verfügung haben, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.
+Keine Sorge: Falls Du spontan kein eigenes Material zur Verfügung hast, gibt es am Ende des Kurses eine umfangreiche Linkliste zu Materialpools, die eine gute Grundlage und oder Inspiration darstellen können. Dank offener Lizensierung ist die Nutzung dabei unkompliziert und rechtssicher möglich.
 
 <div style="width: 100%; border: 2px solid #00ffff; padding: 15px; border-radius: 5px;">
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
 <div style="flex: 3;">
-<p> **Du möchtest H5P am liebsten sofort jetzt sofort ausprobieren? Na dann los! In ca. 10 min. erstellst du hier dein erstes interaktives Element!** </p>
+<p> **Du möchtest H5P am liebsten sofort jetzt sofort ausprobieren? Na dann los! In ca. 10 min. erstellst Du Dein erstes interaktives Element!** </p>
 
 <p>
 * Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
 * Öffne die Webseite [Einstieg H5P](https://einstiegh5p.de/) 
-* dann gehts los: klickt einfach mit!
+* dann gehts los!
 </p>
 </div>
 
@@ -82,13 +82,13 @@ Keine Sorge: Falls sie kein eigenes Material zur Verfügung haben, gibt es am En
 > *Der Einstieg basiert auf dem H5P-Inhalt "Image Hotspots". 
 Das Bild eignet sich aber auch gut dazu, das Material "Drag-and-Drop" auszuprobieren.*
 
-<p style="color: #0e75b6;"> *Wie geht es weiter!* </p>
+<p style="color: #0e75b6;"> *Stellt sich nun die Frage: Wie kommt das ganze in meinen Kurs/mein Seminar/meinen virtuellen Klassenraum?* </p>
 
 
 ## H5P als integrierte Ansicht (z.B. in Moodle) - Wie kommt es dahin?
 ![Einführungsbild](Bilder/h5p_2.jpg)
 
-Ein neu angelegtes H5P Element wird auf der Kursebene in Moodle so angezeigt:
+Ein neu angelegtes H5P Element wird auf der Kursebene in Moodle so angezeigt: <br>
 ![Einführungsbild](Bilder/h5p-moodle-kursebene.jpg)
 
 Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, sind folgende Schritte notwendig:
@@ -96,50 +96,43 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
 <iframe src="https://h5p.org/h5p/embed/1514566" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
-<p style="color: #0e75b6;"> *Wie geht es weiter!* </p>
+<p style="color: #0e75b6;"> *Klingt für einzelne Materialien total spannend, aber die Anwendung für das große Ganze ist noch unklar? Das ändert sich jetzt!* </p>
 
 
 ## H5P - Was kann das?
 ![Einführungsbild](Bilder/H5P-WasKannDas.jpg)
 
-**Wissen aufbereiten** 
+
+<p style="color: #0e75b6;"> **Wissen aufbereiten** </p>
 * Materialschablonen, um Inhalte medial gestützt in verschiedenen Formaten bereitzustellen 
 
-**Lehr-Lern-Szenarien strukturieren**
+<p style="color: #0e75b6;"> **Lehr-Lern-Szenarien strukturieren** </p>
 * Darstellungsvarianz für asynchrone Lerngelegenheiten
 
-**Self-Assessment ermöglichen**
+<p style="color: #0e75b6;"> **Self-Assessment ermöglichen** </p>
 * Lernende im Kontext des Constructive Alignment auf Lernzielkontrollen/Prüfungen vorbereiten
 * !! Wichtig!! H5P ist kein Tool für formale Tests !!  
 
-**Gamification**
+<p style="color: #0e75b6;"> **Gamification** </p>
 * Lernende durch spielerische Akzente in der Wissensaufbereitung und -vertiefung motivieren
   
-<p style="color: #0e75b6;"> *alle Schwerpunkte werden im Folgenden genauer beleuchtet und mit guten Praxisbeispielen versehen. Im Abschnitt XXX finden sich zudem weitere Materialpools zu H5P und offenen (Bildungs-)Resourcen für mehr Inspiration und als Grundlage zur Weiternutzung.* </p>
+<p style="color: #0e75b6;"> *alle Schwerpunkte werden im Folgenden genauer beleuchtet und mit guten Praxisbeispielen versehen. Im Abschnitt XXX findet sich zudem weitere Materialpools zu H5P und offenen (Bildungs-)Resourcen für mehr Inspiration und als Grundlage zur Weiternutzung.* </p>
 
 
 ### Wissen aufbereiten  
-**verschiedene mediale Möglichkeiten erlauben diverse Zugänge zu Inhalten:**
+Hier liegt der Fokus darauf, **Informationen klar, kompakt und einprägsam zu vermitteln**. Optische Elemente setzen Ankerpunkte, lockern lange Texte auf und fördern nachhaltiges Verstehen. Entscheidend ist der Mehrwert der Aufbereitung, der dafür sorgt, dass Inhalte im Gedächtnis bleiben.
 
-- Wissen interessant und anschaulich aufbereiten
+> *Die ***Timeline*** eignet sich für alle Arten zeitlicher Abläufe, was die Abläufe von Experimenten ermöglicht. Im Versuchsaufbau Essigherstellung](https://h5p.org/node/1514726?feed_me=nps) lassen sich über die verschiedenen Kategorien lassen sich diese auch in unterschiedlichen Ebenen abbilden – im Beispiel: Wann der Zeitpunkt ist, etwas zu tun, wann etwas beobachtet werden kann und was der unsichtbare Prozess im Hintergrund ist.*
 
->Beispiel: Timeline | [Versuchsaufbau] ()
->*dfsdf*
+> **Image Juxtaposition*** *eignet sich hervorragend, um Veränderungen zwischen zwei Bildern im Detail zu vergleichen. Das H5P-Beispiel beinhalten [Luftbilder und Steady-Cam-Bilder](https://h5p.org/image-juxtaposition#example=64227), es kann aber auch verschiedene Sichtbarkeiten übereinanderblenden, wie zum Beispiel die [thermische Signatur eines Handabdrucks auf einer Tischplatte]( https://h5p.org/node/494915), oder physiologische Veränderungen, wie die [Organverschiebung während der Schwangerschaft](https://h5pstudio.ecampusontario.ca/content/10632).*
 
->Beispiel: Image Juxtaposition | Luftaufnahmen vor und nach einer Naturkatastrophe
->*dfsdf*
+> *Mit dem ***Agamotto*** ist ein H5P-Inhaltstyp, der durch schrittweises Überblenden beliebig vieler Bilder ermöglicht, Details entdecken und Zusammenhänge verstehen. Es kann für den [Aufbau geographischer Daten oder Prozesse in Karten](https://h5p.org/content-types/agamotto#example=79243), für die Simulation eines [stufenweisen Zooms auf mikroskopische Strukturen] [Beispiel](https://h5p.org/content-types/agamotto#example=79368), oder aber auch zum [Storytelling und für schrittweise Lösungshinweise](https://herrmess.de/2021/05/01/h5p-ole-folge-12-agamotto/) verwendet werden.*
 
->Beispiel: Agamotto | verschiedene Vergrößerungsaufnahmen von Zellstrukturen
->*dfsdf*--> s. Interactive Book 3
+Eine weitere Möglichkeit zur Gestaltung von Lerneinheiten ist die Kombination mehrerer Inhaltstypen in einem interaktiven Format. So entstehen kompakte und vielseitige Materialien, die Lernenden abwechslungsreiche, asynchrone Lerngelegenheiten bieten.
 
-- Werkzeuge zum Mitmachen:
-*Darstellungsvarianz für asynchrone Lerngelegenheiten, z.B. durch ein interaktives Buch*
+> *Das ***interaktive Buch vereint verschiedene H5P-Inhaltstypen sowie Texte, Videos und Bilder, sodass eine umfassende Lernerfahrung entsteht. Lerneinheiten können so als Paket für Lernende geschnürt werden, die im eigenen Tempo bearbeitet werden können. Es ist universell einsetzbar, sei es im [Sprachunterricht](https://ecampusontario.pressbooks.pub/introspanishworkbook/chapter/1a-1-verdadero-o-falso/), als Instrument für hochschuldidaktische Themen wie [Prüfungsformen](https://www.zoerr.de/edu-sharing/components/render/43b1a786-627f-4d8c-8a3c-b12def68dcb5]) oder [Kommunikationstechniken](https://www.zoerr.de/edu-sharing/components/render/af09665b-9edd-471b-8616-31bb70bc4efa)auch als Alternative zu Moodle- und Ilias Kursen, wie der [OER-Wissenspool]( https://www.twillo.de/edu-sharing/components/render/2345cca5-7ef3-4a5c-90cb-1433b3401b47), der für diverse Formate aufbereitet wurde.
 
->Beispiel: H5P-Interactive Book | [OER Basiswissen](Link)
->*dfsdf*
-
->Beispiel: Interaktives Video | [tbd](Link)
->*dfsdf*
+> Das ***interaktive Video*** wird nicht nur konsumiert: Es kann mit Markern versehen werden, um die [Navigation innerhalb eines Videos]( https://www.twillo.de/edu-sharing/components/render/531ffd01-8ac9-41f7-b6f8-cab1d581d14b) zu ermöglichen. [Grundlegende Begriffe zu einem Thema können eingeführt](https://apps.zum.de/apps/31454)und über Quizfragen dieses neu erworbene Wissen direkt vertieft werden. Das Videomaterial wird meist spezifisch für den Anwendungskontext produziert, (vor allem außerhalb der Schranken der Lehre) vorhandenes Material selten passgenau vorhanden ist. Auch wenn dies sehr aufwändig klingt, es gibt Varianten die keine Dreharbeiten erfordern, wie [Legevideos](https://h5p.org/node/1514745) oder [Screencasts](https://apps.zum.de/apps/37652). Bedarf es allerdings doch Dreharbeiten, kann im Storytelling der Konzeption die interaktive Nachbereitung bereits mitgedacht werden.
 
 
 ### Kurse strukturieren
@@ -148,6 +141,7 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
 *Mit dem **Image Hotspots** lässt sich ein Überblick über einen Kurs verschaffen - siehe am Beispiel der Roadmap dieses Kurses, die erweitert auch zur Semesterplanung eingesetzt werden kann*
 
 - vertikale Reduktion:
+
 *Der Inhaltstyp "Accordeon" ermöglicht es, Inhalte ein- und auszuklappen. Das kann genutzt werden, um ausführliche Erläuterungen zu Begriffen, Konzeptnamen oder Thesen zu hinterlegen, oder aber auch zum Hinterlegen von Musterlösungen hinter Fragen, die Lernende zunächst im Self-Assessment selbst beantworten*
 
 - horizontale Blickführung:
