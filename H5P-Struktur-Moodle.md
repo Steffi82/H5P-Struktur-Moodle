@@ -18,7 +18,7 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 > * Den didaktischen Nutzen des Tools reflektieren und für die eigene Lehre adaptieren können
 > * anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können
     
-
+<p style="color: #0e75b6;"> 
 *Nun aber erst einmal viel Spaß bei den ersten Schritten mit dem "kleinen Alleskönner-Tool"!*
 </p>
 
