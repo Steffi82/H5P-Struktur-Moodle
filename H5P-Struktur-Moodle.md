@@ -51,6 +51,7 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 
 ---
 <p style="color: #0e75b6;"> *Soviel zum Hintergrund - was lässt sich nun aber damit tun?* </p>
+
 ---
 
 ## H5P - Wie geht das?
@@ -94,6 +95,7 @@ Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
 <br>
 ---
 <p style="color: #0e75b6;"> *Stellt sich nun die Frage: Wie kommt das ganze in meinen Kurs/mein Seminar/meinen virtuellen Klassenraum?* </p>
+
 ---
 
 ## H5P als integrierte Ansicht (z.B. in Moodle) - Wie kommt es dahin?
@@ -109,11 +111,12 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
 
 ---
 <p style="color: #0e75b6;"> *Klingt für einzelne Materialien total spannend, aber die Anwendung für das große Ganze ist noch unklar? Das ändert sich jetzt!* </p>
+
 ---
 
 ## H5P - Was kann das?
-![Einführungsbild](Bilder/H5P-WasKannDas.jpg)
 
+![Einführungsbild](Bilder/H5P-WasKannDas.jpg)
 
 <p style="color: #0e75b6;"> **Wissen aufbereiten** </p>
 * Materialschablonen, um Inhalte medial gestützt in verschiedenen Formaten bereitzustellen 
@@ -123,6 +126,7 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
 
 <p style="color: #0e75b6;"> **Self-Assessment ermöglichen** </p>
 * Lernende im Kontext des Constructive Alignment auf Lernzielkontrollen/Prüfungen vorbereiten
+
 * !! Wichtig!! H5P ist kein Tool für formale Tests !!  
 
 <p style="color: #0e75b6;"> **Gamification** </p>
@@ -132,7 +136,9 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
 
 
 ### Wissen aufbereiten  
-Hier liegt der Fokus darauf, **Informationen klar, kompakt und einprägsam zu vermitteln**. Optische Elemente setzen Ankerpunkte, lockern lange Texte auf und fördern nachhaltiges Verstehen. Entscheidend ist der Mehrwert der Aufbereitung, der dafür sorgt, dass Inhalte im Gedächtnis bleiben.
+Hier liegt der Fokus darauf, **Informationen klar, kompakt und einprägsam zu vermitteln**. Optische Elemente setzen Ankerpunkte, lockern lange Texte auf und fördern nachhaltiges Verstehen. Entscheidend ist der Mehrwert der Aufbereitung, der dafür sorgt, dass Inhalte im Gedächtnis bleiben. Es gilt der alte Spruch: Der Fisch muss nicht dem Angler schmecken!
+
+![Bild Wissen aufbereiten](Bilder/ScreenPPT-WissenAufbereiten.jpg)
 
 > *Die ***Timeline*** eignet sich für alle Arten zeitlicher Abläufe, was die Abläufe von Experimenten ermöglicht. Im [Versuchsaufbau Essigherstellung](https://h5p.org/node/1514726?feed_me=nps) lassen sich über die verschiedenen Kategorien lassen sich diese auch in unterschiedlichen Ebenen abbilden – im Beispiel: Wann der Zeitpunkt ist, etwas zu tun, wann etwas beobachtet werden kann und was der unsichtbare Prozess im Hintergrund ist.*
 
@@ -148,9 +154,15 @@ Eine weitere Möglichkeit zur Gestaltung von Lerneinheiten ist die Kombination m
 
 
 ### Kurse strukturieren
+
+abc 
+
+![Bild Kurse strukturieren](Bilder/ScreenPPT-Kursstruktur.jpg)
+
+
 **durch optische und interaktive Elemente Orientierung bieten und den Lernweg leiten:**
 - orientieren und leiten:
-*Mit dem **Image Hotspots** lässt sich ein Überblick über einen Kurs verschaffen - siehe am Beispiel der Roadmap dieses Kurses, die erweitert auch zur Semesterplanung eingesetzt werden kann*
+*Mit dem **Image Hotspots** lässt sich ein Überblick über einen Kurs verschaffen - siehe am Beispiel der Roadmap dieses Kurses, oder die erweitert auch zur Semesterplanung eingesetzt werden kann*
 
 - vertikale Reduktion:
 
@@ -167,6 +179,10 @@ Eine weitere Möglichkeit zur Gestaltung von Lerneinheiten ist die Kombination m
 **neben der Möglichkeit, Verständnisfragen über ein Accordeon darzustellen, gibt s noch vielfältigere weitere Frage-/ und Aufgabearten, die sich folgendermaßen clustern lassen:**
 
 *zur Vor- und Nachbereitung von Veranstaltungen oder Wissensabfrage in der Selbstlernphase - H5P eignet sich nicht für formale Tests!*
+
+![Bild Self Assessment](Bilder/ScreenPPT-SelfAssessment.jpg)
+
+
 
 > Beispiel | Quiz (Question Set | ...zum Flüssigkeitsthermometer Interaktiver Inhalt
 
@@ -197,6 +213,9 @@ Eine weitere Möglichkeit zur Gestaltung von Lerneinheiten ist die Kombination m
 
 ### Gamification
 **meint, Lernangebote mit (vereinzelten) Spielelelementen anzureichern**
+
+![Bild Gamification](Bilder/ScreenPPT-Gamification.jpg)
+
 > Crossword | Kreuzworträtsel Elektrostatik Interaktiver Inhalt
 > Memory Game | Schmetterling-und-Raupe Interaktiver Inhalt
 > Find the Words | Komplexe Zahlen Interaktiver Inhalt
