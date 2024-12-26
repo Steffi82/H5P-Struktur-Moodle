@@ -133,9 +133,11 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
 
 <p style="color: #0e75b6;"> **Gamification** </p>
 * Lernende durch spielerische Akzente in der Wissensaufbereitung und -vertiefung motivieren
-  
+
+---
 <p style="color: #0e75b6;"> *alle Schwerpunkte werden im Folgenden genauer beleuchtet und mit guten Praxisbeispielen versehen. Im Abschnitt XXX findet sich zudem weitere Materialpools zu H5P und offenen (Bildungs-)Resourcen für mehr Inspiration und als Grundlage zur Weiternutzung.* </p>
 
+---
 
 ### Wissen aufbereiten  
 Hier liegt der Fokus darauf, **Informationen klar, kompakt und einprägsam zu vermitteln**. Optische Elemente setzen Ankerpunkte, lockern lange Texte auf und fördern nachhaltiges Verstehen. Entscheidend ist der Mehrwert der Aufbereitung, der dafür sorgt, dass Inhalte im Gedächtnis bleiben. Es gilt der alte Spruch: Der Fisch muss nicht dem Angler schmecken!
