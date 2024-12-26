@@ -181,7 +181,7 @@ H5P bietet eine breite Palette von Frage- und Aufgabentypen, die zur Vor- und Na
 *Achtung: geeignet zur Vor- und Nachbereitung von Veranstaltungen oder Wissensabfrage in der Selbstlernphase - H5P eignet sich nicht für formale Tests!*
 
 ![Bild Self Assessment](Bilder/ScreenPPT-SelfAssessment.jpg)
- 
+
 > *Im* ***[Quiz (Question Set)](https://www.twillo.de/edu-sharing/components/render/587d9a6c-9889-440d-ba19-2f16d2d5f23b)*** *sind diverse Fragetypen abgedeckt - über die klassischen [Ja/Nein](https://h5p.org/true-false)*** *,* ***[Single-](https://h5p.org/single-choice-set)*** *und* ***[Multiple-Choice](https://h5p.org/multichoice)*** *Fragen hinaus.*
 
 > *Zuordnungs-Aufgaben können mit der* ***Drag&Drop Mechanik](https://h5p.org/node/1514744)*** *realisiert werden. Es gibt einzelne H5P-Schablonen sowohl für* ***[Lückentexte]( https://h5p.org/advanced-fill-the-blanks)*** *als auch für* ***[Bilder (Image Pairing](https://h5p.org/image-pairing)***. *Besonderes Highlight: Die Umsetzung eines D&D als* ***[Puzzle zum Stickstoffkreislauf](https://apps.zum.de/apps/22045)*** *!*
