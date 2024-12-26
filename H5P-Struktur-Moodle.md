@@ -70,8 +70,11 @@ Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
 
     Öffne die Webseite [Einstieg H5P](https://einstiegh5p.de/) 
     ... dann gehts los!
-
+</p>
+<p>
     Der Einstieg basiert auf dem H5P-Inhalt [Image Hotspots](https://h5p.org/image-hotspots). 
+</p> 
+<p> 
     Das Bild eignet sich aber auch gut dazu, das Material [Drag-and-Drop](https://h5p.org/drag-and-drop) auszuprobieren.
 </p>
 
@@ -83,7 +86,7 @@ Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
 
 </div>
 </div>
-
+<br>
 <p style="color: #0e75b6;"> *Stellt sich nun die Frage: Wie kommt das ganze in meinen Kurs/mein Seminar/meinen virtuellen Klassenraum?* </p>
 
 
