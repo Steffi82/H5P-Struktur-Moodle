@@ -169,7 +169,7 @@ Eine klare Struktur hilft, Orientierung zu schaffen und den Lernweg sinnvoll zu 
 
 > *Die ***Course-Presentation*** erlaubt es in die horizontale Navigation zu wechseln – für [komplexere Themenblöcke](https://h5pstudio.ecampusontario.ca/content/47195), der [Organisation von Kleingruppen](https://apps.zum.de/apps/33428) oder auch nur als [Paket aufeinander aufbauender Aufgaben](https://apps.zum.de/apps/37161).*
 
-> *Ist nur eine bildliche Darstellung notwendig, empfielt sich der****[Image-Slider](https://apps.zum.de/apps/29684)***
+> *Ist nur eine bildliche Darstellung notwendig, empfiehlt sich der****[Image-Slider](https://apps.zum.de/apps/29684)***
 
 > *Der Inhaltstyp ***Dialog-Cards*** gehört fast schon zu den spielerischen Varianten – per Klick werden Informationskarten umgedreht. In Moodle ein schöner Effekt, der Kurse auflockern kann um [Definitionen oder Kernfakten](https://h5pstudio.ecampusontario.ca/content/65495) hervorzuheben – oder um [(Reflexions-)Fragen](https://h5pstudio.ecampusontario.ca/content/77165)erst später aufzulösen. Der Mehrwert zum Accordion ist hier die Möglichkeit, Bildmaterial einzubinden.*
 
