@@ -123,15 +123,15 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
 <p style="color: #0e75b6;"> **Wissen aufbereiten** </p>
 * Materialschablonen, um Inhalte medial gestützt in verschiedenen Formaten bereitzustellen 
 
-<p style="color: #0e75b6;"> **Lehr-Lern-Szenarien strukturieren** </p>
+<p> style="color: #0e75b6;"> **Lehr-Lern-Szenarien strukturieren** </p>
 * Darstellungsvarianz für asynchrone Lerngelegenheiten
 
-<p style="color: #0e75b6;"> **Self-Assessment ermöglichen** </p>
+<p> style="color: #0e75b6;"> **Self-Assessment ermöglichen** </p>
 * Lernende im Kontext des Constructive Alignment auf Lernzielkontrollen/Prüfungen vorbereiten
 
 * !! Wichtig!! H5P ist kein Tool für formale Tests !!  
 
-<p style="color: #0e75b6;"> **Gamification** </p>
+<p> style="color: #0e75b6;"> **Gamification** </p>
 * Lernende durch spielerische Akzente in der Wissensaufbereitung und -vertiefung motivieren
 
 ---
