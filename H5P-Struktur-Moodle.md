@@ -12,11 +12,11 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 > **Metadaten** | H5P; Moodle; Lehr-Lern-Einheit; Struktur; interaktiv; virtuelle Lehre; HTML 5; Digitale Lernumgebung; 
 
 > **Lernziele**:
-> * einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
-> * Das Tool H5P in einer Mikro-Übung praktisch kennenlernen
-> * Die Einbindungsmöglichkeiten von H5P via iFrame (z.B. in Moodle) kennen und anwenden können
-> * Den didaktischen Nutzen des Tools reflektieren und für die eigene Lehre adaptieren können
-> * anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können
+* einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
+* Das Tool H5P in einer Mikro-Übung praktisch kennenlernen
+* Die Einbindungsmöglichkeiten von H5P via iFrame (z.B. in Moodle) kennen und anwenden können
+* Den didaktischen Nutzen des Tools reflektieren und für die eigene Lehre adaptieren können
+* anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können
     
 <p style="color: #0e75b6;"> *Nun aber erst einmal viel Spaß bei den ersten Schritten mit dem "kleinen Alleskönner-Tool"!* </p>
 
@@ -28,7 +28,7 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 <iframe src="https://h5p.org/h5p/embed/1514564" width="100%" height="300 px" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
->*Ein solcher Lernpfad ist mit dem H5P-Element "xxx" einfach zu erstellen. Auch für komplexe Ablagestrukturen wie in einem Moodle-Kurs lässt sich für die Lernenden schnell Übersichtlichkeit schaffen. Im Abschnitt XXX findet sich ein Beispiel für eine Übersicht in Moodle.*
+>*Ein solcher Lernpfad ist mit dem H5P-Element [Image Hotspots](https://h5p.org/image-hotspots) einfach zu erstellen. Auch für komplexe Ablagestrukturen wie in einem Moodle-Kurs lässt sich für die Lernenden schnell Übersichtlichkeit schaffen. Ein Beispiel für eine Übersicht in Moodle findet sich bei den Beispielen.*
 
 <p style="color: #0e75b6;"> *Jetzt geht es zunächst mit ein paar grundlegenden Hintergrundinformationen zum kleinen Alleskönner-Tool H5P weiter!* </p>
 
@@ -124,7 +124,7 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
 ### Wissen aufbereiten  
 Hier liegt der Fokus darauf, **Informationen klar, kompakt und einprägsam zu vermitteln**. Optische Elemente setzen Ankerpunkte, lockern lange Texte auf und fördern nachhaltiges Verstehen. Entscheidend ist der Mehrwert der Aufbereitung, der dafür sorgt, dass Inhalte im Gedächtnis bleiben.
 
-> *Die ***Timeline*** eignet sich für alle Arten zeitlicher Abläufe, was die Abläufe von Experimenten ermöglicht. Im Versuchsaufbau Essigherstellung](https://h5p.org/node/1514726?feed_me=nps) lassen sich über die verschiedenen Kategorien lassen sich diese auch in unterschiedlichen Ebenen abbilden – im Beispiel: Wann der Zeitpunkt ist, etwas zu tun, wann etwas beobachtet werden kann und was der unsichtbare Prozess im Hintergrund ist.*
+> *Die ***Timeline*** eignet sich für alle Arten zeitlicher Abläufe, was die Abläufe von Experimenten ermöglicht. Im [Versuchsaufbau Essigherstellung](https://h5p.org/node/1514726?feed_me=nps) lassen sich über die verschiedenen Kategorien lassen sich diese auch in unterschiedlichen Ebenen abbilden – im Beispiel: Wann der Zeitpunkt ist, etwas zu tun, wann etwas beobachtet werden kann und was der unsichtbare Prozess im Hintergrund ist.*
 
 > ***Image Juxtaposition*** *eignet sich hervorragend, um Veränderungen zwischen zwei Bildern im Detail zu vergleichen. Das H5P-Beispiel beinhalten [Luftbilder und Steady-Cam-Bilder](https://h5p.org/image-juxtaposition#example=64227), es kann aber auch verschiedene Sichtbarkeiten übereinanderblenden, wie zum Beispiel die [thermische Signatur eines Handabdrucks auf einer Tischplatte](https://h5p.org/node/494915), oder physiologische Veränderungen, wie die [Organverschiebung während der Schwangerschaft](https://h5pstudio.ecampusontario.ca/content/10632).*
 
