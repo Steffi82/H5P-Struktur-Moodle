@@ -184,20 +184,23 @@ Eine klare Struktur hilft, Orientierung zu schaffen und den Lernweg sinnvoll zu 
 Aufgabentypen mit **Freitext- oder Spracheingaben** wurden bewusst ausgelassen, da diese sich in Moodle besser über Abgaben realisieren lassen.
 
 
-### Gamificatio
-**meint, Lernangebote mit (vereinzelten) Spielelelementen anzureichern**
+### Gamification
+
+Gamification bindet spielerische Elemente in Lernprozessen ein – für eine höhere Motivation und aktives Engagement der Lernenden. Dabei kann Gamification von einfachen Übungen bis hin zu komplexen, interaktiven Szenarien reichen. Hier sind einige inspirierende Beispiele, wie Spielelemente in verschiedenen Lernkontexten integriert werden können:
 
 ![Bild Gamification](Bilder/ScreenPPT-Gamification.jpg)
 
-> Crossword | Kreuzworträtsel Elektrostatik Interaktiver Inhalt
-> Memory Game | Schmetterling-und-Raupe Interaktiver Inhalt
-> Find the Words | Komplexe Zahlen Interaktiver Inhalt
-> Virtual Tour (360) | Das Forum Romanum: Das Haus der Vestalinnen Interaktiver Inhalt
+> *Die Klassiker reichen vom* ***[Kreuzworträtsel](https://h5p.manni-dreier.de/?p=173)*** *über* ***[Memory](https://h5p.org/node/1514754)*** *bis zum* ***[Buchstabensalat (Find the Words)](https://apps.zum.de/apps/21210)*** *, in die durchaus auch Fachwissen transportiert werden kann.*
 
-*Ein sehr aufwändiges Branching Szanario ist das preisgekrönte Serious Game eines Toronto'er Hochschulkonsortiums "Skills Practice: A Home Visit", in dem ein Hausbesuch aus der Perspektive einer/eines Sozialarbeitenden erlebbar gemacht wird.* 
+> *Über die* ***[Game Map](https://h5p.org/content-types/game-map)*** *lassen sich Stationen definieren, wobei verschiedene H5P-Inhaltsypen miteinander verknüpft werden können – inklusive optionaler Zeitbegrenzung und Freischaltung weiterer Bereiche der Karte. Obwohl noch ein sehr junger Inhaltstyp (von 2023) gibt es bereits viele tolle Beispiele, unter anderem die lizenzrechtlich unbedenkliche Variante von [Wer wird Millionär?](https://apps.zum.de/apps/33868).*
+
+> *Das* ***[Branching Szanario](https://h5p.org/branching-scenario#example=440740)*** *ist die wohl komplexeste H5P-Aktivität. Best Practice ist das preisgekrönte Serious Game eines Toronto'er Hochschulkonsortiums [Skills Practice: A Home Visit](https://h5p.org/branching-scenario) in dem ein Hausbesuch aus der Perspektive einer/eines Sozialarbeitenden erlebbar gemacht wird. Auch Umsetzungen von [Escape-Rätseln](https://deutsch-lernen.zum.de/wiki/Branching_Scenario_(H5P)) sind möglich.*
+ 
+> *Last but not least ermöglicht die* ***Virtual Tour (360)*** *die interaktive Erkundung von Orten, zum Beispiel des [Forum Romanums](https://herrmess.de/2020/11/23/h5p-ole-teil-8-virtual-tour-360/) – oder aber (leider noch nicht verlinkbar) das virtuelle Kennenlernen von Hochschul-Laboren.*
+
+
 
 ## Nachspielzeit - H5P Übungen intensiv ausprobieren---
-
 
 Die folgenden drei Übungsszenarien (samt Materialkoffer) zu den interaktiven H5P-Büchern beinhalten unterschiedliche Kombinationen von H5P-Inhaltstypen. Sie wurden Stefanie Legler und Laura Schaffeld im Rahmen der [Praxiswerkstatt 2023 des Netzwerks ORCA.nrw](https://www.orca.nrw/praxiswerkstatt-oer) für den Workshop „Interaktive Lehre leicht gemacht - Lerneinheiten mit H5P erstellen“ erstellt.
 
