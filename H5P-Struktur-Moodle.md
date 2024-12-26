@@ -173,18 +173,18 @@ Eine klare Struktur hilft, Orientierung zu schaffen und den Lernweg sinnvoll zu 
 
 > *Der Inhaltstyp ***Dialog-Cards*** gehört fast schon zu den spielerischen Varianten – per Klick werden Informationskarten umgedreht. In Moodle ein schöner Effekt, der Kurse auflockern kann um [Definitionen oder Kernfakten](https://h5pstudio.ecampusontario.ca/content/65495) hervorzuheben – oder um [(Reflexions-)Fragen](https://h5pstudio.ecampusontario.ca/content/77165)erst später aufzulösen. Der Mehrwert zum Accordion ist hier die Möglichkeit, Bildmaterial einzubinden.*
  
-> *Im* ***[Quiz (Question Set)]( https://www.twillo.de/edu-sharing/components/render/587d9a6c-9889-440d-ba19-2f16d2d5f23b)*** *sind diverse Fragetypen abgedeckt - über die klassischen [Ja/Nein](https://h5p.org/true-false)*** *,* ***[Single-](https://h5p.org/single-choice-set)*** *und* ***[Multiple-Choice]( https://h5p.org/multichoice)*** *Fragen hinaus.*
+> *Im* ***[Quiz (Question Set)](https://www.twillo.de/edu-sharing/components/render/587d9a6c-9889-440d-ba19-2f16d2d5f23b)*** *sind diverse Fragetypen abgedeckt - über die klassischen [Ja/Nein](https://h5p.org/true-false)*** *,* ***[Single-](https://h5p.org/single-choice-set)*** *und* ***[Multiple-Choice](https://h5p.org/multichoice)*** *Fragen hinaus.*
 
 > *Zuordnungs-Aufgaben können mit der* ***Drag&Drop Mechanik](https://h5p.org/node/1514744)*** *realisiert werden. Es gibt einzelne H5P-Schablonen sowohl für* ***[Lückentexte]( https://h5p.org/advanced-fill-the-blanks)*** *als auch für* ***[Bilder (Image Pairing](https://h5p.org/image-pairing)***. *Besonderes Highlight: Die Umsetzung eines D&D als* ***[Puzzle zum Stickstoffkreislauf](https://apps.zum.de/apps/22045)*** *!*
 
-> *Auch* ***Suchen und Finden*** *ist möglich, z.B. über* ***[Find the Hotspot](https://h5p.org/image-hotspot-question)*** *, oder auch im weiteren Sinne für Text durch* ***[Markieren von Worten](https://h5p.org/mark-the-words)*** *und* [Bild/Medien-Auswahl](https://h5p.org/content-types/image-choice
+> *Auch* ***Suchen und Finden*** *ist möglich, z.B. über* ***[Find the Hotspot](https://h5p.org/image-hotspot-question)*** *, oder auch im weiteren Sinne für Text durch* ***[Markieren von Worten](https://h5p.org/mark-the-words)*** *und* ***[Bild/Medien-Auswahl](https://h5p.org/content-types/image-choice)*** *.*
 
 > *Sortiert werden können sowohl* ***[Texte (Absätze/Paragraphs](https://h5p.org/content-types/sort-the-paragraphs)*** *als auch* ***[Bilder (Image Sequencing](https://h5p.org/content-types/image-sequencing)*** *.*
 
-> *Aufgabentypen mit* ***Freitext- oder Spracheingaben*** *wurden bewusst ausgelassen, da diese sich in Moodle besser über Abgaben realisieren lassen.* 
+Aufgabentypen mit* **Freitext- oder Spracheingaben** wurden bewusst ausgelassen, da diese sich in Moodle besser über Abgaben realisieren lassen.
 
 
-### Gamification
+### Gamificatio
 **meint, Lernangebote mit (vereinzelten) Spielelelementen anzureichern**
 
 ![Bild Gamification](Bilder/ScreenPPT-Gamification.jpg)
