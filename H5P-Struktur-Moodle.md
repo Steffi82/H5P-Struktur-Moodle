@@ -66,10 +66,15 @@ Keine Sorge: Falls Du spontan kein eigenes Material zur Verfügung hast, gibt es
 <p> **Du möchtest H5P am liebsten sofort jetzt sofort ausprobieren? Na dann los! In ca. 10 min. erstellst Du Dein erstes interaktives Element!** </p>
 
 <p>
-* Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
-* Öffne die Webseite [Einstieg H5P](https://einstiegh5p.de/) 
-* dann gehts los!
+Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
+
+    Öffne die Webseite [Einstieg H5P](https://einstiegh5p.de/) 
+    ... dann gehts los!
+
+    Der Einstieg basiert auf dem H5P-Inhalt [Image Hotspots](https://h5p.org/image-hotspots). 
+    Das Bild eignet sich aber auch gut dazu, das Material [Drag-and-Drop](https://h5p.org/drag-and-drop) auszuprobieren.
 </p>
+
 </div>
 
 <div style="flex: 2;">
@@ -78,9 +83,6 @@ Keine Sorge: Falls Du spontan kein eigenes Material zur Verfügung hast, gibt es
 
 </div>
 </div>
-
-> *Der Einstieg basiert auf dem H5P-Inhalt "Image Hotspots". 
-Das Bild eignet sich aber auch gut dazu, das Material "Drag-and-Drop" auszuprobieren.*
 
 <p style="color: #0e75b6;"> *Stellt sich nun die Frage: Wie kommt das ganze in meinen Kurs/mein Seminar/meinen virtuellen Klassenraum?* </p>
 
@@ -124,15 +126,15 @@ Hier liegt der Fokus darauf, **Informationen klar, kompakt und einprägsam zu ve
 
 > *Die ***Timeline*** eignet sich für alle Arten zeitlicher Abläufe, was die Abläufe von Experimenten ermöglicht. Im Versuchsaufbau Essigherstellung](https://h5p.org/node/1514726?feed_me=nps) lassen sich über die verschiedenen Kategorien lassen sich diese auch in unterschiedlichen Ebenen abbilden – im Beispiel: Wann der Zeitpunkt ist, etwas zu tun, wann etwas beobachtet werden kann und was der unsichtbare Prozess im Hintergrund ist.*
 
-> **Image Juxtaposition*** *eignet sich hervorragend, um Veränderungen zwischen zwei Bildern im Detail zu vergleichen. Das H5P-Beispiel beinhalten [Luftbilder und Steady-Cam-Bilder](https://h5p.org/image-juxtaposition#example=64227), es kann aber auch verschiedene Sichtbarkeiten übereinanderblenden, wie zum Beispiel die [thermische Signatur eines Handabdrucks auf einer Tischplatte]( https://h5p.org/node/494915), oder physiologische Veränderungen, wie die [Organverschiebung während der Schwangerschaft](https://h5pstudio.ecampusontario.ca/content/10632).*
+> ***Image Juxtaposition*** *eignet sich hervorragend, um Veränderungen zwischen zwei Bildern im Detail zu vergleichen. Das H5P-Beispiel beinhalten [Luftbilder und Steady-Cam-Bilder](https://h5p.org/image-juxtaposition#example=64227), es kann aber auch verschiedene Sichtbarkeiten übereinanderblenden, wie zum Beispiel die [thermische Signatur eines Handabdrucks auf einer Tischplatte](https://h5p.org/node/494915), oder physiologische Veränderungen, wie die [Organverschiebung während der Schwangerschaft](https://h5pstudio.ecampusontario.ca/content/10632).*
 
-> *Mit dem ***Agamotto*** ist ein H5P-Inhaltstyp, der durch schrittweises Überblenden beliebig vieler Bilder ermöglicht, Details entdecken und Zusammenhänge verstehen. Es kann für den [Aufbau geographischer Daten oder Prozesse in Karten](https://h5p.org/content-types/agamotto#example=79243), für die Simulation eines [stufenweisen Zooms auf mikroskopische Strukturen] [Beispiel](https://h5p.org/content-types/agamotto#example=79368), oder aber auch zum [Storytelling und für schrittweise Lösungshinweise](https://herrmess.de/2021/05/01/h5p-ole-folge-12-agamotto/) verwendet werden.*
+> *Mit dem ***Agamotto*** ist ein H5P-Inhaltstyp, der durch schrittweises Überblenden beliebig vieler Bilder ermöglicht, Details entdecken und Zusammenhänge verstehen. Es kann für den [Aufbau geographischer Daten oder Prozesse in Karten](https://h5p.org/content-types/agamotto#example=79243), für die Simulation eines [stufenweisen Zooms auf mikroskopische Strukturen](https://h5p.org/content-types/agamotto#example=79368), oder aber auch zum [Storytelling und für schrittweise Lösungshinweise](https://herrmess.de/2021/05/01/h5p-ole-folge-12-agamotto/) verwendet werden.*
 
 Eine weitere Möglichkeit zur Gestaltung von Lerneinheiten ist die Kombination mehrerer Inhaltstypen in einem interaktiven Format. So entstehen kompakte und vielseitige Materialien, die Lernenden abwechslungsreiche, asynchrone Lerngelegenheiten bieten.
 
-> *Das ***interaktive Buch vereint verschiedene H5P-Inhaltstypen sowie Texte, Videos und Bilder, sodass eine umfassende Lernerfahrung entsteht. Lerneinheiten können so als Paket für Lernende geschnürt werden, die im eigenen Tempo bearbeitet werden können. Es ist universell einsetzbar, sei es im [Sprachunterricht](https://ecampusontario.pressbooks.pub/introspanishworkbook/chapter/1a-1-verdadero-o-falso/), als Instrument für hochschuldidaktische Themen wie [Prüfungsformen](https://www.zoerr.de/edu-sharing/components/render/43b1a786-627f-4d8c-8a3c-b12def68dcb5]) oder [Kommunikationstechniken](https://www.zoerr.de/edu-sharing/components/render/af09665b-9edd-471b-8616-31bb70bc4efa)auch als Alternative zu Moodle- und Ilias Kursen, wie der [OER-Wissenspool]( https://www.twillo.de/edu-sharing/components/render/2345cca5-7ef3-4a5c-90cb-1433b3401b47), der für diverse Formate aufbereitet wurde.
+> *Das ***interaktive Buch vereint verschiedene H5P-Inhaltstypen sowie Texte, Videos und Bilder, sodass eine umfassende Lernerfahrung entsteht. Lerneinheiten können so als Paket für Lernende geschnürt werden, die im eigenen Tempo bearbeitet werden können. Es ist universell einsetzbar, sei es im [Sprachunterricht](https://ecampusontario.pressbooks.pub/introspanishworkbook/chapter/1a-1-verdadero-o-falso/), als Instrument für hochschuldidaktische Themen wie [Prüfungsformen](https://www.zoerr.de/edu-sharing/components/render/43b1a786-627f-4d8c-8a3c-b12def68dcb5) oder [Kommunikationstechniken](https://www.zoerr.de/edu-sharing/components/render/af09665b-9edd-471b-8616-31bb70bc4efa)auch als Alternative zu Moodle- und Ilias Kursen, wie der [OER-Wissenspool](https://www.twillo.de/edu-sharing/components/render/2345cca5-7ef3-4a5c-90cb-1433b3401b47), der für diverse Formate aufbereitet wurde.
 
-> Das ***interaktive Video*** wird nicht nur konsumiert: Es kann mit Markern versehen werden, um die [Navigation innerhalb eines Videos]( https://www.twillo.de/edu-sharing/components/render/531ffd01-8ac9-41f7-b6f8-cab1d581d14b) zu ermöglichen. [Grundlegende Begriffe zu einem Thema können eingeführt](https://apps.zum.de/apps/31454)und über Quizfragen dieses neu erworbene Wissen direkt vertieft werden. Das Videomaterial wird meist spezifisch für den Anwendungskontext produziert, (vor allem außerhalb der Schranken der Lehre) vorhandenes Material selten passgenau vorhanden ist. Auch wenn dies sehr aufwändig klingt, es gibt Varianten die keine Dreharbeiten erfordern, wie [Legevideos](https://h5p.org/node/1514745) oder [Screencasts](https://apps.zum.de/apps/37652). Bedarf es allerdings doch Dreharbeiten, kann im Storytelling der Konzeption die interaktive Nachbereitung bereits mitgedacht werden.
+> Das ***interaktive Video*** wird nicht nur konsumiert: Es kann mit Markern versehen werden, um die [Navigation innerhalb eines Videos](https://www.twillo.de/edu-sharing/components/render/531ffd01-8ac9-41f7-b6f8-cab1d581d14b) zu ermöglichen. [Grundlegende Begriffe zu einem Thema können eingeführt](https://apps.zum.de/apps/31454)und über Quizfragen dieses neu erworbene Wissen direkt vertieft werden. Das Videomaterial wird meist spezifisch für den Anwendungskontext produziert, (vor allem außerhalb der Schranken der Lehre) vorhandenes Material selten passgenau vorhanden ist. Auch wenn dies sehr aufwändig klingt, es gibt Varianten die keine Dreharbeiten erfordern, wie [Legevideos](https://h5p.org/node/1514745) oder [Screencasts](https://apps.zum.de/apps/37652). Bedarf es allerdings doch Dreharbeiten, kann im Storytelling der Konzeption die interaktive Nachbereitung bereits mitgedacht werden.
 
 
 ### Kurse strukturieren
