@@ -10,7 +10,7 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 > **Level** | Einsteiger
 
 > **Metadaten** | H5P; Moodle; Lehr-Lern-Einheit; Struktur; interaktiv; virtuelle Lehre; HTML 5
-> 
+
 > **Lernziele**:
 > * einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
 > * Das Tool H5P in einer Mikro-Übung praktisch kennenlernen
