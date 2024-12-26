@@ -17,8 +17,10 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 * Die Einbindungsmöglichkeiten von H5P via iFrame (z.B. in Moodle) kennen und anwenden können
 * Den didaktischen Nutzen des Tools reflektieren und für die eigene Lehre adaptieren können
 * anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können
-    
+
+---
 <p style="color: #0e75b6;"> *Nun aber erst einmal viel Spaß bei den ersten Schritten mit dem "kleinen Alleskönner-Tool"!* </p>
+---
 
 ## Was erwartet Dich?
 
@@ -30,8 +32,9 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 
 >*Ein solcher Lernpfad ist mit dem H5P-Element [Image Hotspots](https://h5p.org/image-hotspots) einfach zu erstellen. Auch für komplexe Ablagestrukturen wie in einem Moodle-Kurs lässt sich für die Lernenden schnell Übersichtlichkeit schaffen. Ein Beispiel für eine Übersicht in Moodle findet sich bei den Beispielen.*
 
+---
 <p style="color: #0e75b6;"> *Jetzt geht es zunächst mit ein paar grundlegenden Hintergrundinformationen zum kleinen Alleskönner-Tool H5P weiter!* </p>
-
+---
 
 ## H5P - Was ist das?
 ![Einführungsbild](Bilder/H5P-WasIstDas.jpg)
@@ -45,8 +48,9 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 
 > in der Ursprungsfassung, die für Moodle aufbereitet wurde, war die Einführung als [H5P-Inhaltstyp "Dialog-Cards"](https://h5p.org/h5p/embed/1514563) aufbereitet. Für die Umsetzung in Liascript war die Darstellung weniger geeignet. Das zeigt: Es muss nicht alles interaktiv aufbereitet sein - das Nutzererlebnis steht immer im Vordergrund!
 
+---
 <p style="color: #0e75b6;"> *Soviel zum Hintergrund - was lässt sich nun aber damit tun?* </p>
-
+---
 
 ## H5P - Wie geht das?
 ![Einführungsbild](Bilder/H5P-WieGehtDas.jpg)
@@ -87,8 +91,9 @@ Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
 </div>
 </div>
 <br>
+---
 <p style="color: #0e75b6;"> *Stellt sich nun die Frage: Wie kommt das ganze in meinen Kurs/mein Seminar/meinen virtuellen Klassenraum?* </p>
-
+---
 
 ## H5P als integrierte Ansicht (z.B. in Moodle) - Wie kommt es dahin?
 ![Einführungsbild](Bilder/h5p_2.jpg)
@@ -101,8 +106,9 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
 <iframe src="https://h5p.org/h5p/embed/1514566" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
+---
 <p style="color: #0e75b6;"> *Klingt für einzelne Materialien total spannend, aber die Anwendung für das große Ganze ist noch unklar? Das ändert sich jetzt!* </p>
-
+---
 
 ## H5P - Was kann das?
 ![Einführungsbild](Bilder/H5P-WasKannDas.jpg)
