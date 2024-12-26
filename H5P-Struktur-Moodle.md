@@ -165,7 +165,7 @@ Eine klare Struktur hilft, Orientierung zu schaffen und den Lernweg sinnvoll zu 
 
 > *Mit ***Image Hotspots*** lässt sich ein Überblick über einen Kurs verschaffen (so auch in diesem Kurs). Ein weiteres gelungenes Beispiel (mit Leseempfehlung) ist [Lernlandkarte didaktischer Themenfelder](https://www.edulabs.uni-koeln.de/ilias.php?ref_id=11069&cmdClass=ilrepositorygui&cmdNode=xi&baseClass=ilRepositoryGUI). Es ist auch möglich, eine komplette [Kursstruktur als Inhaltsverzeichnis](https://h5p.org/node/1514750) abzubilden, die als wachsende Struktur auch im Semester eingesetzt werden kann.*
 
-> *Der Inhaltstyp ***[Accordion][https://h5p.org/accordion]*** ermöglicht es, Inhalte ein- und auszuklappen. Das kann genutzt werden, um ausführliche Erläuterungen zu Begriffen, Konzeptnamen oder Thesen zu hinterlegen, den Scrollweg aber abzukürzen. oder aber auch zum Hinterlegen von Musterlösungen hinter Fragen, die Lernende zunächst im Self-Assessment beantworten können.*
+> *Der Inhaltstyp ***[Accordion](https://h5p.org/accordion)*** ermöglicht es, Inhalte ein- und auszuklappen. Das kann genutzt werden, um ausführliche Erläuterungen zu Begriffen, Konzeptnamen oder Thesen zu hinterlegen, den Scrollweg aber abzukürzen. oder aber auch zum Hinterlegen von Musterlösungen hinter Fragen, die Lernende zunächst im Self-Assessment beantworten können.*
 
 > *Die ***Course-Presentation*** erlaubt es in die horizontale Navigation zu wechseln – für [komplexere Themenblöcke](https://h5pstudio.ecampusontario.ca/content/47195), der [Organisation von Kleingruppen](https://apps.zum.de/apps/33428) oder auch nur als [Paket aufeinander aufbauender Aufgaben](https://apps.zum.de/apps/37161).*
 
