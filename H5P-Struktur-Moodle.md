@@ -94,6 +94,7 @@ Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
 </div>
 </div>
 <br>
+
 ---
 <p style="color: #0e75b6;"> *Stellt sich nun die Frage: Wie kommt das ganze in meinen Kurs/mein Seminar/meinen virtuellen Klassenraum?* </p>
 
