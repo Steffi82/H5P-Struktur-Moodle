@@ -172,6 +172,15 @@ Eine klare Struktur hilft, Orientierung zu schaffen und den Lernweg sinnvoll zu 
 > *Ist nur eine bildliche Darstellung notwendig, empfiehlt sich der* ***[Image-Slider](https://apps.zum.de/apps/29684)***
 
 > *Der Inhaltstyp* ***Dialog-Cards*** *gehört fast schon zu den spielerischen Varianten – per Klick werden Informationskarten umgedreht. In Moodle ein schöner Effekt, der Kurse auflockern kann um [Definitionen oder Kernfakten](https://h5pstudio.ecampusontario.ca/content/65495) hervorzuheben – oder um [(Reflexions-)Fragen](https://h5pstudio.ecampusontario.ca/content/77165)erst später aufzulösen. Der Mehrwert zum Accordion ist hier die Möglichkeit, Bildmaterial einzubinden.*
+
+
+### Self-Assessment ermöglichen – dank vielfältiger Frage- und Aufgabentypen
+
+H5P bietet eine breite Palette von Frage- und Aufgabentypen, die zur Vor- und Nachbereitung von Veranstaltungen oder für die Wissensabfrage in der Selbstlernphase ideal sind. Sie können Inhalte flexibel darstellen und Lernende aktiv einbinden. Dabei eignen sich die verschiedenen Typen nicht nur für klassische Fragen, sondern auch für interaktive, visuelle und kombinierte Aufgaben.
+
+*Achtung: geeignet zur Vor- und Nachbereitung von Veranstaltungen oder Wissensabfrage in der Selbstlernphase - H5P eignet sich nicht für formale Tests!*
+
+![Bild Self Assessment](Bilder/ScreenPPT-SelfAssessment.jpg)
  
 > *Im* ***[Quiz (Question Set)](https://www.twillo.de/edu-sharing/components/render/587d9a6c-9889-440d-ba19-2f16d2d5f23b)*** *sind diverse Fragetypen abgedeckt - über die klassischen [Ja/Nein](https://h5p.org/true-false)*** *,* ***[Single-](https://h5p.org/single-choice-set)*** *und* ***[Multiple-Choice](https://h5p.org/multichoice)*** *Fragen hinaus.*
 
