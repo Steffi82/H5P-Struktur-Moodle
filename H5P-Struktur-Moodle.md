@@ -45,6 +45,8 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 
 > in der Ursprungsfassung, die für Moodle aufbereitet wurde, war die Einführung als [H5P-Inhaltstyp "Dialog-Cards"](https://h5p.org/h5p/embed/1514563) aufbereitet. Für die Umsetzung in Liascript war die Darstellung weniger geeignet. Das zeigt: Es muss nicht alles interaktiv aufbereitet sein - das Nutzererlebnis steht immer im Vordergrund!
 
+<p style="color: #0e75b6;"> *Soviel zum Hintergrund - was lässt sich nun aber damit tun?* </p>
+
 
 ## H5P - Wie geht das?
 ![Einführungsbild](Bilder/H5P-WieGehtDas.jpg)
