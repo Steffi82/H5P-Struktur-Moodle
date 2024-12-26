@@ -35,6 +35,7 @@ Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch prakti
 
 ---
 <p style="color: #0e75b6;"> *Jetzt geht es zunächst mit ein paar grundlegenden Hintergrundinformationen zum kleinen Alleskönner-Tool H5P weiter!* </p>
+
 ---
 
 ## H5P - Was ist das?
