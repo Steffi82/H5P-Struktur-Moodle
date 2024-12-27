@@ -211,6 +211,21 @@ Gamification bindet spielerische Elemente in Lernprozessen ein – für eine hö
  
 > *Last but not least ermöglicht die* ***Virtual Tour (360)*** *die interaktive Erkundung von Orten, zum Beispiel des [Forum Romanums](https://herrmess.de/2020/11/23/h5p-ole-teil-8-virtual-tour-360/) – oder aber (leider noch nicht verlinkbar) das virtuelle Kennenlernen von Hochschul-Laboren. Tipps zur Erstellung gibt es im [Webinar von Oliver Tacke](https://www.oercamp.de/webinare/h5p/h5pvt360/).*
 
+# Abspann
+
+- Einladung zur Reflektion
+
+- Lernziele erreicht?
+- Padlet verlinken!
+- Feedback erwünscht!
+- 
+
+
+
+## Materialpool
+
+
+![Bild Materialien](Bilder/Materialpool.jpg)
 
 
 ## Nachspielzeit - H5P Übungen intensiv ausprobieren---
@@ -219,6 +234,11 @@ Die folgenden drei Übungsszenarien (samt Materialkoffer) zu den interaktiven H5
 
 Hier werden Sie schrittweise durch die Erstellung von H5P-Elementen herangeführt. Das interaktive Buch ermöglicht die Kombination verschiedener H5P-Elemente, ohne dass sie eine LMS-Struktur benötigen.
 
+---
+<p style="color: #0e75b6;"> *Die Übungen sind praxisnah gestaltet und können je nach Komplexität eine Stunde oder mehr in Anspruch nehmen. Besonders wichtig: Wir haben die saubere Angabe von Rechten integriert, da sie im Lehralltag unverzichtbar ist. Wiederholende Eingaben können in der Übung übersprungen werden, doch für den späteren Einsatz lohnt es sich, diese Schritte genau zu kennen. Bleiben Sie dran – die investierte Zeit zahlt sich aus!
+* </p>
+
+---
 
 
 <div style="width: 100%; background-color: #f0f0f0; padding: 15px; border: 1pt solid #00ff00; border-radius: 5px;">
@@ -359,7 +379,7 @@ Die bebilderte <a href="Link zur Anleitung">Anleitung</a> führt Sie per textlic
 
 ---   
     
-## weitereführende Links und Infos
+## weiterführende Links und Infos
 
 **Das Skript zum Kurs mit allen Infos** Link (zu groß für Github)
 *In der Powerpoint-Datei gibt es die "extended Version" zum Mitlesen in den Foliennotizen.
