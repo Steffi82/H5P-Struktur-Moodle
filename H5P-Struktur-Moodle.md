@@ -73,7 +73,7 @@ Keine Sorge: Falls Du spontan kein eigenes Material zur Verfügung hast, gibt es
 <p> **Du möchtest H5P am liebsten sofort jetzt sofort ausprobieren? Na dann los! In ca. 10 min. erstellst Du Dein erstes interaktives Element!** </p>
 
 <p>
-Die [Anleitung und die Daten zum Micro-Learing gibt es hier](Link):
+Die [Anleitung und die Daten zum Micro-Learning gibt es hier](Link):
 
     Öffne die Webseite [Einstieg H5P](https://einstiegh5p.de/) 
     ... dann gehts los!
@@ -178,7 +178,7 @@ Eine klare Struktur hilft, Orientierung zu schaffen und den Lernweg sinnvoll zu 
 > *Der Inhaltstyp* ***Dialog-Cards*** *gehört fast schon zu den spielerischen Varianten – per Klick werden Informationskarten umgedreht. In Moodle ein schöner Effekt, der Kurse auflockern kann um [Definitionen oder Kernfakten](https://h5pstudio.ecampusontario.ca/content/65495) hervorzuheben – oder um [(Reflexions-)Fragen](https://h5pstudio.ecampusontario.ca/content/77165)erst später aufzulösen. Der Mehrwert zum Accordion ist hier die Möglichkeit, Bildmaterial einzubinden.*
 
 
-### Self-Assessment ermöglichen – dank vielfältiger Frage- und Aufgabentypen
+### Self-Assessment
 
 H5P bietet eine breite Palette von Frage- und Aufgabentypen, die zur Vor- und Nachbereitung von Veranstaltungen oder für die Wissensabfrage in der Selbstlernphase ideal sind. Sie können Inhalte flexibel darstellen und Lernende aktiv einbinden. Dabei eignen sich die verschiedenen Typen nicht nur für klassische Fragen, sondern auch für interaktive, visuelle und kombinierte Aufgaben.
 
