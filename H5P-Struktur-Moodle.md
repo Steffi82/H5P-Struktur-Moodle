@@ -134,7 +134,7 @@ Um es auf der Kursebene als interaktiver Inhalt sicht- und klickbar zu machen, s
 
 * !! Wichtig!! H5P ist kein Tool für formale Tests !!  
 
-<p> style="color: #0e75b6;"> **Gamification** </p>
+<p style="color: #0e75b6;"> **Gamification** </p>
 
 * Lernende durch spielerische Akzente in der Wissensaufbereitung und -vertiefung motivieren
 
