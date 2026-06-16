@@ -13,7 +13,7 @@ window.h5p_resize = true;
 
 # Herzlich Willkommen!
 
-![Einführungsbild](https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/Bilder/h5p.Kachel.jpg)
+![Einführungsbild](https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/Bilder/H5P_IntroBanner_1200x94.png)
 
 <style>
 .h5p-banner {
