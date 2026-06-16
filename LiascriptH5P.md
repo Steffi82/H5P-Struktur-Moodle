@@ -259,10 +259,6 @@ Gamification bindet spielerische Elemente in Lernprozessen ein – für eine hö
 - Padlet verlinken!
 - Feedback erwünscht!
 
-## Materialpool - in Zeiten von Generativer Künstlicher Intelligenz
-
-![Bild Materialien](https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/Bilder/Materialpool.jpg)
-
 
 ## Materialpool - in Zeiten von GenKI
 
@@ -281,10 +277,6 @@ Daher zunächst zentral:
 **🔍 OERSI**
 Übergreifende Suchmaschine für OER aus deutschen Hochschulportalen - der zentrale Einstiegspunkt für die Suche.
 [oersi.org](https://oersi.org/)
-
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
 
 </div>
 
@@ -333,7 +325,7 @@ Wer kein passendes Material findet, kann Bilder, Grafiken und Illustrationen heu
 Großzügiges kostenfreies Kontingent in der Gemini-App, stark bei Text-im-Bild und Fotorealismus.
 [gemini.google.com](https://gemini.google.com/)
 
-🟢 **Lizenz:** Auch im kostenfreien Tarif zur kommerziellen Nutzung freigegeben, keine Eigentumsansprüche von Google am Output. Bilder tragen ein sichtbares Wasserzeichen plus unsichtbare SynthID-Kennzeichnung - für OER unproblematisch, da Kennzeichnung als KI-generiert ohnehin sinnvoll ist.
+> 🟢 **Lizenz:** Auch im kostenfreien Tarif zur kommerziellen Nutzung freigegeben, keine Eigentumsansprüche von Google am Output. Bilder tragen ein sichtbares Wasserzeichen plus unsichtbare SynthID-Kennzeichnung - für OER unproblematisch, da Kennzeichnung als KI-generiert ohnehin sinnvoll ist.
 
 </div>
 
@@ -343,7 +335,7 @@ Großzügiges kostenfreies Kontingent in der Gemini-App, stark bei Text-im-Bild 
 Kostenfreier Zugriff auf aktuelle Bildgenerierung, ca. 2-3 Generierungen pro Tag, ganz ohne Konto direkt ausprobierbar.
 [chatgpt.com](https://chatgpt.com/)
 
-🟢 **Lizenz:** OpenAI überträgt die vollen Rechte am Output an die nutzende Person - auch im kostenfreien Tarif, auch zur kommerziellen Nutzung. Einzige Einschränkung: Im Free-Tarif können Eingaben/Ausgaben zum Modelltraining verwendet werden, sofern nicht aktiv widersprochen wird.
+> 🟢 **Lizenz:** OpenAI überträgt die vollen Rechte am Output an die nutzende Person - auch im kostenfreien Tarif, auch zur kommerziellen Nutzung. Einzige Einschränkung: Im Free-Tarif können Eingaben/Ausgaben zum Modelltraining verwendet werden, sofern nicht aktiv widersprochen wird.
 
 </div>
 
@@ -353,7 +345,7 @@ Kostenfreier Zugriff auf aktuelle Bildgenerierung, ca. 2-3 Generierungen pro Tag
 Großes Kontingent an täglichen Bildern im Free-Tarif, inklusive verschiedener Modelle.
 [playground.com](https://playground.com/)
 
-🟡 **Lizenz:** Laut allgemeinen Nutzungsbedingungen gehören erstellte Inhalte grundsätzlich der nutzenden Person - in der Praxis wird die **kommerzielle Lizenz aber nur den zahlenden Tarifen** zugeordnet, der Free-Tarif ist für rein private/persönliche Nutzung vorgesehen. Für eine spätere CC-Lizensierung als OER daher nicht ohne Weiteres geeignet.
+> 🟡 **Lizenz:** Laut allgemeinen Nutzungsbedingungen gehören erstellte Inhalte grundsätzlich der nutzenden Person - in der Praxis wird die **kommerzielle Lizenz aber nur den zahlenden Tarifen** zugeordnet, der Free-Tarif ist für rein private/persönliche Nutzung vorgesehen. Für eine spätere CC-Lizensierung als OER daher nicht ohne Weiteres geeignet.
 
 </div>
 
@@ -363,7 +355,7 @@ Großes Kontingent an täglichen Bildern im Free-Tarif, inklusive verschiedener 
 Einziges gängiges Tool mit echter, editierbarer Vektor-Generierung (SVG) - ideal für Icons und Illustrationen.
 [recraft.ai](https://www.recraft.ai/)
 
-🔴 **Lizenz:** Im Free-Tarif **bleiben die Bilder Eigentum von Recraft**, werden öffentlich in der Community-Galerie gezeigt, und eine kommerzielle Nutzung ist ausdrücklich ausgeschlossen. Für OER-Material ist hier zwingend ein kostenpflichtiger Tarif nötig.
+> 🔴 **Lizenz:** Im Free-Tarif **bleiben die Bilder Eigentum von Recraft**, werden öffentlich in der Community-Galerie gezeigt, und eine kommerzielle Nutzung ist ausdrücklich ausgeschlossen. Für OER-Material ist hier zwingend ein kostenpflichtiger Tarif nötig.
 
 </div>
 
@@ -378,7 +370,7 @@ Einziges gängiges Tool mit echter, editierbarer Vektor-Generierung (SVG) - idea
 Erzeugt vollständige Songs samt Gesang aus Text-Prompts oder eigenen Lyrics, ca. 50 Credits/Tag im Free-Tarif.
 [suno.com](https://suno.com/)
 
-🔴 **Lizenz:** Seit der Warner-Music-Einigung (Ende 2025) gilt im Free-Tarif ausdrücklich **nur private, nicht-kommerzielle Nutzung** - kein Hochladen auf Streaming-Plattformen, kein monetarisiertes YouTube-Video. Für OER-Veröffentlichung ungeeignet, auch ein späteres Upgrade macht bereits erstellte Free-Songs nicht nachträglich kommerziell nutzbar.
+> 🔴 **Lizenz:** Seit der Warner-Music-Einigung (Ende 2025) gilt im Free-Tarif ausdrücklich **nur private, nicht-kommerzielle Nutzung** - kein Hochladen auf Streaming-Plattformen, kein monetarisiertes YouTube-Video. Für OER-Veröffentlichung ungeeignet, auch ein späteres Upgrade macht bereits erstellte Free-Songs nicht nachträglich kommerziell nutzbar.
 
 </div>
 
@@ -388,7 +380,7 @@ Erzeugt vollständige Songs samt Gesang aus Text-Prompts oder eigenen Lyrics, ca
 Text-zu-Musik mit Fokus auf saubere Lizenzlage, auch im kostenfreien Kontingent nutzbar.
 [elevenlabs.io](https://elevenlabs.io/music)
 
-🟡 **Lizenz:** Gilt in aktuellen Vergleichstests als eine der rechtssicheren Optionen für kommerzielle Nutzung - die genauen Bedingungen für den Free-Tarif vor Verwendung im jeweiligen Konto direkt prüfen, da sich Musik-KI-Anbieter 2026 sehr schnell ändern.
+> 🟡 **Lizenz:** Gilt in aktuellen Vergleichstests als eine der rechtssicheren Optionen für kommerzielle Nutzung - die genauen Bedingungen für den Free-Tarif vor Verwendung im jeweiligen Konto direkt prüfen, da sich Musik-KI-Anbieter 2026 sehr schnell ändern.
 
 </div>
 
@@ -398,7 +390,7 @@ Text-zu-Musik mit Fokus auf saubere Lizenzlage, auch im kostenfreien Kontingent 
 Bild-zu-Video-Generator mit vergleichsweise großzügigem Freemium-Kontingent (Credits, monatlich statt täglich aufgefüllt).
 [klingai.com](https://klingai.com/)
 
-🟡 **Lizenz:** Kostenfreie Videos sind in der Regel wasserzeichenpflichtig; für OER-Zwecke vor Veröffentlichung prüfen, ob das Wasserzeichen entfernt werden darf bzw. ob es störungsfrei im Kontext bleibt.
+> 🟡 **Lizenz:** Kostenfreie Videos sind in der Regel wasserzeichenpflichtig; für OER-Zwecke vor Veröffentlichung prüfen, ob das Wasserzeichen entfernt werden darf bzw. ob es störungsfrei im Kontext bleibt.
 
 </div>
 
@@ -408,7 +400,7 @@ Bild-zu-Video-Generator mit vergleichsweise großzügigem Freemium-Kontingent (C
 Browserbasierter Editor mit KI-Funktionen (Untertitel, Schnitt, einfache Generierung); HD-Export ohne Wasserzeichen im Free-Tarif möglich.
 [kapwing.com](https://www.kapwing.com/)
 
-🟢 **Lizenz:** Gilt in aktuellen Tests als eines der Tools, bei denen der kostenfreie Export tatsächlich ohne Wasserzeichen und ohne versteckte Beschränkung funktioniert - praktisch für kurze Erklär- oder Lehrvideos.
+> 🟢 **Lizenz:** Gilt in aktuellen Tests als eines der Tools, bei denen der kostenfreie Export tatsächlich ohne Wasserzeichen und ohne versteckte Beschränkung funktioniert - praktisch für kurze Erklär- oder Lehrvideos.
 
 </div>
 
@@ -416,9 +408,6 @@ Browserbasierter Editor mit KI-Funktionen (Untertitel, Schnitt, einfache Generie
 
 </div>
 
-Nein, die hatten wir noch nicht – bisher nur Bild/Grafik/Video-Datenbanken (OERSI, ORCA.nrw, twillo, OER@vhb, ZOERR, TIB AV-Portal) und jetzt die GenKI-Tools. Eine eigene Karte für gemeinfreie Musik fehlt noch. Lass mich kurz recherchieren, was sich dafür eignet.Gefunden – und interessant: das ist tatsächlich die OMA-Verbindung, nach der du vorhin gefragt hattest. **openmusic.academy** ist die korrekte aktuelle URL (nicht oer.vhb.org für Musik) – ein Public-Domain-Musik-Projekt der Münchner Musikhochschule. Hier der ergänzte Block für die Musikdatenbanken, zusätzlich zu den GenKI-Tools von vorhin:
-
-```markdown
 ### 🎼 Gemeinfreie und CC-lizenzierte Musikdatenbanken
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
@@ -462,6 +451,7 @@ Umfangreiche Sammlung GEMA-freier, CC-lizenzierter Musikstücke (Kevin MacLeod) 
 > ⚖️ **Zur Rechtslage allgemein:** Vollständig KI-generierte Werke sind urheberrechtlich gemeinfrei - es gibt schlicht keine menschliche Schöpfungshöhe, der man Rechte einräumen könnte. Eine eigene CC-Lizenz für solche Inhalte ist daher nicht nötig und nach gängiger Einschätzung von OER-Stellen auch nicht sinnvoll, vgl. [OER-Info - OER und KI: Wie passen sie zusammen?](https://open-educational-resources.de/ki-und-oer/). Die eigentliche Hürde liegt woanders: in den **vertraglichen Nutzungsbedingungen des jeweiligen Anbieters** (siehe oben je Tool) sowie - ab dem 2. August 2026 verbindlich - in der **Kennzeichnungspflicht für KI-Inhalte** nach [Art. 50 der EU-KI-Verordnung (AI Act)]([https://open-educational-resources.de/ki-und-oer](https://artificialintelligenceact.eu/de/article/50/). Wer KI-generierte Bilder veröffentlicht, sollte sie also klar als KI-generiert markieren und das verwendete Tool nennen - das ersetzt keine CC-Lizenz, schafft aber Transparenz.
 >
 > 🧑‍⚖️ **Bei konkreter Unsicherheit:** Lehrende in NRW können sich mit individuellen Rechtsfragen (Urheberrecht, KI, Datenschutz) direkt an die [Rechtsinformationsstelle ORCA.nrw](https://www.orca.nrw/oer/oer-erstellen/rechtsinformation/) wenden - per E-Mail oder in der quartalsweisen offenen Online-Sprechstunde. Das Angebot richtet sich an Lehrende und Hochschulmitarbeitende der DH.NRW-Hochschulen und deckt auch Fragen rund um GenKI-Nutzung in der Lehre ab.
+
 
 ## Nachspielzeit - H5P-Übungen intensiv ausprobieren
 
