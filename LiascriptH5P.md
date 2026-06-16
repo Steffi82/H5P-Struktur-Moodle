@@ -259,11 +259,130 @@ Gamification bindet spielerische Elemente in Lernprozessen ein – für eine hö
 - Padlet verlinken!
 - Feedback erwünscht!
 
-## Materialpool
+## Materialpool - in Zeiten von Generativer Künstlicher Intelligenz
 
 ![Bild Materialien](https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/Bilder/Materialpool.jpg)
 
-<!-- TODO: Verweise auf OERSI, Landesportale, ORCA.nrw-Materialpool ergänzen -->
+
+## Materialpool - in Zeiten von GenKI
+
+![Bild Materialien](https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/Bilder/Materialpool.jpg)
+
+Für die Erstellung von H5P-Inhalten brauchst Du in der Regel zwei Dinge: fertiges, offen lizenziertes Material **oder** die Möglichkeit, eigene multimediale Elemente direkt zu generieren. Beides hat seinen Platz - und beides schließt sich nicht aus.
+
+### 📚 Freie Datenbanken für Bilder, Grafiken, Audio und Video
+Hier gibt es eine Vielzahl von Respositorien und Sammlungen, die teils miteinander vernetzt sind und stetig wachsen. 
+Daher zunächst zentral:
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**🔍 OERSI**
+Übergreifende Suchmaschine für OER aus deutschen Hochschulportalen - der zentrale Einstiegspunkt für die Suche.
+[oersi.org](https://oersi.org/)
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+... zudem der Hinweis auf kuratierte und speziell fachlich unterschiedene Sammlungen, die auch auf die jeweiligen Landesrepositorien verweisen:
+
+**🏛️ Uni Köln - OER finden und nutzen**
+Übersichtsseite mit kuratierten Quellen, Lizenzhinweisen und Webtalk-Aufzeichnungen zu OER.
+[uni-koeln.de](https://www.uni-koeln.de/studium-lehre/lehrende/lehransaetze-zum-bildungsverstaendnis/digital-education/offene-bildungsmaterialien/oer-finden-und-nutzen)
+
+</div>
+
+**🎓 HHU Düsseldorf - OER finden**
+Sammlung an Fundorten für OER, sortiert nach Fachbereichen - inklusive Methodenpools und Spezialressourcen.
+[elearning.hhu.de](https://www.elearning.hhu.de/oer-an-der-hhu/oer-finden)
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**🎵 Open Music Academy (OMA)**
+Lehr- und Lernplattform der Hochschule für Musik und Theater München für OER speziell im Fach Musik.
+[Openmusic.academy](https://openmusic.academy/)
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**🏷️ ZOERR**
+Zentrales OER-Repositorium der Hochschulen in Baden-Württemberg.
+[zoerr.de](https://www.zoerr.de/)
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**🎬 TIB AV-Portal**
+Portal der Technischen Informationsbibliothek Hannover zum Hochladen und Bereitstellen offen lizenzierter Lehrvideos.
+[av.tib.eu](https://av.tib.eu/)
+
+</div>
+
+</div>
+
+### 🤖 Eigenes Material generieren mit GenKI
+
+Wer kein passendes Material findet, kann Bilder, Grafiken und Illustrationen heute auch direkt selbst erzeugen. "Kostenfrei" bedeutet bei GenKI-Bildtools aber nicht automatisch "frei nutzbar" - der Preis für die kostenfreie Generierung liegt oft genau in den Nutzungsrechten. Die Angaben unten beziehen sich auf den jeweiligen kostenfreien Tarif (Stand: Juni 2026).
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**🍌 Gemini (Nano Banana)**
+Großzügiges kostenfreies Kontingent in der Gemini-App, stark bei Text-im-Bild und Fotorealismus.
+[gemini.google.com](https://gemini.google.com/)
+
+🟢 **Lizenz:** Auch im kostenfreien Tarif zur kommerziellen Nutzung freigegeben, keine Eigentumsansprüche von Google am Output. Bilder tragen ein sichtbares Wasserzeichen plus unsichtbare SynthID-Kennzeichnung - für OER unproblematisch, da Kennzeichnung als KI-generiert ohnehin sinnvoll ist.
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**💬 ChatGPT (Bildgenerierung)**
+Kostenfreier Zugriff auf aktuelle Bildgenerierung, ca. 2-3 Generierungen pro Tag, ganz ohne Konto direkt ausprobierbar.
+[chatgpt.com](https://chatgpt.com/)
+
+🟢 **Lizenz:** OpenAI überträgt die vollen Rechte am Output an die nutzende Person - auch im kostenfreien Tarif, auch zur kommerziellen Nutzung. Einzige Einschränkung: Im Free-Tarif können Eingaben/Ausgaben zum Modelltraining verwendet werden, sofern nicht aktiv widersprochen wird.
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**🎨 Playground**
+Großes Kontingent an täglichen Bildern im Free-Tarif, inklusive verschiedener Modelle.
+[playground.com](https://playground.com/)
+
+🟡 **Lizenz:** Laut allgemeinen Nutzungsbedingungen gehören erstellte Inhalte grundsätzlich der nutzenden Person - in der Praxis wird die **kommerzielle Lizenz aber nur den zahlenden Tarifen** zugeordnet, der Free-Tarif ist für rein private/persönliche Nutzung vorgesehen. Für eine spätere CC-Lizensierung als OER daher nicht ohne Weiteres geeignet.
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**✏️ Recraft**
+Einziges gängiges Tool mit echter, editierbarer Vektor-Generierung (SVG) - ideal für Icons und Illustrationen.
+[recraft.ai](https://www.recraft.ai/)
+
+🔴 **Lizenz:** Im Free-Tarif **bleiben die Bilder Eigentum von Recraft**, werden öffentlich in der Community-Galerie gezeigt, und eine kommerzielle Nutzung ist ausdrücklich ausgeschlossen. Für OER-Material ist hier zwingend ein kostenpflichtiger Tarif nötig.
+
+</div>
+
+</div>
+
+> ⚖️ **Zur Rechtslage allgemein:** Vollständig KI-generierte Werke sind urheberrechtlich gemeinfrei - es gibt schlicht keine menschliche Schöpfungshöhe, der man Rechte einräumen könnte. Eine eigene CC-Lizenz für solche Inhalte ist daher nicht nötig und nach gängiger Einschätzung von OER-Stellen auch nicht sinnvoll, vgl. [RUB DH Day - OER und KI: Wie passen sie zusammen?](https://www.dhday.ruhr-uni-bochum.de/poster_202dcd06.html). Die eigentliche Hürde liegt woanders: in den **vertraglichen Nutzungsbedingungen des jeweiligen Anbieters** (siehe oben je Tool) sowie - ab dem 2. August 2026 verbindlich - in der **Kennzeichnungspflicht für KI-Inhalte** nach Art. 50 der EU-KI-Verordnung (AI Act). Wer KI-generierte Bilder veröffentlicht, sollte sie also klar als KI-generiert markieren und das verwendete Tool nennen - das ersetzt keine CC-Lizenz, schafft aber Transparenz.
+>
+> 🧑‍⚖️ **Bei konkreter Unsicherheit:** Lehrende in NRW können sich mit individuellen Rechtsfragen (Urheberrecht, KI, Datenschutz) direkt an die [Rechtsinformationsstelle ORCA.nrw](https://www.orca.nrw/oer/oer-erstellen/rechtsinformation/) wenden - per E-Mail oder in der quartalsweisen offenen Online-Sprechstunde. Das Angebot richtet sich an Lehrende und Hochschulmitarbeitende der DH.NRW-Hochschulen und deckt auch Fragen rund um GenKI-Nutzung in der Lehre ab.
+
+<!-- TODO: Verweis auf OERSI-Suchmaske direkt verlinken, ggf. Methodenpool UzK und Methodensammlung HHU ergänzen -->
 
 ## Nachspielzeit - H5P-Übungen intensiv ausprobieren
 
