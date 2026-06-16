@@ -367,7 +367,97 @@ Einziges gängiges Tool mit echter, editierbarer Vektor-Generierung (SVG) - idea
 
 </div>
 
+
+### 🎵 Musik und 🎬 Video generieren
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**🎶 Suno**
+Erzeugt vollständige Songs samt Gesang aus Text-Prompts oder eigenen Lyrics, ca. 50 Credits/Tag im Free-Tarif.
+[suno.com](https://suno.com/)
+
+🔴 **Lizenz:** Seit der Warner-Music-Einigung (Ende 2025) gilt im Free-Tarif ausdrücklich **nur private, nicht-kommerzielle Nutzung** - kein Hochladen auf Streaming-Plattformen, kein monetarisiertes YouTube-Video. Für OER-Veröffentlichung ungeeignet, auch ein späteres Upgrade macht bereits erstellte Free-Songs nicht nachträglich kommerziell nutzbar.
+
 </div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**🎹 ElevenLabs Music**
+Text-zu-Musik mit Fokus auf saubere Lizenzlage, auch im kostenfreien Kontingent nutzbar.
+[elevenlabs.io](https://elevenlabs.io/music)
+
+🟡 **Lizenz:** Gilt in aktuellen Vergleichstests als eine der rechtssicheren Optionen für kommerzielle Nutzung - die genauen Bedingungen für den Free-Tarif vor Verwendung im jeweiligen Konto direkt prüfen, da sich Musik-KI-Anbieter 2026 sehr schnell ändern.
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**🎬 Kling AI**
+Bild-zu-Video-Generator mit vergleichsweise großzügigem Freemium-Kontingent (Credits, monatlich statt täglich aufgefüllt).
+[klingai.com](https://klingai.com/)
+
+🟡 **Lizenz:** Kostenfreie Videos sind in der Regel wasserzeichenpflichtig; für OER-Zwecke vor Veröffentlichung prüfen, ob das Wasserzeichen entfernt werden darf bzw. ob es störungsfrei im Kontext bleibt.
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**🎞️ Kapwing**
+Browserbasierter Editor mit KI-Funktionen (Untertitel, Schnitt, einfache Generierung); HD-Export ohne Wasserzeichen im Free-Tarif möglich.
+[kapwing.com](https://www.kapwing.com/)
+
+🟢 **Lizenz:** Gilt in aktuellen Tests als eines der Tools, bei denen der kostenfreie Export tatsächlich ohne Wasserzeichen und ohne versteckte Beschränkung funktioniert - praktisch für kurze Erklär- oder Lehrvideos.
+
+</div>
+
+> 🎧 **Hinweis zu Musik/Video-KI:** Die Rechtslage bei KI-generierter Musik ist 2026 deutlich angespannter als bei Bildern, da große Plattenlabels (Warner, Universal, Sony) gegen mehrere Anbieter geklagt haben bzw. inzwischen Lizenzabkommen geschlossen haben. Das führt dazu, dass viele Anbieter ihre Free-Tarife rückwirkend auf "nicht-kommerziell" beschränkt haben. Für OER-Veröffentlichung ist daher bei Musik-Tools besondere Vorsicht angebracht - im Zweifel den kostenpflichtigen Tarif nutzen oder ganz auf gemeinfreie Musikdatenbanken zurückgreifen:
+
+</div>
+
+Nein, die hatten wir noch nicht – bisher nur Bild/Grafik/Video-Datenbanken (OERSI, ORCA.nrw, twillo, OER@vhb, ZOERR, TIB AV-Portal) und jetzt die GenKI-Tools. Eine eigene Karte für gemeinfreie Musik fehlt noch. Lass mich kurz recherchieren, was sich dafür eignet.Gefunden – und interessant: das ist tatsächlich die OMA-Verbindung, nach der du vorhin gefragt hattest. **openmusic.academy** ist die korrekte aktuelle URL (nicht oer.vhb.org für Musik) – ein Public-Domain-Musik-Projekt der Münchner Musikhochschule. Hier der ergänzte Block für die Musikdatenbanken, zusätzlich zu den GenKI-Tools von vorhin:
+
+```markdown
+### 🎼 Gemeinfreie und CC-lizenzierte Musikdatenbanken
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**🎻 Musopen**
+Gemeinnützige Organisation mit Aufnahmen, Notenblättern und Lehrmaterial klassischer Musik, deren Urheberrechte erloschen sind (Bach, Beethoven, Mozart u.a.). Kostenfreies Konto: 5 Downloads/Tag.
+[musopen.org](https://musopen.org/)
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**🎵 Open Music Academy - Public Domain Musik**
+Projekt der Hochschule für Musik und Theater München in Kooperation mit der Bayerischen Staatsbibliothek; gemeinfreie Musik zum kostenfreien Download, explizit auch für pädagogische Zwecke.
+[openmusic.academy](https://openmusic.academy/docs/ffFZaRznQdyoYVVPUEZR2b/public-domain-musik)
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**🎚️ Jamendo**
+Plattform, auf der Musikschaffende ihre Werke legal und kostenfrei unter verschiedenen CC-Lizenzen bereitstellen - Lizenz vor Verwendung jeweils einzeln prüfen.
+[jamendo.com](https://www.jamendo.com/)
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
+
+**🎙️ Incompetech**
+Umfangreiche Sammlung GEMA-freier, CC-lizenzierter Musikstücke (Kevin MacLeod) - bei Namensnennung kostenfrei auch kommerziell nutzbar.
+[incompetech.com](https://incompetech.com/)
+
+</div>
+
+</div>
+
+> ⚠️ **GEMA-Hinweis:** In Deutschland gilt die sogenannte GEMA-Vermutung - im Streitfall muss die nutzende Person nachweisen, dass ein Musikstück nicht GEMA-pflichtig ist. Das betrifft vor allem ausländische Anbieter, die "GEMA-frei" behaupten, dies aber nicht vertraglich belegen. Bei den oben genannten Quellen ist die Lizenzlage in der Regel klar dokumentiert; bei weiteren Funden lohnt sich trotzdem immer ein Blick auf die genaue Lizenzangabe vor Veröffentlichung als OER.
 
 > ⚖️ **Zur Rechtslage allgemein:** Vollständig KI-generierte Werke sind urheberrechtlich gemeinfrei - es gibt schlicht keine menschliche Schöpfungshöhe, der man Rechte einräumen könnte. Eine eigene CC-Lizenz für solche Inhalte ist daher nicht nötig und nach gängiger Einschätzung von OER-Stellen auch nicht sinnvoll, vgl. [OER-Info - OER und KI: Wie passen sie zusammen?](https://open-educational-resources.de/ki-und-oer/). Die eigentliche Hürde liegt woanders: in den **vertraglichen Nutzungsbedingungen des jeweiligen Anbieters** (siehe oben je Tool) sowie - ab dem 2. August 2026 verbindlich - in der **Kennzeichnungspflicht für KI-Inhalte** nach [Art. 50 der EU-KI-Verordnung (AI Act)]([https://open-educational-resources.de/ki-und-oer](https://artificialintelligenceact.eu/de/article/50/). Wer KI-generierte Bilder veröffentlicht, sollte sie also klar als KI-generiert markieren und das verwendete Tool nennen - das ersetzt keine CC-Lizenz, schafft aber Transparenz.
 >
