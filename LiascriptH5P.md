@@ -310,15 +310,6 @@ Sammlung an Fundorten für OER, sortiert nach Fachbereichen - inklusive Methoden
 Lehr- und Lernplattform der Hochschule für Musik und Theater München für OER speziell im Fach Musik.
 [Openmusic.academy](https://openmusic.academy/)
 
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
-
-**🏷️ ZOERR**
-Zentrales OER-Repositorium der Hochschulen in Baden-Württemberg.
-[zoerr.de](https://www.zoerr.de/)
-
-</div>
 
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px;">
 
@@ -378,11 +369,9 @@ Einziges gängiges Tool mit echter, editierbarer Vektor-Generierung (SVG) - idea
 
 </div>
 
-> ⚖️ **Zur Rechtslage allgemein:** Vollständig KI-generierte Werke sind urheberrechtlich gemeinfrei - es gibt schlicht keine menschliche Schöpfungshöhe, der man Rechte einräumen könnte. Eine eigene CC-Lizenz für solche Inhalte ist daher nicht nötig und nach gängiger Einschätzung von OER-Stellen auch nicht sinnvoll, vgl. [RUB DH Day - OER und KI: Wie passen sie zusammen?](https://www.dhday.ruhr-uni-bochum.de/poster_202dcd06.html). Die eigentliche Hürde liegt woanders: in den **vertraglichen Nutzungsbedingungen des jeweiligen Anbieters** (siehe oben je Tool) sowie - ab dem 2. August 2026 verbindlich - in der **Kennzeichnungspflicht für KI-Inhalte** nach Art. 50 der EU-KI-Verordnung (AI Act). Wer KI-generierte Bilder veröffentlicht, sollte sie also klar als KI-generiert markieren und das verwendete Tool nennen - das ersetzt keine CC-Lizenz, schafft aber Transparenz.
+> ⚖️ **Zur Rechtslage allgemein:** Vollständig KI-generierte Werke sind urheberrechtlich gemeinfrei - es gibt schlicht keine menschliche Schöpfungshöhe, der man Rechte einräumen könnte. Eine eigene CC-Lizenz für solche Inhalte ist daher nicht nötig und nach gängiger Einschätzung von OER-Stellen auch nicht sinnvoll, vgl. [OER-Info - OER und KI: Wie passen sie zusammen?](https://open-educational-resources.de/ki-und-oer/). Die eigentliche Hürde liegt woanders: in den **vertraglichen Nutzungsbedingungen des jeweiligen Anbieters** (siehe oben je Tool) sowie - ab dem 2. August 2026 verbindlich - in der **Kennzeichnungspflicht für KI-Inhalte** nach [Art. 50 der EU-KI-Verordnung (AI Act)]([https://open-educational-resources.de/ki-und-oer](https://artificialintelligenceact.eu/de/article/50/). Wer KI-generierte Bilder veröffentlicht, sollte sie also klar als KI-generiert markieren und das verwendete Tool nennen - das ersetzt keine CC-Lizenz, schafft aber Transparenz.
 >
 > 🧑‍⚖️ **Bei konkreter Unsicherheit:** Lehrende in NRW können sich mit individuellen Rechtsfragen (Urheberrecht, KI, Datenschutz) direkt an die [Rechtsinformationsstelle ORCA.nrw](https://www.orca.nrw/oer/oer-erstellen/rechtsinformation/) wenden - per E-Mail oder in der quartalsweisen offenen Online-Sprechstunde. Das Angebot richtet sich an Lehrende und Hochschulmitarbeitende der DH.NRW-Hochschulen und deckt auch Fragen rund um GenKI-Nutzung in der Lehre ab.
-
-<!-- TODO: Verweis auf OERSI-Suchmaske direkt verlinken, ggf. Methodenpool UzK und Methodensammlung HHU ergänzen -->
 
 ## Nachspielzeit - H5P-Übungen intensiv ausprobieren
 
