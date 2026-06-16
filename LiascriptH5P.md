@@ -16,19 +16,16 @@ window.h5p_resize = true;
 ![Einführungsbild](https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/Bilder/h5p.Kachel.jpg)
 
 Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch praktische Fähigkeiten zu vermitteln, um eigene interaktive Lernmaterialien erstellen und effektiv und sinnvoll in Lehr-Lern-Szenarien einsetzen zu können.
-
-> **Zielgruppe** | Lehrende, die ein LMS mit H5P-Integration nutzen (z.B. Moodle)
-
-> **Level** | Einsteiger
-
-> **Metadaten** | H5P; Moodle; Lehr-Lern-Einheit; Struktur; interaktiv; virtuelle Lehre; HTML 5; Digitale Lernumgebung;
-
-> **Lernziele**:
-* einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
-* Das Tool H5P in einer Mikro-Übung praktisch kennenlernen
-* Die Einbindungsmöglichkeiten von H5P via iFrame (z.B. in Moodle) kennen und anwenden können
-* Den didaktischen Nutzen des Tools reflektieren und für die eigene Lehre adaptieren können
-* anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können
+> 🎯 **Zielgruppe** | Lehrende, die ein LMS mit H5P-Integration nutzen (z.B. Moodle)
+> 📊 **Level** | Einsteiger
+> 🏷️ **Metadaten** | H5P; Moodle; Lehr-Lern-Einheit; Struktur; interaktiv; virtuelle Lehre; HTML 5; Digitale Lernumgebung
+>
+> ✅ **Lernziele**:
+> * einen grundlegenden Überblick über das Tool H5P gewinnen und seine Funktionsweise verstehen
+> * Das Tool H5P in einer Mikro-Übung praktisch kennenlernen
+> * Die Einbindungsmöglichkeiten von H5P via iFrame (z.B. in Moodle) kennen und anwenden können
+> * Den didaktischen Nutzen des Tools reflektieren und für die eigene Lehre adaptieren können
+> * anhand weiterer bereitgestellter Übungen die Bedienung tiefer nachvollziehen und für die eigene Lehre nutzen können
 
 ---
 
