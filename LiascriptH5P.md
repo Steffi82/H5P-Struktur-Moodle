@@ -15,11 +15,6 @@ window.h5p_resize = true;
 
 ![Einführungsbild](https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/Bilder/H5P_IntroBanner_1200x94.png)
 
-<div class="h5p-banner">
-  <img src="https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/Bilder/H5P_IntroBanner01_475x94.png" alt="Impulse für Einsteiger zu...">
-  <img class="logo" src="https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/Bilder/H5P_IntroBanner02_271x94.png" alt="H5P">
-  <img src="https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/Bilder/H5P_IntroBanner03_454x94.png" alt="...das kleine Alleskönner-Tool">
-</div>
 
 Dieser Kurs ist darauf ausgerichtet, sowohl theoretisches Wissen als auch praktische Fähigkeiten zu vermitteln, um eigene interaktive Lernmaterialien erstellen und effektiv und sinnvoll in Lehr-Lern-Szenarien einsetzen zu können.
 > 🎯 **Zielgruppe** | Lehrende, die ein LMS mit H5P-Integration nutzen (z.B. Moodle)
