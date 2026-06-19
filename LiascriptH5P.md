@@ -15,24 +15,6 @@ window.h5p_resize = true;
 
 ![Einführungsbild](https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/Bilder/H5P_IntroBanner_1200x94.png)
 
-<style>
-.h5p-banner {
-  display: grid;
-  grid-template-columns: 1fr auto 1fr;
-  align-items: center;
-  gap: 15px;
-}
-.h5p-banner img { width: 100%; height: auto; }
-.h5p-banner .logo { max-width: 271px; margin: 0 auto; }
-
-@media (max-width: 600px) {
-  .h5p-banner {
-    grid-template-columns: 1fr;
-  }
-  .h5p-banner .logo { max-width: 100%; }
-}
-</style>
-
 <div class="h5p-banner">
   <img src="https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/Bilder/H5P_IntroBanner01_475x94.png" alt="Impulse für Einsteiger zu...">
   <img class="logo" src="https://raw.githubusercontent.com/Steffi82/H5P-Struktur-Moodle/main/Bilder/H5P_IntroBanner02_271x94.png" alt="H5P">
